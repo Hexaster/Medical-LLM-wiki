@@ -11,8 +11,8 @@
 ## Concepts
 
 - [[clinical-workflow-in-high-threat-care]] — Workflow constraints for emergency care in active-threat, hazardous, or otherwise unsafe operating environments.
-- [[ems-zones-of-care]] — Hot, Warm, and Cold zone model for EMS care during high-risk incidents and its implications for clinical AI workflow design.
-- [[mass-casualty-triage]] — Triage and patient-routing considerations for mass casualty incidents, with notes on clinical AI design constraints.
+- [[ems-zones-of-care]] — Hot, Warm, and Cold zone model for EMS care during high-risk incidents.
+- [[mass-casualty-triage]] — Triage and patient-routing considerations for mass casualty incidents.
 
 ## Comparisons
 

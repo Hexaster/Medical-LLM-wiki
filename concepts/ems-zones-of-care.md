@@ -3,16 +3,16 @@ title: EMS Zones of Care
 created: 2026-05-26
 updated: 2026-05-26
 type: concept
-tags: [clinical-workflow, triage, safety, human-factors, evidence]
+tags: [clinical-workflow, triage, prehospital-care, mass-casualty-care, safety, human-factors, evidence]
 sources: [raw/articles/ems-zones-of-care-statpearls-2025.md]
 confidence: medium
-clinical_evidence: none
-regulatory_status: unknown
+clinical_evidence: educational
+regulatory_status: not-applicable
 ---
 
 # EMS Zones of Care
 
-EMS zones of care divide high-risk prehospital incidents into Hot, Warm, and Cold zones based on threat exposure and available medical capability. The zones guide what responders should do, what equipment they should carry, and when casualties should move toward safer treatment and transport areas. In medical LLM and clinical AI contexts, the concept is relevant to [[clinical-workflow-in-high-threat-care]] and [[mass-casualty-triage]] because AI-supported tools must respect incident-command boundaries, safety constraints, and the limited information available in each operational zone.
+EMS zones of care divide high-risk prehospital incidents into Hot, Warm, and Cold zones based on threat exposure and available medical capability. The zones guide what responders should do, what equipment they should carry, and when casualties should move toward safer treatment and transport areas. The model is closely related to [[clinical-workflow-in-high-threat-care]] and [[mass-casualty-triage]] because both depend on matching care activities to scene safety, responder access, available equipment, and incident-command structure.
 
 ## Zone model
 
@@ -20,20 +20,20 @@ EMS zones of care divide high-risk prehospital incidents into Hot, Warm, and Col
 - Warm Zone: a lower but still active-risk area where rescue task forces or tactical EMS can perform time-critical interventions. Care centers on the MARCH sequence: massive hemorrhage, airway, respiration, circulation, and hypothermia/head injury.
 - Cold Zone: the comparatively secure treatment and evacuation area where formal triage, reassessment, standard EMS protocols, patient tracking, and transport coordination occur.
 
-## Relevance to medical LLMs and clinical AI
+## Operational significance
 
-The source is not about LLMs directly. Its value for this wiki is as a clinical-workflow and safety model for emergency-care AI. Any clinical AI system used in EMS, disaster response, or hospital surge coordination would need to account for zone-specific constraints: limited data capture in Hot/Warm zones, rapid handoffs, changing scene safety, deferred non-life-threatening care, and documentation gaps during tactical operations.
+The zone model helps prevent responders from applying ordinary clinical workflows in environments where the scene itself remains dangerous. It separates immediate threat suppression and extraction from time-critical field interventions, then from more complete triage, reassessment, documentation, and transport coordination in safer areas.
 
-Potential AI-relevant design implications include:
+Practical implications include:
 
-- Decision support should avoid recommending interventions that are inappropriate for the current zone of care.
-- Data capture and summarization should be lightweight in Hot/Warm zones and more complete in Cold Zone handoffs.
-- Triage or routing support must distinguish operational safety constraints from purely clinical prioritization.
-- Patient tracking tools must support cross-agency coordination between EMS, fire services, hospitals, and incident command.
+- Interventions should match the current operational zone and available personnel.
+- Hot and Warm Zone care should prioritize rapid life-saving actions and movement toward safer treatment areas.
+- Cold Zone operations can support more formal triage, patient tracking, transport decisions, and handoff documentation.
+- Coordination between EMS, fire services, law enforcement, hospitals, and incident command is often necessary during high-threat incidents.
 
 ## Evidence and limitations
 
-This page is based on a StatPearls educational review updated May 3, 2025. It summarizes accepted EMS and tactical emergency care concepts rather than reporting a prospective evaluation of clinical AI. Treat it as workflow background, not as evidence that an AI system improves outcomes.
+This page is based on a StatPearls educational review updated May 3, 2025. It summarizes accepted EMS and tactical emergency care concepts rather than reporting prospective outcome evidence for a specific protocol. Treat it as workflow background, not as patient-specific clinical guidance.
 
 ## Related pages
 
