@@ -55,3 +55,7 @@ This wiki is for research and engineering synthesis. It is not medical advice, d
 - Preserve raw sources as immutable evidence under `raw/`.
 - Add synthesized pages to `index.md` and append every meaningful action to `log.md`.
 - Use Obsidian-style `[[wikilinks]]` for cross-references.
+
+## Ingest History
+
+- 2026-05-26 15:12 CST — Ingested: EMS Zones of Care (StatPearls/NCBI Bookshelf). Content: EMS Hot/Warm/Cold zones of care and their implications for high-threat clinical workflow, mass casualty triage, and clinical AI safety constraints. Updated: `raw/articles/ems-zones-of-care-statpearls-2025.md`, `concepts/ems-zones-of-care.md`, `concepts/clinical-workflow-in-high-threat-care.md`, `concepts/mass-casualty-triage.md`, `index.md`, `log.md`.
