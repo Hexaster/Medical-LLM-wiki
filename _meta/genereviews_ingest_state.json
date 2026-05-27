@@ -966,6 +966,12 @@
       "title": "CACNA1C -Related Disorders",
       "when": "2026-05-27 16:21 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/x-dcdp/": {
+      "slug": "chondrodysplasia-punctata-2-x-linked",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK55062/",
+      "title": "Chondrodysplasia Punctata 2, X-Linked",
+      "when": "2026-05-27 16:24 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/xlhi/": {
       "slug": "cd40-ligand-deficiency",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1402/",
