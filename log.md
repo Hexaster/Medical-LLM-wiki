@@ -944,3 +944,10 @@
 - Raw extract saved: `raw/articles/genereviews-capillary-malformation-arteriovenous-malformation-syndrome.md`
 - Created/updated entity page: `entities/capillary-malformation-arteriovenous-malformation-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Carbonic Anhydrase VA Deficiency
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK284774/
+- Raw extract saved: `raw/articles/genereviews-carbonic-anhydrase-va-deficiency.md`
+- Created/updated entity page: `entities/carbonic-anhydrase-va-deficiency.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

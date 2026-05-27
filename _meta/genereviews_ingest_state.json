@@ -510,6 +510,12 @@
       "title": "Beckwith-Wiedemann Syndrome",
       "when": "2026-05-27 16:15 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ca5a-def/": {
+      "slug": "carbonic-anhydrase-va-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK284774/",
+      "title": "Carbonic Anhydrase VA Deficiency",
+      "when": "2026-05-27 16:21 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cadasil/": {
       "slug": "cadasil",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1500/",
