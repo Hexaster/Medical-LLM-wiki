@@ -1553,3 +1553,10 @@
 - Raw extract saved: `raw/articles/genereviews-dba-syndrome.md`
 - Created/updated entity page: `entities/dba-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: DCTN1 -Related Neurodegeneration
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK47027/
+- Raw extract saved: `raw/articles/genereviews-dctn1-related-neurodegeneration.md`
+- Created/updated entity page: `entities/dctn1-related-neurodegeneration.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

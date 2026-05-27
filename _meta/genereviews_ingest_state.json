@@ -1218,6 +1218,12 @@
       "title": "Autosomal Dominant Epilepsy with Auditory Features",
       "when": "2026-05-27 16:14 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/perry/": {
+      "slug": "dctn1-related-neurodegeneration",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK47027/",
+      "title": "DCTN1 -Related Neurodegeneration",
+      "when": "2026-05-27 16:29 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/pfic/": {
       "slug": "atp8b1-deficiency",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1297/",
