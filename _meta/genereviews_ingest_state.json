@@ -750,6 +750,12 @@
       "title": "CLCN7 -Related Osteopetrosis",
       "when": "2026-05-27 16:25 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/clpb-def/": {
+      "slug": "clpb-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK396257/",
+      "title": "CLPB Deficiency",
+      "when": "2026-05-27 16:25 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cmr/": {
       "slug": "chylomicron-retention-disease",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK578949/",
