@@ -2204,3 +2204,10 @@
 - Raw extract saved: `raw/articles/genereviews-fmr1-disorders.md`
 - Created/updated entity page: `entities/fmr1-disorders.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: FOLR1 -Related Cerebral Folate Transport Deficiency
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK599286/
+- Raw extract saved: `raw/articles/genereviews-folr1-related-cerebral-folate-transport-deficiency.md`
+- Created/updated entity page: `entities/folr1-related-cerebral-folate-transport-deficiency.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

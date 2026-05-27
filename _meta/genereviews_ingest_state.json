@@ -1434,6 +1434,12 @@
       "title": "Familial Mediterranean Fever",
       "when": "2026-05-27 16:34 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/folr1-cft-def/": {
+      "slug": "folr1-related-cerebral-folate-transport-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK599286/",
+      "title": "FOLR1 -Related Cerebral Folate Transport Deficiency",
+      "when": "2026-05-27 16:36 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/fop/": {
       "slug": "fibrodysplasia-ossificans-progressiva",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK558090/",
