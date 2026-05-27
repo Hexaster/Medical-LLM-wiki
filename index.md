@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 280
+> Last updated: 2026-05-27 | Total pages: 281
 
 ## Entities
 
@@ -282,6 +282,7 @@
 - [[erythropoietic-protoporphyria-autosomal-recessive]] — Erythropoietic protoporphyria (EPP) is characterized by cutaneous photosensitivity (usually beginning in infancy or childhood) that results in tingling, burning, pain.
 - [[esco2-spectrum-disorder]] — ESCO2 spectrum disorder is characterized by mild-to-severe prenatal growth restriction, limb malformations (which can include bilateral symmetric tetraphocomelia or.
 - [[ethylmalonic-encephalopathy]] — Ethylmalonic encephalopathy (EE) is a severe, early-onset, progressive disorder characterized by developmental delay / mild-to-severe intellectual disability.
+- [[etv6-related-thrombocytopenia-and-predisposition-to-leukemia]] — Individuals with ETV6- related thrombocytopenia and predisposition to leukemia most often present with a lifelong history of thrombocytopenia, which is usually in the.
 
 ## Concepts
 

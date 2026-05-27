@@ -1945,3 +1945,10 @@
 - Raw extract saved: `raw/articles/genereviews-ethylmalonic-encephalopathy.md`
 - Created/updated entity page: `entities/ethylmalonic-encephalopathy.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: ETV6- Related Thrombocytopenia and Predisposition to Leukemia
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK564234/
+- Raw extract saved: `raw/articles/genereviews-etv6-related-thrombocytopenia-and-predisposition-to-leukemia.md`
+- Created/updated entity page: `entities/etv6-related-thrombocytopenia-and-predisposition-to-leukemia.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
