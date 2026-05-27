@@ -990,6 +990,12 @@
       "title": "DCX -Related Disorders",
       "when": "2026-05-27 16:29 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ddon/": {
+      "slug": "deafness-dystonia-optic-neuronopathy-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1216/",
+      "title": "Deafness-Dystonia-Optic Neuronopathy Syndrome",
+      "when": "2026-05-27 16:29 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/ddx3x-ndd/": {
       "slug": "ddx3x-related-neurodevelopmental-disorder",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK561282/",
