@@ -1524,6 +1524,12 @@
       "title": "Familial Lipoprotein Lipase Deficiency",
       "when": "2026-05-27 16:34 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/marfan/": {
+      "slug": "fbn1-related-marfan-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1335/",
+      "title": "FBN1 -Related Marfan Syndrome",
+      "when": "2026-05-27 16:35 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/mckd1/": {
       "slug": "autosomal-dominant-tubulointerstitial-kidney-disease-muc1",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK153723/",

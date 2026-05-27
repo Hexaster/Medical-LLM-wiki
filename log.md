@@ -2106,3 +2106,10 @@
 - Raw extract saved: `raw/articles/genereviews-fbln5-related-cutis-laxa.md`
 - Created/updated entity page: `entities/fbln5-related-cutis-laxa.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: FBN1 -Related Marfan Syndrome
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1335/
+- Raw extract saved: `raw/articles/genereviews-fbn1-related-marfan-syndrome.md`
+- Created/updated entity page: `entities/fbn1-related-marfan-syndrome.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
