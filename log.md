@@ -2057,3 +2057,10 @@
 - Raw extract saved: `raw/articles/genereviews-familial-mediterranean-fever.md`
 - Created/updated entity page: `entities/familial-mediterranean-fever.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Familial Paroxysmal Nonkinesigenic Dyskinesia
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1221/
+- Raw extract saved: `raw/articles/genereviews-familial-paroxysmal-nonkinesigenic-dyskinesia.md`
+- Created/updated entity page: `entities/familial-paroxysmal-nonkinesigenic-dyskinesia.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

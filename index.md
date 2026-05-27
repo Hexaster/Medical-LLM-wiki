@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 296
+> Last updated: 2026-05-27 | Total pages: 297
 
 ## Entities
 
@@ -298,6 +298,7 @@
 - [[familial-hypercholesterolemia]] — Familial hypercholesterolemia (FH) is characterized by significantly elevated low-density lipoprotein cholesterol (LDL-C) that leads to atherosclerotic plaque deposition.
 - [[familial-lipoprotein-lipase-deficiency]] — Familial lipoprotein lipase (LPL) deficiency usually presents in childhood and is characterized by very severe hypertriglyceridemia with episodes of abdominal pain.
 - [[familial-mediterranean-fever]] — Familial Mediterranean fever (FMF) is divided into two phenotypes: type 1 and type 2.
+- [[familial-paroxysmal-nonkinesigenic-dyskinesia]] — Familial paroxysmal nonkinesigenic dyskinesia (PNKD) is characterized by unilateral or bilateral involuntary movements.
 
 ## Concepts
 
