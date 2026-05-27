@@ -1420,3 +1420,10 @@
 - Raw extract saved: `raw/articles/genereviews-congenital-mirror-movements.md`
 - Created/updated entity page: `entities/congenital-mirror-movements.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Congenital Myasthenic Syndromes Overview
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1168/
+- Raw extract saved: `raw/articles/genereviews-congenital-myasthenic-syndromes-overview.md`
+- Created/updated entity page: `entities/congenital-myasthenic-syndromes-overview.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

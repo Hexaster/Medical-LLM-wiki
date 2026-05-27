@@ -810,6 +810,12 @@
       "title": "Chylomicron Retention Disease",
       "when": "2026-05-27 16:24 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cms/": {
+      "slug": "congenital-myasthenic-syndromes-overview",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1168/",
+      "title": "Congenital Myasthenic Syndromes Overview",
+      "when": "2026-05-27 16:27 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cmt/": {
       "slug": "charcot-marie-tooth-hereditary-neuropathy-overview",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1358/",
