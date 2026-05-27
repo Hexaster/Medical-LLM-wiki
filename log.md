@@ -2372,3 +2372,10 @@
 - Raw extract saved: `raw/articles/genereviews-genetic-atypical-hemolytic-uremic-syndrome.md`
 - Created/updated entity page: `entities/genetic-atypical-hemolytic-uremic-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Genetic Hearing Loss Overview
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1434/
+- Raw extract saved: `raw/articles/genereviews-genetic-hearing-loss-overview.md`
+- Created/updated entity page: `entities/genetic-hearing-loss-overview.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

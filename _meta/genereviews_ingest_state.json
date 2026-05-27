@@ -1062,6 +1062,12 @@
       "title": "DDX41 -Associated Familial Myelodysplastic Syndrome and Acute Myeloid Leukemia",
       "when": "2026-05-27 16:29 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/deafness-overview/": {
+      "slug": "genetic-hearing-loss-overview",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1434/",
+      "title": "Genetic Hearing Loss Overview",
+      "when": "2026-05-27 16:38 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/del16p11_2/": {
       "slug": "16p11-2-recurrent-deletion",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK11167/",
