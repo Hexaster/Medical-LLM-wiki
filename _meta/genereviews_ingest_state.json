@@ -1398,6 +1398,12 @@
       "title": "Feingold Syndrome 1",
       "when": "2026-05-27 16:35 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/fgd1-fgd/": {
+      "slug": "fgd1-related-faciogenital-dysplasia-aarskog-scott-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK620763/",
+      "title": "FGD1 -Related Faciogenital Dysplasia (Aarskog-Scott Syndrome)",
+      "when": "2026-05-27 16:35 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/fhm/": {
       "slug": "familial-hemiplegic-migraine",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1388/",

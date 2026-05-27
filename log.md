@@ -2127,3 +2127,10 @@
 - Raw extract saved: `raw/articles/genereviews-feingold-syndrome-1.md`
 - Created/updated entity page: `entities/feingold-syndrome-1.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: FGD1 -Related Faciogenital Dysplasia (Aarskog-Scott Syndrome)
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK620763/
+- Raw extract saved: `raw/articles/genereviews-fgd1-related-faciogenital-dysplasia-aarskog-scott-syndrome.md`
+- Created/updated entity page: `entities/fgd1-related-faciogenital-dysplasia-aarskog-scott-syndrome.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
