@@ -1077,3 +1077,10 @@
 - Raw extract saved: `raw/articles/genereviews-charcot-marie-tooth-hereditary-neuropathy-overview.md`
 - Created/updated entity page: `entities/charcot-marie-tooth-hereditary-neuropathy-overview.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Char Syndrome
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1106/
+- Raw extract saved: `raw/articles/genereviews-char-syndrome.md`
+- Created/updated entity page: `entities/char-syndrome.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
