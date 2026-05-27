@@ -1952,3 +1952,10 @@
 - Raw extract saved: `raw/articles/genereviews-etv6-related-thrombocytopenia-and-predisposition-to-leukemia.md`
 - Created/updated entity page: `entities/etv6-related-thrombocytopenia-and-predisposition-to-leukemia.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: EXOC6B -Related Spondyloepimetaphyseal Dysplasia with Joint Laxity
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK592183/
+- Raw extract saved: `raw/articles/genereviews-exoc6b-related-spondyloepimetaphyseal-dysplasia-with-joint-laxity.md`
+- Created/updated entity page: `entities/exoc6b-related-spondyloepimetaphyseal-dysplasia-with-joint-laxity.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
