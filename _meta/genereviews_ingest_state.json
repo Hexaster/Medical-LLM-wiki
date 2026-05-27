@@ -588,6 +588,12 @@
       "title": "CASK Disorders",
       "when": "2026-05-27 16:22 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cbl/": {
+      "slug": "disorders-of-intracellular-cobalamin-metabolism",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1328/",
+      "title": "Disorders of Intracellular Cobalamin Metabolism",
+      "when": "2026-05-27 16:30 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cc2-leuk/": {
       "slug": "clcn2-related-leukoencephalopathy",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK326661/",
