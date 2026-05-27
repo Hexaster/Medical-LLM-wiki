@@ -1476,3 +1476,10 @@
 - Raw extract saved: `raw/articles/genereviews-csf1r-related-disorder.md`
 - Created/updated entity page: `entities/csf1r-related-disorder.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: CSNK2B -Related Neurodevelopmental Disorder
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK606532/
+- Raw extract saved: `raw/articles/genereviews-csnk2b-related-neurodevelopmental-disorder.md`
+- Created/updated entity page: `entities/csnk2b-related-neurodevelopmental-disorder.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
