@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 222
+> Last updated: 2026-05-27 | Total pages: 223
 
 ## Entities
 
@@ -224,6 +224,7 @@
 - [[cystinosis]] — Cystinosis comprises three allelic clinical phenotypes caused by pathogenic variants in CTNS .
 - [[cystinuria]] — Cystinuria is characterized by early-onset and recurrent kidney stones composed of cystine.
 - [[cytochrome-p450-oxidoreductase-deficiency]] — Cytochrome P450 oxidoreductase deficiency (PORD) is a disorder of steroidogenesis with a broad phenotypic spectrum including cortisol deficiency, altered sex steroid.
+- [[danon-disease]] — Danon disease is a multisystem condition with predominant involvement of the heart, skeletal muscles, and retina, with overlying cognitive dysfunction.
 
 ## Concepts
 
