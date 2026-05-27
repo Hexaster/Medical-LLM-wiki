@@ -60,6 +60,7 @@ This wiki is for research and study synthesis. It is not medical advice, diagnos
 
 ## Ingest History
 
+- 2026-05-27 16:37 CST — Ingested: GeneReviews chapter: Fucosidosis. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-fucosidosis.md`, `entities/fucosidosis.md`, `index.md`, `log.md`.
 - 2026-05-27 16:37 CST — Ingested: GeneReviews chapter: Fryns Syndrome. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-fryns-syndrome.md`, `entities/fryns-syndrome.md`, `index.md`, `log.md`.
 - 2026-05-27 16:37 CST — Ingested: GeneReviews chapter: Fructose-1,6-Bisphosphatase Deficiency. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-fructose-1-6-bisphosphatase-deficiency.md`, `entities/fructose-1-6-bisphosphatase-deficiency.md`, `index.md`, `log.md`.
 - 2026-05-27 16:37 CST — Ingested: GeneReviews chapter: FRMD7 -Related Infantile Nystagmus. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-frmd7-related-infantile-nystagmus.md`, `entities/frmd7-related-infantile-nystagmus.md`, `index.md`, `log.md`.

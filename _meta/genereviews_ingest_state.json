@@ -1500,6 +1500,12 @@
       "title": "CHMP2B- Related Frontotemporal Dementia-Amyotrophic Lateral Sclerosis",
       "when": "2026-05-27 16:24 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/fucosidosis/": {
+      "slug": "fucosidosis",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK621565/",
+      "title": "Fucosidosis",
+      "when": "2026-05-27 16:37 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/galactosemia/": {
       "slug": "classic-galactosemia-and-clinical-variant-galactosemia",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1518/",

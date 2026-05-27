@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 327
+> Last updated: 2026-05-27 | Total pages: 328
 
 ## Entities
 
@@ -329,6 +329,7 @@
 - [[frmd7-related-infantile-nystagmus]] — FRMD7 -related infantile nystagmus (FIN) is characterized by either the onset of horizontal, conjugate, gaze-dependent nystagmus in the first six months of life or.
 - [[fructose-1-6-bisphosphatase-deficiency]] — Fructose-1,6-bisphosphatase (FBP1) deficiency is characterized by episodic acute crises of lactic acidosis and ketotic hypoglycemia, manifesting as hyperventilation.
 - [[fryns-syndrome]] — Fryns syndrome is characterized by diaphragmatic defects (diaphragmatic hernia and diaphragm eventration, hypoplasia, or agenesis); characteristic facial appearance.
+- [[fucosidosis]] — Fucosidosis is characterized by developmental delay, intellectual disability, psychomotor regression and cognitive decline, coarse facial features, recurrent respiratory.
 
 ## Concepts
 
