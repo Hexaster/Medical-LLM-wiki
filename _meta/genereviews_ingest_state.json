@@ -1146,6 +1146,12 @@
       "title": "DYNC1H1 -Related Disorders",
       "when": "2026-05-27 16:31 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/dyrk1a-id/": {
+      "slug": "dyrk1a-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK333438/",
+      "title": "DYRK1A Syndrome",
+      "when": "2026-05-27 16:31 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/eds/": {
       "slug": "classic-ehlers-danlos-syndrome",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1244/",

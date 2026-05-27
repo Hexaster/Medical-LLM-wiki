@@ -1742,3 +1742,10 @@
 - Raw extract saved: `raw/articles/genereviews-dync1h1-related-disorders.md`
 - Created/updated entity page: `entities/dync1h1-related-disorders.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: DYRK1A Syndrome
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK333438/
+- Raw extract saved: `raw/articles/genereviews-dyrk1a-syndrome.md`
+- Created/updated entity page: `entities/dyrk1a-syndrome.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
