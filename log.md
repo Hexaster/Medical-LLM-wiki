@@ -1581,3 +1581,10 @@
 - Raw extract saved: `raw/articles/genereviews-ddx3x-related-neurodevelopmental-disorder.md`
 - Created/updated entity page: `entities/ddx3x-related-neurodevelopmental-disorder.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: DDX41 -Associated Familial Myelodysplastic Syndrome and Acute Myeloid Leukemia
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK574843/
+- Raw extract saved: `raw/articles/genereviews-ddx41-associated-familial-myelodysplastic-syndrome-and-acute-myeloid-leukemia.md`
+- Created/updated entity page: `entities/ddx41-associated-familial-myelodysplastic-syndrome-and-acute-myeloid-leukemia.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
