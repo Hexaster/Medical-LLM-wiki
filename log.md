@@ -1532,3 +1532,10 @@
 - Raw extract saved: `raw/articles/genereviews-cystinuria.md`
 - Created/updated entity page: `entities/cystinuria.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Cytochrome P450 Oxidoreductase Deficiency
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1419/
+- Raw extract saved: `raw/articles/genereviews-cytochrome-p450-oxidoreductase-deficiency.md`
+- Created/updated entity page: `entities/cytochrome-p450-oxidoreductase-deficiency.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

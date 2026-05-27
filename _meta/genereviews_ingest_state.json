@@ -30,6 +30,12 @@
       "title": "Abetalipoproteinemia",
       "when": "2026-05-27 16:11 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/abs/": {
+      "slug": "cytochrome-p450-oxidoreductase-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1419/",
+      "title": "Cytochrome P450 Oxidoreductase Deficiency",
+      "when": "2026-05-27 16:28 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/achm/": {
       "slug": "achromatopsia",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1418/",
