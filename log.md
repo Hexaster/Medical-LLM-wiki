@@ -2393,3 +2393,10 @@
 - Raw extract saved: `raw/articles/genereviews-genetic-steroid-resistant-nephrotic-syndrome-overview.md`
 - Created/updated entity page: `entities/genetic-steroid-resistant-nephrotic-syndrome-overview.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: GJB1 Disorders: Charcot-Marie-Tooth Neuropathy (CMT1X) and Central Nervous System Phenotypes
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1374/
+- Raw extract saved: `raw/articles/genereviews-gjb1-disorders-charcot-marie-tooth-neuropathy-cmt1x-and-central-nervous-system-phenotypes.md`
+- Created/updated entity page: `entities/gjb1-disorders-charcot-marie-tooth-neuropathy-cmt1x-and-central-nervous-system-phenotypes.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

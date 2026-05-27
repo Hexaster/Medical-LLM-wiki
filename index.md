@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 344
+> Last updated: 2026-05-27 | Total pages: 345
 
 ## Entities
 
@@ -346,6 +346,7 @@
 - [[genetic-hearing-loss-overview]] — The purpose of this GeneReview is to: Describe the audiometric and clinical aspects of genetic hearing loss; Review the causes of genetic hearing loss; Review the.
 - [[genetic-prion-disease]] — Genetic prion disease generally manifests with cognitive difficulties, ataxia, and myoclonus (abrupt jerking movements of muscle groups and/or entire limbs).
 - [[genetic-steroid-resistant-nephrotic-syndrome-overview]] — The purpose of this overview is to: Describe the clinical characteristics of genetic steroid-resistant nephrotic syndrome; Review the genes known to be associated with.
+- [[gjb1-disorders-charcot-marie-tooth-neuropathy-cmt1x-and-central-nervous-system-phenotypes]] — GJB1 disorders are typically characterized by peripheral motor and sensory neuropathy with or without fixed CNS abnormalities and/or acute, self-limited episodes of.
 
 ## Concepts
 
