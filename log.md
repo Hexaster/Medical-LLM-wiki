@@ -937,3 +937,10 @@
 - Raw extract saved: `raw/articles/genereviews-cant-syndrome.md`
 - Created/updated entity page: `entities/cant-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Capillary Malformation-Arteriovenous Malformation Syndrome
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK52764/
+- Raw extract saved: `raw/articles/genereviews-capillary-malformation-arteriovenous-malformation-syndrome.md`
+- Created/updated entity page: `entities/capillary-malformation-arteriovenous-malformation-syndrome.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

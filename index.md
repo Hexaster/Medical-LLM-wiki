@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 136
+> Last updated: 2026-05-27 | Total pages: 137
 
 ## Entities
 
@@ -138,6 +138,7 @@
 - [[camurati-engelmann-disease]] — Camurati-Engelmann disease (CED) is characterized by hyperostosis of the long bones and the skull, proximal muscle weakness, limb pain, a wide-based, waddling gait, and.
 - [[canavan-disease]] — Canavan disease is a leukodystrophy characterized by neurodevelopmental delays, macrocephaly, and tone abnormalities.
 - [[cant-syndrome]] — Cantú syndrome is characterized by congenital hypertrichosis; distinctive coarse facial features (including broad nasal bridge, wide mouth with thick vermilion of the.
+- [[capillary-malformation-arteriovenous-malformation-syndrome]] — Capillary malformation-arteriovenous malformation (CM-AVM) syndrome is characterized by the presence of multiple small (1-2 cm in diameter) capillary malformations.
 
 ## Concepts
 

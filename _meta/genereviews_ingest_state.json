@@ -732,6 +732,12 @@
       "title": "ATP1A3- Related Disorder",
       "when": "2026-05-27 16:13 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/rasa1-rel-dis/": {
+      "slug": "capillary-malformation-arteriovenous-malformation-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK52764/",
+      "title": "Capillary Malformation-Arteriovenous Malformation Syndrome",
+      "when": "2026-05-27 16:21 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/refsum/": {
       "slug": "adult-refsum-disease",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1353/",
