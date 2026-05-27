@@ -1994,3 +1994,10 @@
 - Raw extract saved: `raw/articles/genereviews-factor-v-leiden-thrombophilia.md`
 - Created/updated entity page: `entities/factor-v-leiden-thrombophilia.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: FAM111A -Related Skeletal Dysplasias
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK590151/
+- Raw extract saved: `raw/articles/genereviews-fam111a-related-skeletal-dysplasias.md`
+- Created/updated entity page: `entities/fam111a-related-skeletal-dysplasias.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
