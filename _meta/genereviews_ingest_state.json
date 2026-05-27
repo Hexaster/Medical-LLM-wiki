@@ -1308,6 +1308,12 @@
       "title": "EXOC6B -Related Spondyloepimetaphyseal Dysplasia with Joint Laxity",
       "when": "2026-05-27 16:33 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/exosc3-pc-hypo-p/": {
+      "slug": "exosc3-pontocerebellar-hypoplasia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK236968/",
+      "title": "EXOSC3 Pontocerebellar Hypoplasia",
+      "when": "2026-05-27 16:33 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/fap/": {
       "slug": "apc-associated-polyposis-conditions",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1345/",

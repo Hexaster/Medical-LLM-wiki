@@ -1959,3 +1959,10 @@
 - Raw extract saved: `raw/articles/genereviews-exoc6b-related-spondyloepimetaphyseal-dysplasia-with-joint-laxity.md`
 - Created/updated entity page: `entities/exoc6b-related-spondyloepimetaphyseal-dysplasia-with-joint-laxity.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: EXOSC3 Pontocerebellar Hypoplasia
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK236968/
+- Raw extract saved: `raw/articles/genereviews-exosc3-pontocerebellar-hypoplasia.md`
+- Created/updated entity page: `entities/exosc3-pontocerebellar-hypoplasia.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

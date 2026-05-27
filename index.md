@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 282
+> Last updated: 2026-05-27 | Total pages: 283
 
 ## Entities
 
@@ -284,6 +284,7 @@
 - [[ethylmalonic-encephalopathy]] — Ethylmalonic encephalopathy (EE) is a severe, early-onset, progressive disorder characterized by developmental delay / mild-to-severe intellectual disability.
 - [[etv6-related-thrombocytopenia-and-predisposition-to-leukemia]] — Individuals with ETV6- related thrombocytopenia and predisposition to leukemia most often present with a lifelong history of thrombocytopenia, which is usually in the.
 - [[exoc6b-related-spondyloepimetaphyseal-dysplasia-with-joint-laxity]] — EXOC6B -related spondyloepimetaphyseal dysplasia with joint laxity ( EXOC6B -SEMD-JL) is characterized by multiple joint dislocations, joint laxity, genu valgum, short.
+- [[exosc3-pontocerebellar-hypoplasia]] — EXOSC3 pontocerebellar hypoplasia ( EXOSC3- PCH) is characterized by abnormalities in the posterior fossa and degeneration of the anterior horn cells.
 
 ## Concepts
 
