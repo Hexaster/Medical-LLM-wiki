@@ -1476,6 +1476,12 @@
       "title": "Friedreich Ataxia",
       "when": "2026-05-27 16:37 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/fructose1-6-def/": {
+      "slug": "fructose-1-6-bisphosphatase-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK550349/",
+      "title": "Fructose-1,6-Bisphosphatase Deficiency",
+      "when": "2026-05-27 16:37 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/fsh/": {
       "slug": "facioscapulohumeral-muscular-dystrophy",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1443/",

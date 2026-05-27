@@ -2260,3 +2260,10 @@
 - Raw extract saved: `raw/articles/genereviews-frmd7-related-infantile-nystagmus.md`
 - Created/updated entity page: `entities/frmd7-related-infantile-nystagmus.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Fructose-1,6-Bisphosphatase Deficiency
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK550349/
+- Raw extract saved: `raw/articles/genereviews-fructose-1-6-bisphosphatase-deficiency.md`
+- Created/updated entity page: `entities/fructose-1-6-bisphosphatase-deficiency.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
