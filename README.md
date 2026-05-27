@@ -60,6 +60,7 @@ This wiki is for research and study synthesis. It is not medical advice, diagnos
 
 ## Ingest History
 
+- 2026-05-27 16:31 CST — Ingested: GeneReviews chapter: DRPLA. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-drpla.md`, `entities/drpla.md`, `index.md`, `log.md`.
 - 2026-05-27 16:30 CST — Ingested: GeneReviews chapter: Dopamine Beta-Hydroxylase Deficiency. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-dopamine-beta-hydroxylase-deficiency.md`, `entities/dopamine-beta-hydroxylase-deficiency.md`, `index.md`, `log.md`.
 - 2026-05-27 16:30 CST — Ingested: GeneReviews chapter: Donnai-Barrow Syndrome. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-donnai-barrow-syndrome.md`, `entities/donnai-barrow-syndrome.md`, `index.md`, `log.md`.
 - 2026-05-27 16:30 CST — Ingested: GeneReviews chapter: DNMT1 -Related Disorder. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-dnmt1-related-disorder.md`, `entities/dnmt1-related-disorder.md`, `index.md`, `log.md`.

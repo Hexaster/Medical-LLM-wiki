@@ -1110,6 +1110,12 @@
       "title": "Donnai-Barrow Syndrome",
       "when": "2026-05-27 16:30 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/drpla/": {
+      "slug": "drpla",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1491/",
+      "title": "DRPLA",
+      "when": "2026-05-27 16:31 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/dup17q12/": {
       "slug": "17q12-recurrent-duplication",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK344340/",
