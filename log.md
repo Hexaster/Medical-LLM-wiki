@@ -2190,3 +2190,10 @@
 - Raw extract saved: `raw/articles/genereviews-flna-related-otopalatodigital-spectrum-disorders.md`
 - Created/updated entity page: `entities/flna-related-otopalatodigital-spectrum-disorders.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: FLNB- Related Disorders
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK2534/
+- Raw extract saved: `raw/articles/genereviews-flnb-related-disorders.md`
+- Created/updated entity page: `entities/flnb-related-disorders.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

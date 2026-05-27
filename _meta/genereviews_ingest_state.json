@@ -1422,6 +1422,12 @@
       "title": "FKBP14 Kyphoscoliotic Ehlers-Danlos Syndrome",
       "when": "2026-05-27 16:36 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/flnb-dis/": {
+      "slug": "flnb-related-disorders",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK2534/",
+      "title": "FLNB- Related Disorders",
+      "when": "2026-05-27 16:36 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/fmf/": {
       "slug": "familial-mediterranean-fever",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1227/",

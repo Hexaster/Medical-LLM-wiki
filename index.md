@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 315
+> Last updated: 2026-05-27 | Total pages: 316
 
 ## Entities
 
@@ -317,6 +317,7 @@
 - [[fkbp14-kyphoscoliotic-ehlers-danlos-syndrome]] — FKBP14 kyphoscoliotic Ehlers-Danlos syndrome ( FKBP14 -kEDS) is characterized by congenital muscle hypotonia and weakness (typically improving during childhood).
 - [[flna-deficiency]] — FLNA deficiency is associated with a phenotypic spectrum that includes FLNA -related periventricular nodular heterotopia (Huttenlocher syndrome), congenital heart.
 - [[flna-related-otopalatodigital-spectrum-disorders]] — The FLNA -related otopalatodigital ( FLNA -OPD) spectrum disorders, characterized primarily by skeletal dysplasia, include the following allelic conditions:.
+- [[flnb-related-disorders]] — The FLNB- related disorders can be divided into two groups of conditions caused by loss of function or gain of function of filamin-B.
 
 ## Concepts
 
