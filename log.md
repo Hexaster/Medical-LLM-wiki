@@ -1084,3 +1084,10 @@
 - Raw extract saved: `raw/articles/genereviews-char-syndrome.md`
 - Created/updated entity page: `entities/char-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: CHCHD10 -Related Disorders
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK304142/
+- Raw extract saved: `raw/articles/genereviews-chchd10-related-disorders.md`
+- Created/updated entity page: `entities/chchd10-related-disorders.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
