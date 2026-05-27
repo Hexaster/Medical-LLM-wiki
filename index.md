@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 304
+> Last updated: 2026-05-27 | Total pages: 305
 
 ## Entities
 
@@ -306,6 +306,7 @@
 - [[fatty-acid-hydroxylase-associated-neurodegeneration]] — Fatty acid hydroxylase-associated neurodegeneration (FAHN) is characterized early in the disease course by central nervous system involvement including corticospinal.
 - [[fbln5-related-cutis-laxa]] — FBLN5 -related cutis laxa is characterized by cutis laxa, early childhood-onset pulmonary emphysema, peripheral pulmonary artery stenosis, and other evidence of a.
 - [[fbn1-related-marfan-syndrome]] — FBN1 -related Marfan syndrome (Marfan syndrome), a systemic disorder of connective tissue with a high degree of clinical variability, comprises a broad phenotypic.
+- [[fbxl4-related-encephalomyopathic-mitochondrial-dna-depletion-syndrome]] — FBXL4 -related encephalomyopathic mitochondrial DNA (mtDNA) depletion syndrome is a multi-system disorder characterized primarily by congenital or early-onset lactic.
 
 ## Concepts
 
