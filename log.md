@@ -1203,3 +1203,10 @@
 - Raw extract saved: `raw/articles/genereviews-chronic-granulomatous-disease.md`
 - Created/updated entity page: `entities/chronic-granulomatous-disease.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Chylomicron Retention Disease
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK578949/
+- Raw extract saved: `raw/articles/genereviews-chylomicron-retention-disease.md`
+- Created/updated entity page: `entities/chylomicron-retention-disease.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

@@ -720,6 +720,12 @@
       "title": "Christianson Syndrome",
       "when": "2026-05-27 16:24 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cmr/": {
+      "slug": "chylomicron-retention-disease",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK578949/",
+      "title": "Chylomicron Retention Disease",
+      "when": "2026-05-27 16:24 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cmt/": {
       "slug": "charcot-marie-tooth-hereditary-neuropathy-overview",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1358/",
