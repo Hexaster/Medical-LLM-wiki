@@ -1254,6 +1254,12 @@
       "title": "EPB42 -Related Hereditary Spherocytosis",
       "when": "2026-05-27 16:32 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/epg5/": {
+      "slug": "epg5-related-disorder",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK584989/",
+      "title": "EPG5 -Related Disorder",
+      "when": "2026-05-27 16:33 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/evc/": {
       "slug": "ellis-van-creveld-syndrome",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK596643/",
