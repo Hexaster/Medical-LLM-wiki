@@ -1903,3 +1903,10 @@
 - Raw extract saved: `raw/articles/genereviews-epidermolysis-bullosa-simplex.md`
 - Created/updated entity page: `entities/epidermolysis-bullosa-simplex.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Epidermolysis Bullosa with Pyloric Atresia
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1157/
+- Raw extract saved: `raw/articles/genereviews-epidermolysis-bullosa-with-pyloric-atresia.md`
+- Created/updated entity page: `entities/epidermolysis-bullosa-with-pyloric-atresia.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 274
+> Last updated: 2026-05-27 | Total pages: 275
 
 ## Entities
 
@@ -276,6 +276,7 @@
 - [[epb42-related-hereditary-spherocytosis]] — EPB42 -related hereditary spherocytosis (EPB42-HS) is a chronic nonimmune hemolytic anemia that is usually of mild-to-moderate severity.
 - [[epg5-related-disorder]] — With the current widespread use of multigene panels and comprehensive genomic testing, it has become apparent that the phenotypic spectrum of EPG5 -related disorder.
 - [[epidermolysis-bullosa-simplex]] — Epidermolysis bullosa simplex (EBS) is characterized by fragility of the skin (and mucosal epithelia in some instances) that results in non-scarring blisters and.
+- [[epidermolysis-bullosa-with-pyloric-atresia]] — Epidermolysis bullosa with pyloric atresia (EB-PA) is characterized by fragility of the skin and mucous membranes, manifested by blistering with little or no trauma.
 
 ## Concepts
 

@@ -1176,6 +1176,12 @@
       "title": "DYT- TOR1A",
       "when": "2026-05-27 16:31 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/eb-pa/": {
+      "slug": "epidermolysis-bullosa-with-pyloric-atresia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1157/",
+      "title": "Epidermolysis Bullosa with Pyloric Atresia",
+      "when": "2026-05-27 16:33 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/ebd/": {
       "slug": "dystrophic-epidermolysis-bullosa",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1304/",
