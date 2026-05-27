@@ -2435,3 +2435,10 @@
 - Raw extract saved: `raw/articles/genereviews-glucose-transporter-type-1-deficiency-syndrome.md`
 - Created/updated entity page: `entities/glucose-transporter-type-1-deficiency-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Glutaric Acidemia Type 1
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK546575/
+- Raw extract saved: `raw/articles/genereviews-glutaric-acidemia-type-1.md`
+- Created/updated entity page: `entities/glutaric-acidemia-type-1.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

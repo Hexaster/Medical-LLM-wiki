@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 350
+> Last updated: 2026-05-27 | Total pages: 351
 
 ## Entities
 
@@ -352,6 +352,7 @@
 - [[gli3-related-greig-cephalopolysyndactyly-syndrome]] — Typical GLI3 -related Greig cephalopolysyndactyly syndrome ( GLI3 -GCPS) is characterized by macrocephaly, widely spaced eyes associated with increased interpupillary.
 - [[gli3-related-pallister-hall-syndrome]] — GLI3 -related Pallister-Hall syndrome ( GLI3 -PHS) is characterized by a spectrum of anomalies ranging from polydactyly, asymptomatic bifid epiglottis, and hypothalamic.
 - [[glucose-transporter-type-1-deficiency-syndrome]] — Glucose transporter type 1 deficiency syndrome (Glut1DS) is a disorder of brain energy metabolism.
+- [[glutaric-acidemia-type-1]] — The phenotypic spectrum of untreated glutaric acidemia type 1 (GA-1) ranges from the more common form (infantile-onset disease) to the less common form (later-onset.
 
 ## Concepts
 
