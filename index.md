@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 259
+> Last updated: 2026-05-27 | Total pages: 260
 
 ## Entities
 
@@ -261,6 +261,7 @@
 - [[dyt-gnal]] — DYT- GNAL caused by a heterozygous GNAL pathogenic variant has been reported in more than 60 individuals to date.
 - [[dyt-tor1a]] — DYT1- TOR1A is an isolated dystonia with onset typically in childhood (median age of onset: 9 years; interquartile range: 7-12 years).
 - [[ebf3-neurodevelopmental-disorder]] — EBF3 neurodevelopmental disorder ( EBF3 -NDD) is associated with developmental delay (DD) / intellectual disability (ID), speech delay, gait or truncal ataxia.
+- [[eed-related-overgrowth]] — EED -related overgrowth is characterized by fetal or early childhood overgrowth (tall stature, macrocephaly, large hands and feet, and advanced bone age) and.
 
 ## Concepts
 

@@ -1188,6 +1188,12 @@
       "title": "Classic Ehlers-Danlos Syndrome",
       "when": "2026-05-27 16:25 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/eed-og/": {
+      "slug": "eed-related-overgrowth",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK540017/",
+      "title": "EED -Related Overgrowth",
+      "when": "2026-05-27 16:31 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/fap/": {
       "slug": "apc-associated-polyposis-conditions",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1345/",
