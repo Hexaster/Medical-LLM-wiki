@@ -576,6 +576,12 @@
       "title": "CASK Disorders",
       "when": "2026-05-27 16:22 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cd-chst3/": {
+      "slug": "chondrodysplasia-with-congenital-joint-dislocations-chst3-related",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK62112/",
+      "title": "Chondrodysplasia with Congenital Joint Dislocations, CHST3 -Related",
+      "when": "2026-05-27 16:24 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cdk13-dis/": {
       "slug": "cdk13-related-disorder",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK536784/",
