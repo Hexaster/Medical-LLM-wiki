@@ -1658,3 +1658,10 @@
 - Raw extract saved: `raw/articles/genereviews-dihydrolipoamide-dehydrogenase-deficiency.md`
 - Created/updated entity page: `entities/dihydrolipoamide-dehydrogenase-deficiency.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Dilated Cardiomyopathy Overview
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1309/
+- Raw extract saved: `raw/articles/genereviews-dilated-cardiomyopathy-overview.md`
+- Created/updated entity page: `entities/dilated-cardiomyopathy-overview.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
