@@ -979,3 +979,10 @@
 - Raw extract saved: `raw/articles/genereviews-carnitine-palmitoyltransferase-1a-deficiency.md`
 - Created/updated entity page: `entities/carnitine-palmitoyltransferase-1a-deficiency.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Carnitine Palmitoyltransferase II Deficiency
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1253/
+- Raw extract saved: `raw/articles/genereviews-carnitine-palmitoyltransferase-ii-deficiency.md`
+- Created/updated entity page: `entities/carnitine-palmitoyltransferase-ii-deficiency.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

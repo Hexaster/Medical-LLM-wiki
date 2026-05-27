@@ -588,6 +588,12 @@
       "title": "Carnitine Palmitoyltransferase 1A Deficiency",
       "when": "2026-05-27 16:22 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cpt2/": {
+      "slug": "carnitine-palmitoyltransferase-ii-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1253/",
+      "title": "Carnitine Palmitoyltransferase II Deficiency",
+      "when": "2026-05-27 16:22 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cranio-md/": {
       "slug": "autosomal-dominant-craniometaphyseal-dysplasia",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1461/",
