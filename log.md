@@ -2344,3 +2344,10 @@
 - Raw extract saved: `raw/articles/genereviews-gaucher-disease.md`
 - Created/updated entity page: `entities/gaucher-disease.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: GBE1 Adult Polyglucosan Body Disease
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK5300/
+- Raw extract saved: `raw/articles/genereviews-gbe1-adult-polyglucosan-body-disease.md`
+- Created/updated entity page: `entities/gbe1-adult-polyglucosan-body-disease.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

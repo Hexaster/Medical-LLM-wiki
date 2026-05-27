@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 337
+> Last updated: 2026-05-27 | Total pages: 338
 
 ## Entities
 
@@ -339,6 +339,7 @@
 - [[gars1-associated-axonal-neuropathy]] — The phenotypic spectrum of GARS1 -associated axonal neuropathy ranges from GARS1 infantile-onset SMA ( GARS1- iSMA) to GARS1 adolescent- or early adult-onset hereditary.
 - [[gata1-related-cytopenia]] — GATA1 -related cytopenia is characterized by thrombocytopenia and/or anemia ranging from mild to severe.
 - [[gaucher-disease]] — Gaucher disease (GD) encompasses a continuum of clinical findings from a perinatal-lethal disorder to an asymptomatic type.
+- [[gbe1-adult-polyglucosan-body-disease]] — Most individuals with classic GBE1 adult polyglucosan body disease ( GBE1- APBD) present after age 40 years with unexplained progressive neurogenic bladder, gait.
 
 ## Concepts
 

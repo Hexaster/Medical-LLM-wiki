@@ -252,6 +252,12 @@
       "title": "AP-4-Associated Hereditary Spastic Paraplegia",
       "when": "2026-05-27 16:13 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/apbd/": {
+      "slug": "gbe1-adult-polyglucosan-body-disease",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK5300/",
+      "title": "GBE1 Adult Polyglucosan Body Disease",
+      "when": "2026-05-27 16:38 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/apds/": {
       "slug": "activated-pi3k-delta-syndrome",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK611655/",
