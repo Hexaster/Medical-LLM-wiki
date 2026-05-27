@@ -1007,3 +1007,10 @@
 - Raw extract saved: `raw/articles/genereviews-catecholaminergic-polymorphic-ventricular-tachycardia.md`
 - Created/updated entity page: `entities/catecholaminergic-polymorphic-ventricular-tachycardia.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: CD40 Ligand Deficiency
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1402/
+- Raw extract saved: `raw/articles/genereviews-cd40-ligand-deficiency.md`
+- Created/updated entity page: `entities/cd40-ligand-deficiency.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

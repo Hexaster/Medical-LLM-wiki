@@ -834,6 +834,12 @@
       "title": "CACNA1C -Related Disorders",
       "when": "2026-05-27 16:21 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/xlhi/": {
+      "slug": "cd40-ligand-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1402/",
+      "title": "CD40 Ligand Deficiency",
+      "when": "2026-05-27 16:22 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/xlmr/": {
       "slug": "alpha-thalassemia-x-linked-intellectual-disability-syndrome",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1449/",

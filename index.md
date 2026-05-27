@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 146
+> Last updated: 2026-05-27 | Total pages: 147
 
 ## Entities
 
@@ -148,6 +148,7 @@
 - [[cartilage-hair-hypoplasia-anauxetic-dysplasia-spectrum-disorders]] — The cartilage-hair hypoplasia – anauxetic dysplasia (CHH-AD) spectrum disorders are a continuum that includes the following phenotypes: CHH-AD spectrum disorders are.
 - [[cask-disorders]] — CASK disorders include a spectrum of phenotypes in both females and males.
 - [[catecholaminergic-polymorphic-ventricular-tachycardia]] — Catecholaminergic polymorphic ventricular tachycardia (CPVT) is characterized by episodic syncope occurring during exercise or acute emotion.
+- [[cd40-ligand-deficiency]] — CD40 ligand deficiency, a disorder of abnormal T- and B-cell function, is characterized by low serum concentrations of immunoglobulin (Ig) G, IgA, and IgE with normal or.
 
 ## Concepts
 
