@@ -1441,3 +1441,10 @@
 - Raw extract saved: `raw/articles/genereviews-congenital-stromal-corneal-dystrophy.md`
 - Created/updated entity page: `entities/congenital-stromal-corneal-dystrophy.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Cornelia de Lange Syndrome
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1104/
+- Raw extract saved: `raw/articles/genereviews-cornelia-de-lange-syndrome.md`
+- Created/updated entity page: `entities/cornelia-de-lange-syndrome.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

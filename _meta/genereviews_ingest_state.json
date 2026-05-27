@@ -636,6 +636,12 @@
       "title": "CDKN2A Cancer Predisposition",
       "when": "2026-05-27 16:23 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cdls/": {
+      "slug": "cornelia-de-lange-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1104/",
+      "title": "Cornelia de Lange Syndrome",
+      "when": "2026-05-27 16:27 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cdp1-xlr/": {
       "slug": "chondrodysplasia-punctata-1-x-linked",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1544/",

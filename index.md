@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 208
+> Last updated: 2026-05-27 | Total pages: 209
 
 ## Entities
 
@@ -210,6 +210,7 @@
 - [[congenital-myasthenic-syndromes-overview]] — The purpose of this overview is to: Briefly describe the clinical characteristics of CMS; Review the subtypes and genetic causes of CMS; Review the differential.
 - [[congenital-nad-deficiency-disorder]] — Congenital NAD deficiency disorder (CNDD) is a multisystem condition in which cardiac, renal, vertebral, and limb anomalies are common, mimicking the clinical features.
 - [[congenital-stromal-corneal-dystrophy]] — Congenital stromal corneal dystrophy is characterized by the presence of bilateral corneal opacities that can be seen at or shortly after birth.
+- [[cornelia-de-lange-syndrome]] — Cornelia de Lange syndrome (CdLS) encompasses a spectrum of findings from mild to severe.
 
 ## Concepts
 
