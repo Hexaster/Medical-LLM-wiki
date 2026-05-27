@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 319
+> Last updated: 2026-05-27 | Total pages: 320
 
 ## Entities
 
@@ -321,6 +321,7 @@
 - [[fmr1-disorders]] — FMR1 disorders include fragile X syndrome (FXS), fragile X-associated tremor/ataxia syndrome (FXTAS), and fragile X-associated primary ovarian insufficiency (FXPOI).
 - [[folr1-related-cerebral-folate-transport-deficiency]] — FOLR1 -related cerebral folate transport deficiency ( FOLR1 -CFTD), resulting from loss of function of the folate receptor alpha (FOLR1) protein, causes cerebral folate.
 - [[foxg1-syndrome]] — FOXG1 syndrome is characterized by moderate-to-profound developmental delay and intellectual disability, postnatal growth deficiency, congenital or postnatal.
+- [[foxp1-syndrome]] — FOXP1 syndrome is characterized by delays in early motor and language milestones, mild-to-severe intellectual deficits, speech and language impairment in all individuals.
 
 ## Concepts
 

@@ -1452,6 +1452,12 @@
       "title": "FOXG1 Syndrome",
       "when": "2026-05-27 16:36 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/foxp1/": {
+      "slug": "foxp1-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK594825/",
+      "title": "FOXP1 Syndrome",
+      "when": "2026-05-27 16:36 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/fragilex/": {
       "slug": "fmr1-disorders",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1384/",

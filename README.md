@@ -60,6 +60,7 @@ This wiki is for research and study synthesis. It is not medical advice, diagnos
 
 ## Ingest History
 
+- 2026-05-27 16:36 CST — Ingested: GeneReviews chapter: FOXP1 Syndrome. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-foxp1-syndrome.md`, `entities/foxp1-syndrome.md`, `index.md`, `log.md`.
 - 2026-05-27 16:36 CST — Ingested: GeneReviews chapter: FOXG1 Syndrome. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-foxg1-syndrome.md`, `entities/foxg1-syndrome.md`, `index.md`, `log.md`.
 - 2026-05-27 16:36 CST — Ingested: GeneReviews chapter: FOLR1 -Related Cerebral Folate Transport Deficiency. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-folr1-related-cerebral-folate-transport-deficiency.md`, `entities/folr1-related-cerebral-folate-transport-deficiency.md`, `index.md`, `log.md`.
 - 2026-05-27 16:36 CST — Ingested: GeneReviews chapter: FMR1 Disorders. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-fmr1-disorders.md`, `entities/fmr1-disorders.md`, `index.md`, `log.md`.
