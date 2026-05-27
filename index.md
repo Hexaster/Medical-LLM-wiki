@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 167
+> Last updated: 2026-05-27 | Total pages: 168
 
 ## Entities
 
@@ -169,6 +169,7 @@
 - [[cherubism]] — Cherubism is a childhood-onset autoinflammatory bone disease characterized by proliferative fibroosseous lesions limited to the mandible and maxilla.
 - [[childhood-ataxia-with-central-nervous-system-hypomyelination-vanishing-white-matter]] — Childhood ataxia with central nervous system hypomyelination / vanishing white matter (CACH/VWM) is characterized by ataxia, spasticity, and variable optic atrophy.
 - [[chkb-related-muscular-dystrophy]] — CHKB -related muscular dystrophy ( CHKB -MD), reported in 47 individuals to date, comprises congenital muscular dystrophy (CMD) (44 individuals) and adolescent-onset.
+- [[chmp2b-related-frontotemporal-dementia-amyotrophic-lateral-sclerosis]] — CHMP2B- related frontotemporal dementia (FTD)-amyotrophic lateral sclerosis (ALS) is characterized most frequently by FTD with subtle personality changes and slowly.
 
 ## Concepts
 

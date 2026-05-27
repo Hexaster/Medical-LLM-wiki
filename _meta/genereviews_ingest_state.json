@@ -762,6 +762,12 @@
       "title": "APC -Associated Polyposis Conditions",
       "when": "2026-05-27 16:13 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ftd-chmp2b/": {
+      "slug": "chmp2b-related-frontotemporal-dementia-amyotrophic-lateral-sclerosis",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1199/",
+      "title": "CHMP2B- Related Frontotemporal Dementia-Amyotrophic Lateral Sclerosis",
+      "when": "2026-05-27 16:24 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/gr_22q11deletion/": {
       "slug": "22q11-2-deletion-syndrome",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1523/",
