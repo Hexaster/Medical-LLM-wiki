@@ -1224,6 +1224,12 @@
       "title": "Emanuel Syndrome",
       "when": "2026-05-27 16:32 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/emc10-ndd/": {
+      "slug": "emc10-related-neurodevelopmental-disorder",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK592645/",
+      "title": "EMC10 -Related Neurodevelopmental Disorder",
+      "when": "2026-05-27 16:32 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/evc/": {
       "slug": "ellis-van-creveld-syndrome",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK596643/",

@@ -60,6 +60,7 @@ This wiki is for research and study synthesis. It is not medical advice, diagnos
 
 ## Ingest History
 
+- 2026-05-27 16:32 CST — Ingested: GeneReviews chapter: EMC10 -Related Neurodevelopmental Disorder. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-emc10-related-neurodevelopmental-disorder.md`, `entities/emc10-related-neurodevelopmental-disorder.md`, `index.md`, `log.md`.
 - 2026-05-27 16:32 CST — Ingested: GeneReviews chapter: Emanuel Syndrome. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-emanuel-syndrome.md`, `entities/emanuel-syndrome.md`, `index.md`, `log.md`.
 - 2026-05-27 16:32 CST — Ingested: GeneReviews chapter: ELN -Related Cutis Laxa. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-eln-related-cutis-laxa.md`, `entities/eln-related-cutis-laxa.md`, `index.md`, `log.md`.
 - 2026-05-27 16:32 CST — Ingested: GeneReviews chapter: Ellis-van Creveld Syndrome. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-ellis-van-creveld-syndrome.md`, `entities/ellis-van-creveld-syndrome.md`, `index.md`, `log.md`.
