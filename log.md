@@ -1924,3 +1924,10 @@
 - Raw extract saved: `raw/articles/genereviews-episodic-ataxia-type-1.md`
 - Created/updated entity page: `entities/episodic-ataxia-type-1.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Erythropoietic Protoporphyria, Autosomal Recessive
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK100826/
+- Raw extract saved: `raw/articles/genereviews-erythropoietic-protoporphyria-autosomal-recessive.md`
+- Created/updated entity page: `entities/erythropoietic-protoporphyria-autosomal-recessive.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 277
+> Last updated: 2026-05-27 | Total pages: 278
 
 ## Entities
 
@@ -279,6 +279,7 @@
 - [[epidermolysis-bullosa-with-pyloric-atresia]] — Epidermolysis bullosa with pyloric atresia (EB-PA) is characterized by fragility of the skin and mucous membranes, manifested by blistering with little or no trauma.
 - [[epimerase-deficiency-galactosemia]] — Epimerase deficiency galactosemia (GALE deficiency galactosemia) is generally considered a continuum comprising several forms: Infants with generalized epimerase.
 - [[episodic-ataxia-type-1]] — Episodic ataxia type 1 (EA1) is a potassium channelopathy characterized by constant myokymia and dramatic episodes of spastic contractions of the skeletal muscles of the.
+- [[erythropoietic-protoporphyria-autosomal-recessive]] — Erythropoietic protoporphyria (EPP) is characterized by cutaneous photosensitivity (usually beginning in infancy or childhood) that results in tingling, burning, pain.
 
 ## Concepts
 

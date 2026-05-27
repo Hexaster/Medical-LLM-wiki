@@ -1278,6 +1278,12 @@
       "title": "EPG5 -Related Disorder",
       "when": "2026-05-27 16:33 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/epp-ar/": {
+      "slug": "erythropoietic-protoporphyria-autosomal-recessive",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK100826/",
+      "title": "Erythropoietic Protoporphyria, Autosomal Recessive",
+      "when": "2026-05-27 16:33 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/evc/": {
       "slug": "ellis-van-creveld-syndrome",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK596643/",
