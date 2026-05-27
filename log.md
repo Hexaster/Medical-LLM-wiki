@@ -881,3 +881,10 @@
 - Raw extract saved: `raw/articles/genereviews-c9orf72-frontotemporal-dementia-and-or-amyotrophic-lateral-sclerosis.md`
 - Created/updated entity page: `entities/c9orf72-frontotemporal-dementia-and-or-amyotrophic-lateral-sclerosis.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: CACNA1C -Related Disorders
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1403/
+- Raw extract saved: `raw/articles/genereviews-cacna1c-related-disorders.md`
+- Created/updated entity page: `entities/cacna1c-related-disorders.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

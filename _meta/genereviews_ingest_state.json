@@ -726,6 +726,12 @@
       "title": "Allan-Herndon-Dudley Syndrome",
       "when": "2026-05-27 16:12 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/timothy/": {
+      "slug": "cacna1c-related-disorders",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1403/",
+      "title": "CACNA1C -Related Disorders",
+      "when": "2026-05-27 16:21 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/xlmr/": {
       "slug": "alpha-thalassemia-x-linked-intellectual-disability-syndrome",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1449/",
