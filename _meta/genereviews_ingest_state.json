@@ -618,6 +618,12 @@
       "title": "ATP6V0A2 -Related Cutis Laxa",
       "when": "2026-05-27 16:14 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cvt/": {
+      "slug": "catecholaminergic-polymorphic-ventricular-tachycardia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1289/",
+      "title": "Catecholaminergic Polymorphic Ventricular Tachycardia",
+      "when": "2026-05-27 16:22 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/del16p11_2/": {
       "slug": "16p11-2-recurrent-deletion",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK11167/",

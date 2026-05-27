@@ -1000,3 +1000,10 @@
 - Raw extract saved: `raw/articles/genereviews-cask-disorders.md`
 - Created/updated entity page: `entities/cask-disorders.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Catecholaminergic Polymorphic Ventricular Tachycardia
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1289/
+- Raw extract saved: `raw/articles/genereviews-catecholaminergic-polymorphic-ventricular-tachycardia.md`
+- Created/updated entity page: `entities/catecholaminergic-polymorphic-ventricular-tachycardia.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
