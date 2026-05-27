@@ -870,6 +870,12 @@
       "title": "16p11.2 Recurrent Deletion",
       "when": "2026-05-27 16:11 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/df-lamm/": {
+      "slug": "congenital-deafness-with-labyrinthine-aplasia-microtia-and-microdontia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK100664/",
+      "title": "Congenital Deafness with Labyrinthine Aplasia, Microtia, and Microdontia",
+      "when": "2026-05-27 16:26 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/dup17q12/": {
       "slug": "17q12-recurrent-duplication",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK344340/",

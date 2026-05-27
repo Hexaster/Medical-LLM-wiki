@@ -1371,3 +1371,10 @@
 - Raw extract saved: `raw/articles/genereviews-congenital-contractural-arachnodactyly.md`
 - Created/updated entity page: `entities/congenital-contractural-arachnodactyly.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Congenital Deafness with Labyrinthine Aplasia, Microtia, and Microdontia
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK100664/
+- Raw extract saved: `raw/articles/genereviews-congenital-deafness-with-labyrinthine-aplasia-microtia-and-microdontia.md`
+- Created/updated entity page: `entities/congenital-deafness-with-labyrinthine-aplasia-microtia-and-microdontia.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

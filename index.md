@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 198
+> Last updated: 2026-05-27 | Total pages: 199
 
 ## Entities
 
@@ -200,6 +200,7 @@
 - [[complete-plasminogen-activator-inhibitor-1-deficiency]] — Untreated complete plasminogen activator inhibitor 1 (PAI-1) deficiency is characterized by mild-to-moderate bleeding, although in some instances bleeding can be.
 - [[congenital-central-hypoventilation-syndrome]] — Congenital central hypoventilation syndrome (CCHS) represents the extreme manifestation of autonomic nervous system dysregulation (ANSD) with the hallmark of disordered.
 - [[congenital-contractural-arachnodactyly]] — Congenital contractural arachnodactyly (CCA) appears to comprise a broad phenotypic spectrum.
+- [[congenital-deafness-with-labyrinthine-aplasia-microtia-and-microdontia]] — Congenital deafness with l abyrinthine a plasia, m icrotia, and m icrodontia (LAMM syndrome) is characterized by: profound bilateral congenital sensorineural deafness.
 
 ## Concepts
 
