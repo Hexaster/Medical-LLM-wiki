@@ -1092,6 +1092,12 @@
       "title": "DNAJC6 Parkinson Disease",
       "when": "2026-05-27 16:30 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/dnmt1-ddsn/": {
+      "slug": "dnmt1-related-disorder",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK84112/",
+      "title": "DNMT1 -Related Disorder",
+      "when": "2026-05-27 16:30 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/dup17q12/": {
       "slug": "17q12-recurrent-duplication",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK344340/",

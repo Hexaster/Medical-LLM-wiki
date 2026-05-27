@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 244
+> Last updated: 2026-05-27 | Total pages: 245
 
 ## Entities
 
@@ -246,6 +246,7 @@
 - [[disorders-of-intracellular-cobalamin-metabolism]] — Disorders of intracellular cobalamin metabolism have a variable phenotype and age of onset that are influenced by the severity and location within the pathway of the.
 - [[dlg4-related-synaptopathy]] — DLG4 -related synaptopathy is characterized by developmental delay, intellectual disability (most commonly in the mild-to-moderate range), and autism spectrum disorder.
 - [[dnajc6-parkinson-disease]] — DNAJC6 Parkinson disease is a complex early-onset neurologic disorder whose core features are typical parkinsonian symptoms including bradykinesia, resting tremor.
+- [[dnmt1-related-disorder]] — DNMT1 -related disorder is a degenerative disorder of the central and peripheral nervous systems comprising a phenotypic spectrum that includes hereditary sensory and.
 
 ## Concepts
 

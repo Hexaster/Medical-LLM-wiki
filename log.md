@@ -1693,3 +1693,10 @@
 - Raw extract saved: `raw/articles/genereviews-dnajc6-parkinson-disease.md`
 - Created/updated entity page: `entities/dnajc6-parkinson-disease.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: DNMT1 -Related Disorder
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK84112/
+- Raw extract saved: `raw/articles/genereviews-dnmt1-related-disorder.md`
+- Created/updated entity page: `entities/dnmt1-related-disorder.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
