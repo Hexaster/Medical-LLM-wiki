@@ -1679,3 +1679,10 @@
 - Raw extract saved: `raw/articles/genereviews-disorders-of-intracellular-cobalamin-metabolism.md`
 - Created/updated entity page: `entities/disorders-of-intracellular-cobalamin-metabolism.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: DLG4 -Related Synaptopathy
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK592682/
+- Raw extract saved: `raw/articles/genereviews-dlg4-related-synaptopathy.md`
+- Created/updated entity page: `entities/dlg4-related-synaptopathy.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
