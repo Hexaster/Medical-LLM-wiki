@@ -1050,6 +1050,12 @@
       "title": "DBA Syndrome",
       "when": "2026-05-27 16:29 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/diastrophic-d/": {
+      "slug": "diastrophic-dysplasia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1350/",
+      "title": "Diastrophic Dysplasia",
+      "when": "2026-05-27 16:30 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/dmtn/": {
       "slug": "diabetes-mellitus-6q24-related-transient-neonatal",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1534/",

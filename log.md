@@ -1630,3 +1630,10 @@
 - Raw extract saved: `raw/articles/genereviews-diabetes-mellitus-6q24-related-transient-neonatal.md`
 - Created/updated entity page: `entities/diabetes-mellitus-6q24-related-transient-neonatal.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Diastrophic Dysplasia
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1350/
+- Raw extract saved: `raw/articles/genereviews-diastrophic-dysplasia.md`
+- Created/updated entity page: `entities/diastrophic-dysplasia.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
