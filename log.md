@@ -2071,3 +2071,10 @@
 - Raw extract saved: `raw/articles/genereviews-familial-porphyria-cutanea-tarda.md`
 - Created/updated entity page: `entities/familial-porphyria-cutanea-tarda.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Fanconi Anemia
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1401/
+- Raw extract saved: `raw/articles/genereviews-fanconi-anemia.md`
+- Created/updated entity page: `entities/fanconi-anemia.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

@@ -1320,6 +1320,12 @@
       "title": "EXOSC3 Pontocerebellar Hypoplasia",
       "when": "2026-05-27 16:33 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/fa/": {
+      "slug": "fanconi-anemia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1401/",
+      "title": "Fanconi Anemia",
+      "when": "2026-05-27 16:35 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/fabry/": {
       "slug": "fabry-disease",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1292/",
