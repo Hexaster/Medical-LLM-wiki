@@ -648,6 +648,12 @@
       "title": "Arylsulfatase A Deficiency",
       "when": "2026-05-27 16:13 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/mpgn/": {
+      "slug": "c3-glomerulopathy",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1425/",
+      "title": "C3 Glomerulopathy",
+      "when": "2026-05-27 16:20 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/npab/": {
       "slug": "acid-sphingomyelinase-deficiency",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1370/",

@@ -867,3 +867,10 @@
 - Raw extract saved: `raw/articles/genereviews-bscl2-related-neurologic-disorders-seipinopathy.md`
 - Created/updated entity page: `entities/bscl2-related-neurologic-disorders-seipinopathy.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: C3 Glomerulopathy
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1425/
+- Raw extract saved: `raw/articles/genereviews-c3-glomerulopathy.md`
+- Created/updated entity page: `entities/c3-glomerulopathy.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

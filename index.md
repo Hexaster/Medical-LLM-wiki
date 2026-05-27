@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 126
+> Last updated: 2026-05-27 | Total pages: 127
 
 ## Entities
 
@@ -128,6 +128,7 @@
 - [[brugada-syndrome]] — Brugada syndrome is characterized by cardiac conduction abnormalities (ST segment abnormalities in leads V 1 -V 3 on EKG and a high risk for ventricular arrhythmias).
 - [[bryant-li-bhoj-neurodevelopmental-syndrome]] — Bryant-Li-Bhoj neurodevelopmental syndrome (BRYLIB) is characterized by developmental delay / intellectual disability (typically in the severe range) and nonspecific.
 - [[bscl2-related-neurologic-disorders-seipinopathy]] — The spectrum of BSCL2 -related neurologic disorders includes Silver syndrome and variants of Charcot-Marie-Tooth neuropathy type 2, distal hereditary motor neuropathy.
+- [[c3-glomerulopathy]] — C3 glomerulopathy (C3G) is a complex ultra-rare complement-mediated renal disease caused by uncontrolled activation of the complement alternative pathway (AP) in the.
 
 ## Concepts
 
