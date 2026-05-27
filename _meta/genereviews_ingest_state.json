@@ -1074,6 +1074,12 @@
       "title": "Diastrophic Dysplasia",
       "when": "2026-05-27 16:30 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/dkc/": {
+      "slug": "dyskeratosis-congenita-and-related-telomere-biology-disorders",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK22301/",
+      "title": "Dyskeratosis Congenita and Related Telomere Biology Disorders",
+      "when": "2026-05-27 16:31 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/dld-def/": {
       "slug": "dihydrolipoamide-dehydrogenase-deficiency",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK220444/",

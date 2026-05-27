@@ -1756,3 +1756,10 @@
 - Raw extract saved: `raw/articles/genereviews-dysferlinopathy.md`
 - Created/updated entity page: `entities/dysferlinopathy.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Dyskeratosis Congenita and Related Telomere Biology Disorders
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK22301/
+- Raw extract saved: `raw/articles/genereviews-dyskeratosis-congenita-and-related-telomere-biology-disorders.md`
+- Created/updated entity page: `entities/dyskeratosis-congenita-and-related-telomere-biology-disorders.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
