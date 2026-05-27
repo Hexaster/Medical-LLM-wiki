@@ -1098,6 +1098,12 @@
       "title": "DNMT1 -Related Disorder",
       "when": "2026-05-27 16:30 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/donnai/": {
+      "slug": "donnai-barrow-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1878/",
+      "title": "Donnai-Barrow Syndrome",
+      "when": "2026-05-27 16:30 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/dup17q12/": {
       "slug": "17q12-recurrent-duplication",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK344340/",

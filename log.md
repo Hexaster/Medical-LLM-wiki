@@ -1700,3 +1700,10 @@
 - Raw extract saved: `raw/articles/genereviews-dnmt1-related-disorder.md`
 - Created/updated entity page: `entities/dnmt1-related-disorder.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Donnai-Barrow Syndrome
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1878/
+- Raw extract saved: `raw/articles/genereviews-donnai-barrow-syndrome.md`
+- Created/updated entity page: `entities/donnai-barrow-syndrome.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
