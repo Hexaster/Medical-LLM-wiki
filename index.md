@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 140
+> Last updated: 2026-05-27 | Total pages: 141
 
 ## Entities
 
@@ -142,6 +142,7 @@
 - [[carbonic-anhydrase-va-deficiency]] — Most children with carbonic anhydrase VA (CA-VA) deficiency reported to date have presented between day 2 of life and early childhood (up to age 20 months) with.
 - [[cardiofaciocutaneous-syndrome]] — Cardiofaciocutaneous (CFC) syndrome is characterized by cardiac abnormalities (pulmonic stenosis and other valve dysplasias, septal defects, hypertrophic cardiomyopathy.
 - [[carney-complex]] — Carney complex (CNC) is characterized by skin pigmentary abnormalities, myxomas, endocrine tumors or overactivity, and schwannomas.
+- [[carnitine-acylcarnitine-translocase-deficiency]] — Carnitine-acylcarnitine translocase (CACT) is a critical component of the carnitine shuttle, which facilitates the transfer of long-chain fatty acylcarnitines across the.
 
 ## Concepts
 
