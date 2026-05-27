@@ -1614,6 +1614,12 @@
       "title": "Geleophysic Dysplasia",
       "when": "2026-05-27 16:38 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/glut1/": {
+      "slug": "glucose-transporter-type-1-deficiency-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1430/",
+      "title": "Glucose Transporter Type 1 Deficiency Syndrome",
+      "when": "2026-05-27 16:39 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/gm1-ganglio/": {
       "slug": "glb1-related-disorders",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK164500/",
