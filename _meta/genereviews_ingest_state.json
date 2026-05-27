@@ -666,6 +666,12 @@
       "title": "CHEK2 -Related Cancer Predisposition",
       "when": "2026-05-27 16:24 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cherubism/": {
+      "slug": "cherubism",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1137/",
+      "title": "Cherubism",
+      "when": "2026-05-27 16:24 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/chh/": {
       "slug": "cartilage-hair-hypoplasia-anauxetic-dysplasia-spectrum-disorders",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK84550/",

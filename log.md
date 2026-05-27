@@ -1133,3 +1133,10 @@
 - Raw extract saved: `raw/articles/genereviews-chek2-related-cancer-predisposition.md`
 - Created/updated entity page: `entities/chek2-related-cancer-predisposition.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Cherubism
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1137/
+- Raw extract saved: `raw/articles/genereviews-cherubism.md`
+- Created/updated entity page: `entities/cherubism.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

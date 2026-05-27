@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 164
+> Last updated: 2026-05-27 | Total pages: 165
 
 ## Entities
 
@@ -166,6 +166,7 @@
 - [[chd8-related-neurodevelopmental-disorder-with-overgrowth]] — CHD8 -related neurodevelopmental disorder with overgrowth ( CHD8 -NDD) is characterized by generalized overgrowth, developmental delay / intellectual disability (DD/ID).
 - [[chediak-higashi-syndrome]] — Chediak-Higashi syndrome (CHS) is characterized by partial oculocutaneous albinism (OCA), immunodeficiency, a mild bleeding tendency, and late adolescent- to adult-onset.
 - [[chek2-related-cancer-predisposition]] — CHEK2- related cancer predisposition is predominantly characterized by an increased risk of female breast cancer.
+- [[cherubism]] — Cherubism is a childhood-onset autoinflammatory bone disease characterized by proliferative fibroosseous lesions limited to the mandible and maxilla.
 
 ## Concepts
 
