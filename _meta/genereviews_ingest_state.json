@@ -1338,6 +1338,12 @@
       "title": "Factor V Leiden Thrombophilia",
       "when": "2026-05-27 16:34 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/fahn/": {
+      "slug": "fatty-acid-hydroxylase-associated-neurodegeneration",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK56080/",
+      "title": "Fatty Acid Hydroxylase-Associated Neurodegeneration",
+      "when": "2026-05-27 16:35 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/fam111a-dysp/": {
       "slug": "fam111a-related-skeletal-dysplasias",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK590151/",

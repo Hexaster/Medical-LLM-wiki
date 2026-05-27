@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 301
+> Last updated: 2026-05-27 | Total pages: 302
 
 ## Entities
 
@@ -303,6 +303,7 @@
 - [[fanconi-anemia]] — Fanconi anemia (FA) is characterized by physical abnormalities, bone marrow failure, and increased risk for malignancy.
 - [[fars2-deficiency]] — The spectrum of FARS2 deficiency ranges from the infantile-onset phenotype, characterized by epileptic encephalopathy with lactic acidosis and poor prognosis (70% of.
 - [[fastkd2-related-combined-oxidative-phosphorylation-deficiency]] — FASTKD2 -related combined oxidative phosphorylation deficiency ( FASTKD2 -COXPD) is a multisystem disorder that can present from infancy to adulthood with developmental.
+- [[fatty-acid-hydroxylase-associated-neurodegeneration]] — Fatty acid hydroxylase-associated neurodegeneration (FAHN) is characterized early in the disease course by central nervous system involvement including corticospinal.
 
 ## Concepts
 

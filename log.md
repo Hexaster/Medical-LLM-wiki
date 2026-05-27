@@ -2092,3 +2092,10 @@
 - Raw extract saved: `raw/articles/genereviews-fastkd2-related-combined-oxidative-phosphorylation-deficiency.md`
 - Created/updated entity page: `entities/fastkd2-related-combined-oxidative-phosphorylation-deficiency.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Fatty Acid Hydroxylase-Associated Neurodegeneration
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK56080/
+- Raw extract saved: `raw/articles/genereviews-fatty-acid-hydroxylase-associated-neurodegeneration.md`
+- Created/updated entity page: `entities/fatty-acid-hydroxylase-associated-neurodegeneration.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
