@@ -1966,3 +1966,10 @@
 - Raw extract saved: `raw/articles/genereviews-exosc3-pontocerebellar-hypoplasia.md`
 - Created/updated entity page: `entities/exosc3-pontocerebellar-hypoplasia.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: EZH2 -Related Overgrowth
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK148820/
+- Raw extract saved: `raw/articles/genereviews-ezh2-related-overgrowth.md`
+- Created/updated entity page: `entities/ezh2-related-overgrowth.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

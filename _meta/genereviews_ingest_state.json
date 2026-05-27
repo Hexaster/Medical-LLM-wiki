@@ -1644,6 +1644,12 @@
       "title": "DDX11 -Related Cohesinopathy",
       "when": "2026-05-27 16:29 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/weaver/": {
+      "slug": "ezh2-related-overgrowth",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK148820/",
+      "title": "EZH2 -Related Overgrowth",
+      "when": "2026-05-27 16:33 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/x-dcdp/": {
       "slug": "chondrodysplasia-punctata-2-x-linked",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK55062/",
