@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 158
+> Last updated: 2026-05-27 | Total pages: 159
 
 ## Entities
 
@@ -160,6 +160,7 @@
 - [[char-syndrome]] — Char syndrome is characterized by the triad of typical facial features, patent ductus arteriosus, and aplasia or hypoplasia of the middle phalanges of the fifth fingers.
 - [[charcot-marie-tooth-hereditary-neuropathy-overview]] — The purpose of this overview is to: Describe the clinical characteristics of CMT hereditary neuropathy; Review the causes of CMT hereditary neuropathy; Provide an.
 - [[chchd10-related-disorders]] — CHCHD10 -related disorders are characterized by a spectrum of adult-onset neurologic phenotypes that can include: Because of the recent discovery of CHCHD10 -related.
+- [[chd2-related-neurodevelopmental-disorders]] — CHD2 -related neurodevelopmental disorders are characterized by early-onset epileptic encephalopathy (i.e., refractory seizures and cognitive slowing or regression.
 
 ## Concepts
 
