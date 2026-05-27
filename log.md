@@ -2358,3 +2358,10 @@
 - Raw extract saved: `raw/articles/genereviews-geleophysic-dysplasia.md`
 - Created/updated entity page: `entities/geleophysic-dysplasia.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Generalized Arterial Calcification of Infancy
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK253403/
+- Raw extract saved: `raw/articles/genereviews-generalized-arterial-calcification-of-infancy.md`
+- Created/updated entity page: `entities/generalized-arterial-calcification-of-infancy.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
