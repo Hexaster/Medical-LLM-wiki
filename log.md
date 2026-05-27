@@ -1728,3 +1728,10 @@
 - Raw extract saved: `raw/articles/genereviews-duane-syndrome.md`
 - Created/updated entity page: `entities/duane-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Duarte Galactosemia
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK258640/
+- Raw extract saved: `raw/articles/genereviews-duarte-galactosemia.md`
+- Created/updated entity page: `entities/duarte-galactosemia.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
