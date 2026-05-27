@@ -1637,3 +1637,10 @@
 - Raw extract saved: `raw/articles/genereviews-diastrophic-dysplasia.md`
 - Created/updated entity page: `entities/diastrophic-dysplasia.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: DICER1- Related Tumor Predisposition
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK196157/
+- Raw extract saved: `raw/articles/genereviews-dicer1-related-tumor-predisposition.md`
+- Created/updated entity page: `entities/dicer1-related-tumor-predisposition.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
