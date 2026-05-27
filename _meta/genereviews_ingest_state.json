@@ -582,6 +582,12 @@
       "title": "Autosomal Dominant TRPV4- Related Disorders",
       "when": "2026-05-27 16:14 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cpt1a/": {
+      "slug": "carnitine-palmitoyltransferase-1a-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1527/",
+      "title": "Carnitine Palmitoyltransferase 1A Deficiency",
+      "when": "2026-05-27 16:22 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cranio-md/": {
       "slug": "autosomal-dominant-craniometaphyseal-dysplasia",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1461/",

@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 141
+> Last updated: 2026-05-27 | Total pages: 142
 
 ## Entities
 
@@ -143,6 +143,7 @@
 - [[cardiofaciocutaneous-syndrome]] — Cardiofaciocutaneous (CFC) syndrome is characterized by cardiac abnormalities (pulmonic stenosis and other valve dysplasias, septal defects, hypertrophic cardiomyopathy.
 - [[carney-complex]] — Carney complex (CNC) is characterized by skin pigmentary abnormalities, myxomas, endocrine tumors or overactivity, and schwannomas.
 - [[carnitine-acylcarnitine-translocase-deficiency]] — Carnitine-acylcarnitine translocase (CACT) is a critical component of the carnitine shuttle, which facilitates the transfer of long-chain fatty acylcarnitines across the.
+- [[carnitine-palmitoyltransferase-1a-deficiency]] — Carnitine palmitoyltransferase 1A (CPT1A) deficiency is a disorder of long-chain fatty acid oxidation.
 
 ## Concepts
 
