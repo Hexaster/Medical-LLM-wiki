@@ -2316,3 +2316,10 @@
 - Raw extract saved: `raw/articles/genereviews-gabriele-de-vries-syndrome.md`
 - Created/updated entity page: `entities/gabriele-de-vries-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: GAN -Related Neurodegeneration
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1136/
+- Raw extract saved: `raw/articles/genereviews-gan-related-neurodegeneration.md`
+- Created/updated entity page: `entities/gan-related-neurodegeneration.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
