@@ -1035,3 +1035,10 @@
 - Raw extract saved: `raw/articles/genereviews-cdkl5-deficiency-disorder.md`
 - Created/updated entity page: `entities/cdkl5-deficiency-disorder.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: CDKN2A Cancer Predisposition
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK616232/
+- Raw extract saved: `raw/articles/genereviews-cdkn2a-cancer-predisposition.md`
+- Created/updated entity page: `entities/cdkn2a-cancer-predisposition.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
