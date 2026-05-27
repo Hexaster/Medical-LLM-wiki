@@ -1294,3 +1294,10 @@
 - Raw extract saved: `raw/articles/genereviews-cnot1-related-vissers-bodmer-syndrome.md`
 - Created/updated entity page: `entities/cnot1-related-vissers-bodmer-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Cockayne Syndrome
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1342/
+- Raw extract saved: `raw/articles/genereviews-cockayne-syndrome.md`
+- Created/updated entity page: `entities/cockayne-syndrome.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
