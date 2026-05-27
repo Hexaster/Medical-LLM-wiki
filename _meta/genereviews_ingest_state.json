@@ -702,6 +702,12 @@
       "title": "AFG3L2 -Related Neurologic Disorders",
       "when": "2026-05-27 16:12 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/spg17/": {
+      "slug": "bscl2-related-neurologic-disorders-seipinopathy",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1307/",
+      "title": "BSCL2 -Related Neurologic Disorders / Seipinopathy",
+      "when": "2026-05-27 16:20 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/thctd/": {
       "slug": "allan-herndon-dudley-syndrome",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK26373/",

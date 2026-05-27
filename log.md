@@ -860,3 +860,10 @@
 - Raw extract saved: `raw/articles/genereviews-bryant-li-bhoj-neurodevelopmental-syndrome.md`
 - Created/updated entity page: `entities/bryant-li-bhoj-neurodevelopmental-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: BSCL2 -Related Neurologic Disorders / Seipinopathy
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1307/
+- Raw extract saved: `raw/articles/genereviews-bscl2-related-neurologic-disorders-seipinopathy.md`
+- Created/updated entity page: `entities/bscl2-related-neurologic-disorders-seipinopathy.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
