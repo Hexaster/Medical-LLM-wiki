@@ -1698,6 +1698,12 @@
       "title": "Arylsulfatase A Deficiency",
       "when": "2026-05-27 16:13 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/mota/": {
+      "slug": "frem1-autosomal-recessive-disorders",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1728/",
+      "title": "FREM1 Autosomal Recessive Disorders",
+      "when": "2026-05-27 16:37 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/mpgn/": {
       "slug": "c3-glomerulopathy",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1425/",
