@@ -642,6 +642,12 @@
       "title": "Autosomal Dominant Craniometaphyseal Dysplasia",
       "when": "2026-05-27 16:14 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ctx/": {
+      "slug": "cerebrotendinous-xanthomatosis",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1409/",
+      "title": "Cerebrotendinous Xanthomatosis",
+      "when": "2026-05-27 16:23 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cutis-laxa/": {
       "slug": "atp6v0a2-related-cutis-laxa",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK5200/",
