@@ -60,6 +60,7 @@ This wiki is for research and study synthesis. It is not medical advice, diagnos
 
 ## Ingest History
 
+- 2026-05-27 16:28 CST — Ingested: GeneReviews chapter: CSF1R -Related Disorder. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-csf1r-related-disorder.md`, `entities/csf1r-related-disorder.md`, `index.md`, `log.md`.
 - 2026-05-27 16:28 CST — Ingested: GeneReviews chapter: Creatine Deficiency Disorders. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-creatine-deficiency-disorders.md`, `entities/creatine-deficiency-disorders.md`, `index.md`, `log.md`.
 - 2026-05-27 16:27 CST — Ingested: GeneReviews chapter: Cranioectodermal Dysplasia. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-cranioectodermal-dysplasia.md`, `entities/cranioectodermal-dysplasia.md`, `index.md`, `log.md`.
 - 2026-05-27 16:27 CST — Ingested: GeneReviews chapter: Costeff Syndrome. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-costeff-syndrome.md`, `entities/costeff-syndrome.md`, `index.md`, `log.md`.

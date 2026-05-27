@@ -984,6 +984,12 @@
       "title": "3-M Syndrome",
       "when": "2026-05-27 16:11 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/hdls/": {
+      "slug": "csf1r-related-disorder",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK100239/",
+      "title": "CSF1R -Related Disorder",
+      "when": "2026-05-27 16:28 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/hibch-def/": {
       "slug": "3-hydroxyisobutyryl-coa-hydrolase-deficiency",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK619246/",

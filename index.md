@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 212
+> Last updated: 2026-05-27 | Total pages: 213
 
 ## Entities
 
@@ -214,6 +214,7 @@
 - [[costeff-syndrome]] — Costeff syndrome is characterized by optic atrophy and/or choreoathetoid movement disorder with onset before age ten years.
 - [[cranioectodermal-dysplasia]] — Cranioectodermal dysplasia (CED) is a ciliopathy with skeletal involvement (narrow thorax, shortened proximal limbs, syndactyly, polydactyly, brachydactyly), ectodermal.
 - [[creatine-deficiency-disorders]] — The creatine deficiency disorders (CDDs), inborn errors of creatine metabolism and transport, comprise three disorders: the creatine biosynthesis disorders.
+- [[csf1r-related-disorder]] — The spectrum of CSF1R -related disorder ranges from early-onset disease (age <18 years) to late-onset disease (age ≥18 years).
 
 ## Concepts
 

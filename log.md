@@ -1469,3 +1469,10 @@
 - Raw extract saved: `raw/articles/genereviews-creatine-deficiency-disorders.md`
 - Created/updated entity page: `entities/creatine-deficiency-disorders.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: CSF1R -Related Disorder
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK100239/
+- Raw extract saved: `raw/articles/genereviews-csf1r-related-disorder.md`
+- Created/updated entity page: `entities/csf1r-related-disorder.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
