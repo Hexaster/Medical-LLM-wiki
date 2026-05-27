@@ -1644,6 +1644,12 @@
       "title": "Familial Paroxysmal Nonkinesigenic Dyskinesia",
       "when": "2026-05-27 16:35 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/porphyria-ct/": {
+      "slug": "familial-porphyria-cutanea-tarda",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK143129/",
+      "title": "Familial Porphyria Cutanea Tarda",
+      "when": "2026-05-27 16:35 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/pp-blastoma/": {
       "slug": "dicer1-related-tumor-predisposition",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK196157/",

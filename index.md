@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 297
+> Last updated: 2026-05-27 | Total pages: 298
 
 ## Entities
 
@@ -299,6 +299,7 @@
 - [[familial-lipoprotein-lipase-deficiency]] — Familial lipoprotein lipase (LPL) deficiency usually presents in childhood and is characterized by very severe hypertriglyceridemia with episodes of abdominal pain.
 - [[familial-mediterranean-fever]] — Familial Mediterranean fever (FMF) is divided into two phenotypes: type 1 and type 2.
 - [[familial-paroxysmal-nonkinesigenic-dyskinesia]] — Familial paroxysmal nonkinesigenic dyskinesia (PNKD) is characterized by unilateral or bilateral involuntary movements.
+- [[familial-porphyria-cutanea-tarda]] — Familial porphyria cutanea tarda (F-PCT) is characterized by: skin findings including blistering over the dorsal aspects of the hands and other sun-exposed areas of.
 
 ## Concepts
 
