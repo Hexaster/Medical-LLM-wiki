@@ -986,3 +986,10 @@
 - Raw extract saved: `raw/articles/genereviews-carnitine-palmitoyltransferase-ii-deficiency.md`
 - Created/updated entity page: `entities/carnitine-palmitoyltransferase-ii-deficiency.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Cartilage-Hair Hypoplasia – Anauxetic Dysplasia Spectrum Disorders
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK84550/
+- Raw extract saved: `raw/articles/genereviews-cartilage-hair-hypoplasia-anauxetic-dysplasia-spectrum-disorders.md`
+- Created/updated entity page: `entities/cartilage-hair-hypoplasia-anauxetic-dysplasia-spectrum-disorders.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

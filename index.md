@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 143
+> Last updated: 2026-05-27 | Total pages: 144
 
 ## Entities
 
@@ -145,6 +145,7 @@
 - [[carnitine-acylcarnitine-translocase-deficiency]] — Carnitine-acylcarnitine translocase (CACT) is a critical component of the carnitine shuttle, which facilitates the transfer of long-chain fatty acylcarnitines across the.
 - [[carnitine-palmitoyltransferase-1a-deficiency]] — Carnitine palmitoyltransferase 1A (CPT1A) deficiency is a disorder of long-chain fatty acid oxidation.
 - [[carnitine-palmitoyltransferase-ii-deficiency]] — Carnitine palmitoyltransferase (CPT) II deficiency is a disorder of long-chain fatty-acid oxidation.
+- [[cartilage-hair-hypoplasia-anauxetic-dysplasia-spectrum-disorders]] — The cartilage-hair hypoplasia – anauxetic dysplasia (CHH-AD) spectrum disorders are a continuum that includes the following phenotypes: CHH-AD spectrum disorders are.
 
 ## Concepts
 
