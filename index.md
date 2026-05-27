@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 243
+> Last updated: 2026-05-27 | Total pages: 244
 
 ## Entities
 
@@ -245,6 +245,7 @@
 - [[disorders-of-gnas-inactivation]] — Disorders of GNAS inactivation include the phenotypes pseudohypoparathyroidism Ia, Ib, and Ic (PHP-Ia, -Ib, -Ic), pseudopseudohypoparathyroidism (PPHP), progressive.
 - [[disorders-of-intracellular-cobalamin-metabolism]] — Disorders of intracellular cobalamin metabolism have a variable phenotype and age of onset that are influenced by the severity and location within the pathway of the.
 - [[dlg4-related-synaptopathy]] — DLG4 -related synaptopathy is characterized by developmental delay, intellectual disability (most commonly in the mild-to-moderate range), and autism spectrum disorder.
+- [[dnajc6-parkinson-disease]] — DNAJC6 Parkinson disease is a complex early-onset neurologic disorder whose core features are typical parkinsonian symptoms including bradykinesia, resting tremor.
 
 ## Concepts
 

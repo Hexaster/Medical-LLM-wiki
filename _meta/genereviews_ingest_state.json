@@ -1086,6 +1086,12 @@
       "title": "Diabetes Mellitus, 6q24-Related Transient Neonatal",
       "when": "2026-05-27 16:29 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/dnajc6-pd/": {
+      "slug": "dnajc6-parkinson-disease",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK570369/",
+      "title": "DNAJC6 Parkinson Disease",
+      "when": "2026-05-27 16:30 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/dup17q12/": {
       "slug": "17q12-recurrent-duplication",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK344340/",

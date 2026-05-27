@@ -1686,3 +1686,10 @@
 - Raw extract saved: `raw/articles/genereviews-dlg4-related-synaptopathy.md`
 - Created/updated entity page: `entities/dlg4-related-synaptopathy.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: DNAJC6 Parkinson Disease
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK570369/
+- Raw extract saved: `raw/articles/genereviews-dnajc6-parkinson-disease.md`
+- Created/updated entity page: `entities/dnajc6-parkinson-disease.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
