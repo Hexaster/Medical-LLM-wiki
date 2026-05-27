@@ -1392,6 +1392,12 @@
       "title": "Familial Combined Hypolipidemia",
       "when": "2026-05-27 16:34 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/fcmd/": {
+      "slug": "fukuyama-congenital-muscular-dystrophy",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1206/",
+      "title": "Fukuyama Congenital Muscular Dystrophy",
+      "when": "2026-05-27 16:37 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/fd/": {
       "slug": "familial-dysautonomia",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1180/",
