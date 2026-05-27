@@ -792,6 +792,12 @@
       "title": "Coffin-Siris Syndrome",
       "when": "2026-05-27 16:26 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cohen/": {
+      "slug": "cohen-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1482/",
+      "title": "Cohen Syndrome",
+      "when": "2026-05-27 16:26 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cpt1a/": {
       "slug": "carnitine-palmitoyltransferase-1a-deficiency",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1527/",

@@ -1308,3 +1308,10 @@
 - Raw extract saved: `raw/articles/genereviews-coffin-siris-syndrome.md`
 - Created/updated entity page: `entities/coffin-siris-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Cohen Syndrome
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1482/
+- Raw extract saved: `raw/articles/genereviews-cohen-syndrome.md`
+- Created/updated entity page: `entities/cohen-syndrome.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
