@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 210
+> Last updated: 2026-05-27 | Total pages: 211
 
 ## Entities
 
@@ -212,6 +212,7 @@
 - [[congenital-stromal-corneal-dystrophy]] — Congenital stromal corneal dystrophy is characterized by the presence of bilateral corneal opacities that can be seen at or shortly after birth.
 - [[cornelia-de-lange-syndrome]] — Cornelia de Lange syndrome (CdLS) encompasses a spectrum of findings from mild to severe.
 - [[costeff-syndrome]] — Costeff syndrome is characterized by optic atrophy and/or choreoathetoid movement disorder with onset before age ten years.
+- [[cranioectodermal-dysplasia]] — Cranioectodermal dysplasia (CED) is a ciliopathy with skeletal involvement (narrow thorax, shortened proximal limbs, syndactyly, polydactyly, brachydactyly), ectodermal.
 
 ## Concepts
 

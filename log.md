@@ -1455,3 +1455,10 @@
 - Raw extract saved: `raw/articles/genereviews-costeff-syndrome.md`
 - Created/updated entity page: `entities/costeff-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Cranioectodermal Dysplasia
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK154653/
+- Raw extract saved: `raw/articles/genereviews-cranioectodermal-dysplasia.md`
+- Created/updated entity page: `entities/cranioectodermal-dysplasia.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

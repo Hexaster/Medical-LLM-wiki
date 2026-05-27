@@ -648,6 +648,12 @@
       "title": "Chondrodysplasia Punctata 1, X-Linked",
       "when": "2026-05-27 16:24 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ce-dysp/": {
+      "slug": "cranioectodermal-dysplasia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK154653/",
+      "title": "Cranioectodermal Dysplasia",
+      "when": "2026-05-27 16:27 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cebpa-aml/": {
       "slug": "cebpa-associated-familial-acute-myeloid-leukemia-aml",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK47457/",
