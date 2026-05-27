@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 138
+> Last updated: 2026-05-27 | Total pages: 139
 
 ## Entities
 
@@ -140,6 +140,7 @@
 - [[cant-syndrome]] — Cantú syndrome is characterized by congenital hypertrichosis; distinctive coarse facial features (including broad nasal bridge, wide mouth with thick vermilion of the.
 - [[capillary-malformation-arteriovenous-malformation-syndrome]] — Capillary malformation-arteriovenous malformation (CM-AVM) syndrome is characterized by the presence of multiple small (1-2 cm in diameter) capillary malformations.
 - [[carbonic-anhydrase-va-deficiency]] — Most children with carbonic anhydrase VA (CA-VA) deficiency reported to date have presented between day 2 of life and early childhood (up to age 20 months) with.
+- [[cardiofaciocutaneous-syndrome]] — Cardiofaciocutaneous (CFC) syndrome is characterized by cardiac abnormalities (pulmonic stenosis and other valve dysplasias, septal defects, hypertrophic cardiomyopathy.
 
 ## Concepts
 
