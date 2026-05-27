@@ -1446,6 +1446,12 @@
       "title": "Autosomal Dominant Tubulointerstitial Kidney Disease \u2013 REN",
       "when": "2026-05-27 16:14 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/hyperchol/": {
+      "slug": "familial-hypercholesterolemia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK174884/",
+      "title": "Familial Hypercholesterolemia",
+      "when": "2026-05-27 16:34 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/iahsp/": {
       "slug": "als2-related-disorder",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1243/",
