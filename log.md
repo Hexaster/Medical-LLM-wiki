@@ -1763,3 +1763,10 @@
 - Raw extract saved: `raw/articles/genereviews-dyskeratosis-congenita-and-related-telomere-biology-disorders.md`
 - Created/updated entity page: `entities/dyskeratosis-congenita-and-related-telomere-biology-disorders.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Dystrophic Epidermolysis Bullosa
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1304/
+- Raw extract saved: `raw/articles/genereviews-dystrophic-epidermolysis-bullosa.md`
+- Created/updated entity page: `entities/dystrophic-epidermolysis-bullosa.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

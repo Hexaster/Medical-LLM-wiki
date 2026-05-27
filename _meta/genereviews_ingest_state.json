@@ -1158,6 +1158,12 @@
       "title": "DYRK1A Syndrome",
       "when": "2026-05-27 16:31 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ebd/": {
+      "slug": "dystrophic-epidermolysis-bullosa",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1304/",
+      "title": "Dystrophic Epidermolysis Bullosa",
+      "when": "2026-05-27 16:31 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/eds/": {
       "slug": "classic-ehlers-danlos-syndrome",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1244/",
