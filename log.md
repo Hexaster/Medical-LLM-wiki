@@ -1707,3 +1707,10 @@
 - Raw extract saved: `raw/articles/genereviews-donnai-barrow-syndrome.md`
 - Created/updated entity page: `entities/donnai-barrow-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Dopamine Beta-Hydroxylase Deficiency
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1474/
+- Raw extract saved: `raw/articles/genereviews-dopamine-beta-hydroxylase-deficiency.md`
+- Created/updated entity page: `entities/dopamine-beta-hydroxylase-deficiency.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

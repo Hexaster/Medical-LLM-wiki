@@ -990,6 +990,12 @@
       "title": "Danon Disease",
       "when": "2026-05-27 16:28 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/dbh/": {
+      "slug": "dopamine-beta-hydroxylase-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1474/",
+      "title": "Dopamine Beta-Hydroxylase Deficiency",
+      "when": "2026-05-27 16:30 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/dcm-ov/": {
       "slug": "dilated-cardiomyopathy-overview",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1309/",

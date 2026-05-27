@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 246
+> Last updated: 2026-05-27 | Total pages: 247
 
 ## Entities
 
@@ -248,6 +248,7 @@
 - [[dnajc6-parkinson-disease]] — DNAJC6 Parkinson disease is a complex early-onset neurologic disorder whose core features are typical parkinsonian symptoms including bradykinesia, resting tremor.
 - [[dnmt1-related-disorder]] — DNMT1 -related disorder is a degenerative disorder of the central and peripheral nervous systems comprising a phenotypic spectrum that includes hereditary sensory and.
 - [[donnai-barrow-syndrome]] — Donnai-Barrow syndrome (DBS) is characterized by typical craniofacial features (large anterior fontanelle, wide metopic suture, widow's peak, markedly widely spaced.
+- [[dopamine-beta-hydroxylase-deficiency]] — Dopamine beta-hydroxylase (DBH) deficiency is characterized by lack of sympathetic noradrenergic function resulting in profound deficits in autonomic regulation of.
 
 ## Concepts
 
