@@ -1105,3 +1105,10 @@
 - Raw extract saved: `raw/articles/genereviews-chd4-neurodevelopmental-disorder.md`
 - Created/updated entity page: `entities/chd4-neurodevelopmental-disorder.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: CHD7 Disorder
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1117/
+- Raw extract saved: `raw/articles/genereviews-chd7-disorder.md`
+- Created/updated entity page: `entities/chd7-disorder.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

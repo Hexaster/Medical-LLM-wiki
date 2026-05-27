@@ -624,6 +624,12 @@
       "title": "Char Syndrome",
       "when": "2026-05-27 16:23 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/charge/": {
+      "slug": "chd7-disorder",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1117/",
+      "title": "CHD7 Disorder",
+      "when": "2026-05-27 16:23 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/chchd10-dis/": {
       "slug": "chchd10-related-disorders",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK304142/",
