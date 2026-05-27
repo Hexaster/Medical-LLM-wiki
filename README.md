@@ -60,6 +60,7 @@ This wiki is for research and study synthesis. It is not medical advice, diagnos
 
 ## Ingest History
 
+- 2026-05-27 16:28 CST — Ingested: GeneReviews chapter: Cystinuria. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-cystinuria.md`, `entities/cystinuria.md`, `index.md`, `log.md`.
 - 2026-05-27 16:28 CST — Ingested: GeneReviews chapter: Cystinosis. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-cystinosis.md`, `entities/cystinosis.md`, `index.md`, `log.md`.
 - 2026-05-27 16:28 CST — Ingested: GeneReviews chapter: Cystic Fibrosis. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-cystic-fibrosis.md`, `entities/cystic-fibrosis.md`, `index.md`, `log.md`.
 - 2026-05-27 16:28 CST — Ingested: GeneReviews chapter: CYLD Cutaneous Syndrome. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-cyld-cutaneous-syndrome.md`, `entities/cyld-cutaneous-syndrome.md`, `index.md`, `log.md`.

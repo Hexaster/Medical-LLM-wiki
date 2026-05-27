@@ -1525,3 +1525,10 @@
 - Raw extract saved: `raw/articles/genereviews-cystinosis.md`
 - Created/updated entity page: `entities/cystinosis.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Cystinuria
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK619248/
+- Raw extract saved: `raw/articles/genereviews-cystinuria.md`
+- Created/updated entity page: `entities/cystinuria.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

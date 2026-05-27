@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 220
+> Last updated: 2026-05-27 | Total pages: 221
 
 ## Entities
 
@@ -222,6 +222,7 @@
 - [[cyld-cutaneous-syndrome]] — CYLD cutaneous syndrome (CCS) typically manifests in the second or third decade with the appearance of multiple skin tumors including cylindromas, spiradenomas.
 - [[cystic-fibrosis]] — Cystic fibrosis (CF) is a multisystem disease affecting epithelia of the respiratory tract, exocrine pancreas, intestine, hepatobiliary system, and exocrine sweat glands.
 - [[cystinosis]] — Cystinosis comprises three allelic clinical phenotypes caused by pathogenic variants in CTNS .
+- [[cystinuria]] — Cystinuria is characterized by early-onset and recurrent kidney stones composed of cystine.
 
 ## Concepts
 

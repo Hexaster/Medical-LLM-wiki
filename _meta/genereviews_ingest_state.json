@@ -966,6 +966,12 @@
       "title": "CYLD Cutaneous Syndrome",
       "when": "2026-05-27 16:28 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cystinuria/": {
+      "slug": "cystinuria",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK619248/",
+      "title": "Cystinuria",
+      "when": "2026-05-27 16:28 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/del16p11_2/": {
       "slug": "16p11-2-recurrent-deletion",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK11167/",
