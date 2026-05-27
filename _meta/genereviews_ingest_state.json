@@ -1224,6 +1224,12 @@
       "title": "Classic Ehlers-Danlos Syndrome",
       "when": "2026-05-27 16:25 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ee/": {
+      "slug": "ethylmalonic-encephalopathy",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK453432/",
+      "title": "Ethylmalonic Encephalopathy",
+      "when": "2026-05-27 16:33 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/eed-og/": {
       "slug": "eed-related-overgrowth",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK540017/",

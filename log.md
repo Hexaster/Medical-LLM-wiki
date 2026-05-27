@@ -1938,3 +1938,10 @@
 - Raw extract saved: `raw/articles/genereviews-esco2-spectrum-disorder.md`
 - Created/updated entity page: `entities/esco2-spectrum-disorder.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Ethylmalonic Encephalopathy
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK453432/
+- Raw extract saved: `raw/articles/genereviews-ethylmalonic-encephalopathy.md`
+- Created/updated entity page: `entities/ethylmalonic-encephalopathy.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
