@@ -516,6 +516,12 @@
       "title": "Carbonic Anhydrase VA Deficiency",
       "when": "2026-05-27 16:21 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cach/": {
+      "slug": "childhood-ataxia-with-central-nervous-system-hypomyelination-vanishing-white-matter",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1258/",
+      "title": "Childhood Ataxia with Central Nervous System Hypomyelination / Vanishing White Matter",
+      "when": "2026-05-27 16:24 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cact-def/": {
       "slug": "carnitine-acylcarnitine-translocase-deficiency",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK582032/",

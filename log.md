@@ -1140,3 +1140,10 @@
 - Raw extract saved: `raw/articles/genereviews-cherubism.md`
 - Created/updated entity page: `entities/cherubism.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Childhood Ataxia with Central Nervous System Hypomyelination / Vanishing White Matter
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1258/
+- Raw extract saved: `raw/articles/genereviews-childhood-ataxia-with-central-nervous-system-hypomyelination-vanishing-white-matter.md`
+- Created/updated entity page: `entities/childhood-ataxia-with-central-nervous-system-hypomyelination-vanishing-white-matter.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
