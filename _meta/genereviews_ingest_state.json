@@ -180,6 +180,12 @@
       "title": "Autoimmune Lymphoproliferative Syndrome",
       "when": "2026-05-27 16:14 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/als-ftd/": {
+      "slug": "c9orf72-frontotemporal-dementia-and-or-amyotrophic-lateral-sclerosis",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK268647/",
+      "title": "C9orf72 Frontotemporal Dementia and/or Amyotrophic Lateral Sclerosis",
+      "when": "2026-05-27 16:21 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/als-overview/": {
       "slug": "amyotrophic-lateral-sclerosis-overview",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1450/",

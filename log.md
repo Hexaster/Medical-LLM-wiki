@@ -874,3 +874,10 @@
 - Raw extract saved: `raw/articles/genereviews-c3-glomerulopathy.md`
 - Created/updated entity page: `entities/c3-glomerulopathy.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: C9orf72 Frontotemporal Dementia and/or Amyotrophic Lateral Sclerosis
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK268647/
+- Raw extract saved: `raw/articles/genereviews-c9orf72-frontotemporal-dementia-and-or-amyotrophic-lateral-sclerosis.md`
+- Created/updated entity page: `entities/c9orf72-frontotemporal-dementia-and-or-amyotrophic-lateral-sclerosis.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
