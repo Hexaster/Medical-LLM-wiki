@@ -1413,3 +1413,10 @@
 - Raw extract saved: `raw/articles/genereviews-congenital-insensitivity-to-pain-overview.md`
 - Created/updated entity page: `entities/congenital-insensitivity-to-pain-overview.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Congenital Mirror Movements
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK279760/
+- Raw extract saved: `raw/articles/genereviews-congenital-mirror-movements.md`
+- Created/updated entity page: `entities/congenital-mirror-movements.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
