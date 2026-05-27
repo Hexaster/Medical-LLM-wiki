@@ -2001,3 +2001,10 @@
 - Raw extract saved: `raw/articles/genereviews-fam111a-related-skeletal-dysplasias.md`
 - Created/updated entity page: `entities/fam111a-related-skeletal-dysplasias.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Familial Cerebral Cavernous Malformations
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1293/
+- Raw extract saved: `raw/articles/genereviews-familial-cerebral-cavernous-malformations.md`
+- Created/updated entity page: `entities/familial-cerebral-cavernous-malformations.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 288
+> Last updated: 2026-05-27 | Total pages: 289
 
 ## Entities
 
@@ -290,6 +290,7 @@
 - [[facioscapulohumeral-muscular-dystrophy]] — Facioscapulohumeral muscular dystrophy (FSHD) typically presents with weakness of the facial muscles, the stabilizers of the scapula, and/or the dorsiflexors of the foot.
 - [[factor-v-leiden-thrombophilia]] — Factor V Leiden thrombophilia is characterized by venous thromboembolism (VTE) manifesting most commonly in adults as deep vein thrombosis (DVT) in the legs or pulmonary.
 - [[fam111a-related-skeletal-dysplasias]] — FAM111A -related skeletal dysplasias include the milder phenotype of Kenny-Caffey syndrome (KCS) and a more severe lethal phenotype, osteocraniostenosis (OCS).
+- [[familial-cerebral-cavernous-malformations]] — Familial cerebral cavernous malformations (FCCM) is a disorder characterized by multiple vascular lesions in the brain and spinal cord that consist of clustered.
 
 ## Concepts
 
