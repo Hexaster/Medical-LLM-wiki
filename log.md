@@ -1119,3 +1119,10 @@
 - Raw extract saved: `raw/articles/genereviews-chd8-related-neurodevelopmental-disorder-with-overgrowth.md`
 - Created/updated entity page: `entities/chd8-related-neurodevelopmental-disorder-with-overgrowth.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Chediak-Higashi Syndrome
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK5188/
+- Raw extract saved: `raw/articles/genereviews-chediak-higashi-syndrome.md`
+- Created/updated entity page: `entities/chediak-higashi-syndrome.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

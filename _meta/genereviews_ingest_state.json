@@ -654,6 +654,12 @@
       "title": "CHD8 -Related Neurodevelopmental Disorder with Overgrowth",
       "when": "2026-05-27 16:23 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/chediak-higashi/": {
+      "slug": "chediak-higashi-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK5188/",
+      "title": "Chediak-Higashi Syndrome",
+      "when": "2026-05-27 16:24 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/chh/": {
       "slug": "cartilage-hair-hypoplasia-anauxetic-dysplasia-spectrum-disorders",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK84550/",
