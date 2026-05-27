@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 271
+> Last updated: 2026-05-27 | Total pages: 272
 
 ## Entities
 
@@ -273,6 +273,7 @@
 - [[encephalocraniocutaneous-lipomatosis]] — Encephalocraniocutaneous lipomatosis (ECCL) comprises a spectrum of predominantly congenital anomalies.
 - [[enlarged-parietal-foramina]] — Enlarged parietal foramina are characteristic symmetric, paired radiolucencies of the parietal bones, located close to the intersection of the sagittal and lambdoid.
 - [[entpd1-related-neurodevelopmental-disorder]] — ENTPD1- related neurodevelopmental disorder ( ENTPD1 -NDD) is characterized by developmental delay / intellectual disability (ranging from borderline/mild to.
+- [[epb42-related-hereditary-spherocytosis]] — EPB42 -related hereditary spherocytosis (EPB42-HS) is a chronic nonimmune hemolytic anemia that is usually of mild-to-moderate severity.
 
 ## Concepts
 

@@ -1248,6 +1248,12 @@
       "title": "ENTPD1 -Related Neurodevelopmental Disorder",
       "when": "2026-05-27 16:32 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/epb42-spherocytosis/": {
+      "slug": "epb42-related-hereditary-spherocytosis",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK190102/",
+      "title": "EPB42 -Related Hereditary Spherocytosis",
+      "when": "2026-05-27 16:32 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/evc/": {
       "slug": "ellis-van-creveld-syndrome",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK596643/",
