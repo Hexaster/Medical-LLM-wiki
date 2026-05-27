@@ -2176,3 +2176,10 @@
 - Raw extract saved: `raw/articles/genereviews-fkbp14-kyphoscoliotic-ehlers-danlos-syndrome.md`
 - Created/updated entity page: `entities/fkbp14-kyphoscoliotic-ehlers-danlos-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: FLNA Deficiency
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1213/
+- Raw extract saved: `raw/articles/genereviews-flna-deficiency.md`
+- Created/updated entity page: `entities/flna-deficiency.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

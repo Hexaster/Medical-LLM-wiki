@@ -1830,6 +1830,12 @@
       "title": "Chondrodysplasia Punctata 2, X-Linked",
       "when": "2026-05-27 16:24 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/x-pvh/": {
+      "slug": "flna-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1213/",
+      "title": "FLNA Deficiency",
+      "when": "2026-05-27 16:36 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/xlhi/": {
       "slug": "cd40-ligand-deficiency",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1402/",
