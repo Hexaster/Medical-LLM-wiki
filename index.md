@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 216
+> Last updated: 2026-05-27 | Total pages: 217
 
 ## Entities
 
@@ -218,6 +218,7 @@
 - [[csnk2b-related-neurodevelopmental-disorder]] — CSNK2B -related neurodevelopmental disorder ( CSNK2B -NDD), reported in more than 80 individuals to date, is characterized in most individuals by developmental delay.
 - [[ctcf-related-disorder]] — CTCF -related disorder is characterized by developmental delay / intellectual disability (ranging from mild to severe), with both speech and motor delays being common.
 - [[ctdp1-related-congenital-cataracts-facial-dysmorphism-and-neuropathy]] — CTDP1 -related congenital cataracts, facial dysmorphism, and neuropathy ( CTDP1 -CCFDN) is characterized by abnormalities of the eye (bilateral congenital cataracts.
+- [[ctnnb1-neurodevelopmental-disorder]] — CTNNB1 neurodevelopmental disorder ( CTNNB1 -NDD) is characterized in all individuals by mild-to-profound cognitive impairment and in up to 39% of reported individuals.
 
 ## Concepts
 

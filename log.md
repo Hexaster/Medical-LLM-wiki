@@ -1497,3 +1497,10 @@
 - Raw extract saved: `raw/articles/genereviews-ctdp1-related-congenital-cataracts-facial-dysmorphism-and-neuropathy.md`
 - Created/updated entity page: `entities/ctdp1-related-congenital-cataracts-facial-dysmorphism-and-neuropathy.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: CTNNB1 Neurodevelopmental Disorder
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK580527/
+- Raw extract saved: `raw/articles/genereviews-ctnnb1-neurodevelopmental-disorder.md`
+- Created/updated entity page: `entities/ctnnb1-neurodevelopmental-disorder.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
