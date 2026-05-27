@@ -1616,3 +1616,10 @@
 - Raw extract saved: `raw/articles/genereviews-depdc5-related-epilepsy.md`
 - Created/updated entity page: `entities/depdc5-related-epilepsy.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: DFNA2 Nonsyndromic Hearing Loss
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1209/
+- Raw extract saved: `raw/articles/genereviews-dfna2-nonsyndromic-hearing-loss.md`
+- Created/updated entity page: `entities/dfna2-nonsyndromic-hearing-loss.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

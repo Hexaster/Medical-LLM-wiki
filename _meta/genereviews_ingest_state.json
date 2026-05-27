@@ -1032,6 +1032,12 @@
       "title": "Congenital Deafness with Labyrinthine Aplasia, Microtia, and Microdontia",
       "when": "2026-05-27 16:26 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/dfna2/": {
+      "slug": "dfna2-nonsyndromic-hearing-loss",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1209/",
+      "title": "DFNA2 Nonsyndromic Hearing Loss",
+      "when": "2026-05-27 16:29 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/dguok-mtddepl/": {
       "slug": "deoxyguanosine-kinase-deficiency",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK7040/",

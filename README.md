@@ -60,6 +60,7 @@ This wiki is for research and study synthesis. It is not medical advice, diagnos
 
 ## Ingest History
 
+- 2026-05-27 16:29 CST — Ingested: GeneReviews chapter: DFNA2 Nonsyndromic Hearing Loss. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-dfna2-nonsyndromic-hearing-loss.md`, `entities/dfna2-nonsyndromic-hearing-loss.md`, `index.md`, `log.md`.
 - 2026-05-27 16:29 CST — Ingested: GeneReviews chapter: DEPDC5 -Related Epilepsy. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-depdc5-related-epilepsy.md`, `entities/depdc5-related-epilepsy.md`, `index.md`, `log.md`.
 - 2026-05-27 16:29 CST — Ingested: GeneReviews chapter: Deoxyguanosine Kinase Deficiency. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-deoxyguanosine-kinase-deficiency.md`, `entities/deoxyguanosine-kinase-deficiency.md`, `index.md`, `log.md`.
 - 2026-05-27 16:29 CST — Ingested: GeneReviews chapter: Dent Disease. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-dent-disease.md`, `entities/dent-disease.md`, `index.md`, `log.md`.
