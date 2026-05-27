@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 182
+> Last updated: 2026-05-27 | Total pages: 183
 
 ## Entities
 
@@ -184,6 +184,7 @@
 - [[classic-isovaleric-acidemia]] — Individuals with clinical manifestations of isovaleric acidemia (IVA) have either classic IVA identified on newborn screening or classic IVA with a later diagnosis due.
 - [[classic-mowat-wilson-syndrome]] — Classic Mowat-Wilson syndrome (MWS) is characterized by distinctive facial features (widely spaced eyes, broad eyebrows with a medial flare, low-hanging columella.
 - [[clcn2-related-leukoencephalopathy]] — CLCN2 -related leukoencephalopathy is characterized by nonspecific neurologic findings, mild visual impairment from chorioretinopathy or optic atrophy, male infertility.
+- [[clcn4-related-neurodevelopmental-disorder]] — CLCN4 -related neurodevelopmental disorder ( CLCN4 -NDD), an X-linked disorder, is characterized in the 36 males reported to date by developmental delay or intellectual.
 
 ## Concepts
 

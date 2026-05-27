@@ -732,6 +732,12 @@
       "title": "Citrin Deficiency",
       "when": "2026-05-27 16:25 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/clcn4-ndd/": {
+      "slug": "clcn4-related-neurodevelopmental-disorder",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK575836/",
+      "title": "CLCN4 -Related Neurodevelopmental Disorder",
+      "when": "2026-05-27 16:25 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cmr/": {
       "slug": "chylomicron-retention-disease",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK578949/",
