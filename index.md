@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 286
+> Last updated: 2026-05-27 | Total pages: 287
 
 ## Entities
 
@@ -288,6 +288,7 @@
 - [[ezh2-related-overgrowth]] — EZH2- related overgrowth is a variable overgrowth syndrome characterized by tall stature, macrocephaly, variable intellect (ranging from normal intellect to severe.
 - [[fabry-disease]] — Fabry disease is the most common of the lysosomal storage disorders and results from deficient activity of the enzyme alpha-galactosidase A (α-Gal A), leading to.
 - [[facioscapulohumeral-muscular-dystrophy]] — Facioscapulohumeral muscular dystrophy (FSHD) typically presents with weakness of the facial muscles, the stabilizers of the scapula, and/or the dorsiflexors of the foot.
+- [[factor-v-leiden-thrombophilia]] — Factor V Leiden thrombophilia is characterized by venous thromboembolism (VTE) manifesting most commonly in adults as deep vein thrombosis (DVT) in the legs or pulmonary.
 
 ## Concepts
 

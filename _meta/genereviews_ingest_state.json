@@ -1320,6 +1320,12 @@
       "title": "Fabry Disease",
       "when": "2026-05-27 16:34 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/factor-v-leiden/": {
+      "slug": "factor-v-leiden-thrombophilia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1368/",
+      "title": "Factor V Leiden Thrombophilia",
+      "when": "2026-05-27 16:34 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/fap/": {
       "slug": "apc-associated-polyposis-conditions",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1345/",
