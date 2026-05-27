@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 290
+> Last updated: 2026-05-27 | Total pages: 291
 
 ## Entities
 
@@ -292,6 +292,7 @@
 - [[fam111a-related-skeletal-dysplasias]] — FAM111A -related skeletal dysplasias include the milder phenotype of Kenny-Caffey syndrome (KCS) and a more severe lethal phenotype, osteocraniostenosis (OCS).
 - [[familial-cerebral-cavernous-malformations]] — Familial cerebral cavernous malformations (FCCM) is a disorder characterized by multiple vascular lesions in the brain and spinal cord that consist of clustered.
 - [[familial-combined-hypolipidemia]] — Familial combined hypolipidemia is not associated with any pathologic signs or symptoms; diagnosis is suggested by low plasma concentrations of lipids.
+- [[familial-dysautonomia]] — Familial dysautonomia, which affects the development and survival of sensory, sympathetic, and parasympathetic neurons, is a debilitating disorder present from birth.
 
 ## Concepts
 

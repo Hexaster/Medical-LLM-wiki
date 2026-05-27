@@ -2015,3 +2015,10 @@
 - Raw extract saved: `raw/articles/genereviews-familial-combined-hypolipidemia.md`
 - Created/updated entity page: `entities/familial-combined-hypolipidemia.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Familial Dysautonomia
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1180/
+- Raw extract saved: `raw/articles/genereviews-familial-dysautonomia.md`
+- Created/updated entity page: `entities/familial-dysautonomia.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
