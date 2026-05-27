@@ -870,6 +870,12 @@
       "title": "AIP Familial Isolated Pituitary Adenomas",
       "when": "2026-05-27 16:12 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/isovaleric-a/": {
+      "slug": "classic-isovaleric-acidemia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK601614/",
+      "title": "Classic Isovaleric Acidemia",
+      "when": "2026-05-27 16:25 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/lgmd2a/": {
       "slug": "calpainopathy",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1313/",

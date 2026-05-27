@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 179
+> Last updated: 2026-05-27 | Total pages: 180
 
 ## Entities
 
@@ -181,6 +181,7 @@
 - [[citrullinemia-type-i]] — Citrullinemia type I (CTLN1) presents as a spectrum that includes a neonatal acute form (the "classic" form), a milder late-onset form (the "non-classic" form), a form.
 - [[classic-ehlers-danlos-syndrome]] — Classic Ehlers-Danlos syndrome (cEDS) is a heritable connective tissue disorder characterized by skin hyperextensibility, atrophic scarring, and generalized joint.
 - [[classic-galactosemia-and-clinical-variant-galactosemia]] — The term "galactosemia" refers to disorders of galactose metabolism that include classic galactosemia, clinical variant galactosemia, and biochemical variant.
+- [[classic-isovaleric-acidemia]] — Individuals with clinical manifestations of isovaleric acidemia (IVA) have either classic IVA identified on newborn screening or classic IVA with a later diagnosis due.
 
 ## Concepts
 
