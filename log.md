@@ -1826,3 +1826,10 @@
 - Raw extract saved: `raw/articles/genereviews-el-hattab-alkuraya-syndrome.md`
 - Created/updated entity page: `entities/el-hattab-alkuraya-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Ellis-van Creveld Syndrome
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK596643/
+- Raw extract saved: `raw/articles/genereviews-ellis-van-creveld-syndrome.md`
+- Created/updated entity page: `entities/ellis-van-creveld-syndrome.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
