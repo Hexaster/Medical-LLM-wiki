@@ -1068,6 +1068,12 @@
       "title": "ATP7A -Related Copper Transport Disorders",
       "when": "2026-05-27 16:14 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/mga3/": {
+      "slug": "costeff-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1473/",
+      "title": "Costeff Syndrome",
+      "when": "2026-05-27 16:27 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/mirror/": {
       "slug": "congenital-mirror-movements",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK279760/",
