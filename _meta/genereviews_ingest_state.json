@@ -678,6 +678,12 @@
       "title": "Cardiofaciocutaneous Syndrome",
       "when": "2026-05-27 16:21 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cfeom/": {
+      "slug": "congenital-fibrosis-of-the-extraocular-muscles-overview",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1348/",
+      "title": "Congenital Fibrosis of the Extraocular Muscles Overview",
+      "when": "2026-05-27 16:27 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cgd/": {
       "slug": "chronic-granulomatous-disease",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK99496/",

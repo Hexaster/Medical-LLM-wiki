@@ -1399,3 +1399,10 @@
 - Raw extract saved: `raw/articles/genereviews-congenital-erythropoietic-porphyria.md`
 - Created/updated entity page: `entities/congenital-erythropoietic-porphyria.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Congenital Fibrosis of the Extraocular Muscles Overview
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1348/
+- Raw extract saved: `raw/articles/genereviews-congenital-fibrosis-of-the-extraocular-muscles-overview.md`
+- Created/updated entity page: `entities/congenital-fibrosis-of-the-extraocular-muscles-overview.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
