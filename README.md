@@ -60,6 +60,7 @@ This wiki is for research and study synthesis. It is not medical advice, diagnos
 
 ## Ingest History
 
+- 2026-05-27 16:29 CST — Ingested: GeneReviews chapter: DCX -Related Disorders. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-dcx-related-disorders.md`, `entities/dcx-related-disorders.md`, `index.md`, `log.md`.
 - 2026-05-27 16:29 CST — Ingested: GeneReviews chapter: DCTN1 -Related Neurodegeneration. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-dctn1-related-neurodegeneration.md`, `entities/dctn1-related-neurodegeneration.md`, `index.md`, `log.md`.
 - 2026-05-27 16:29 CST — Ingested: GeneReviews chapter: DBA Syndrome. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-dba-syndrome.md`, `entities/dba-syndrome.md`, `index.md`, `log.md`.
 - 2026-05-27 16:28 CST — Ingested: GeneReviews chapter: Danon Disease. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-danon-disease.md`, `entities/danon-disease.md`, `index.md`, `log.md`.

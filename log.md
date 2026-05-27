@@ -1560,3 +1560,10 @@
 - Raw extract saved: `raw/articles/genereviews-dctn1-related-neurodegeneration.md`
 - Created/updated entity page: `entities/dctn1-related-neurodegeneration.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: DCX -Related Disorders
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1185/
+- Raw extract saved: `raw/articles/genereviews-dcx-related-disorders.md`
+- Created/updated entity page: `entities/dcx-related-disorders.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
