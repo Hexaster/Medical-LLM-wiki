@@ -1896,3 +1896,10 @@
 - Raw extract saved: `raw/articles/genereviews-epg5-related-disorder.md`
 - Created/updated entity page: `entities/epg5-related-disorder.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Epidermolysis Bullosa Simplex
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1369/
+- Raw extract saved: `raw/articles/genereviews-epidermolysis-bullosa-simplex.md`
+- Created/updated entity page: `entities/epidermolysis-bullosa-simplex.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
