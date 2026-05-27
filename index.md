@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 311
+> Last updated: 2026-05-27 | Total pages: 312
 
 ## Entities
 
@@ -313,6 +313,7 @@
 - [[fgfr1-related-hartsfield-syndrome]] — FGFR1 -related Hartsfield syndrome comprises two core features: holoprosencephaly (HPE) spectrum disorder and ectrodactyly spectrum disorder.
 - [[fh-tumor-predisposition-syndrome]] — FH tumor predisposition syndrome is characterized by cutaneous leiomyomata, uterine leiomyomata (fibroids), and/or renal tumors.
 - [[fibrodysplasia-ossificans-progressiva]] — Fibrodysplasia ossificans progressiva (FOP) is characterized by congenital bilateral hallux valgus malformations and early-onset heterotopic ossification, which may be.
+- [[fibrous-dysplasia-mccune-albright-syndrome]] — Fibrous dysplasia / McCune-Albright syndrome (FD/MAS), the result of an early embryonic postzygotic somatic activating pathogenic variant in GNAS (encoding the cAMP.
 
 ## Concepts
 

@@ -2162,3 +2162,10 @@
 - Raw extract saved: `raw/articles/genereviews-fibrodysplasia-ossificans-progressiva.md`
 - Created/updated entity page: `entities/fibrodysplasia-ossificans-progressiva.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Fibrous Dysplasia / McCune-Albright Syndrome
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK274564/
+- Raw extract saved: `raw/articles/genereviews-fibrous-dysplasia-mccune-albright-syndrome.md`
+- Created/updated entity page: `entities/fibrous-dysplasia-mccune-albright-syndrome.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
