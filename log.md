@@ -2302,3 +2302,10 @@
 - Raw extract saved: `raw/articles/genereviews-g6pc3-deficiency.md`
 - Created/updated entity page: `entities/g6pc3-deficiency.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: GAA- FGF14 -Related Ataxia
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK599589/
+- Raw extract saved: `raw/articles/genereviews-gaa-fgf14-related-ataxia.md`
+- Created/updated entity page: `entities/gaa-fgf14-related-ataxia.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

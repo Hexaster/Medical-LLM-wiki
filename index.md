@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 331
+> Last updated: 2026-05-27 | Total pages: 332
 
 ## Entities
 
@@ -333,6 +333,7 @@
 - [[fukuyama-congenital-muscular-dystrophy]] — Fukuyama congenital muscular dystrophy (FCMD) is characterized by hypotonia, symmetric generalized muscle weakness, and brain malformations including, classically.
 - [[fumarate-hydratase-deficiency]] — Fumarate hydratase (FH) deficiency results in severe neonatal and early infantile encephalopathy that is characterized by poor feeding, failure to thrive, hypotonia.
 - [[g6pc3-deficiency]] — G6PC3 deficiency is characterized by severe congenital neutropenia which occurs in a phenotypic continuum that includes the following: Neutropenia usually presents with.
+- [[gaa-fgf14-related-ataxia]] — GAA- FGF14 -related ataxia is a mid to late adult-onset slowly progressive cerebellar syndrome with predominant gait involvement.
 
 ## Concepts
 

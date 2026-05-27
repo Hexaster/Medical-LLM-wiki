@@ -1416,6 +1416,12 @@
       "title": "FGD1 -Related Faciogenital Dysplasia (Aarskog-Scott Syndrome)",
       "when": "2026-05-27 16:35 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/fgf14-ataxia/": {
+      "slug": "gaa-fgf14-related-ataxia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK599589/",
+      "title": "GAA- FGF14 -Related Ataxia",
+      "when": "2026-05-27 16:37 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/fhm/": {
       "slug": "familial-hemiplegic-migraine",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1388/",
