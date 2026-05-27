@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 120
+> Last updated: 2026-05-27 | Total pages: 121
 
 ## Entities
 
@@ -122,6 +122,7 @@
 - [[blepharophimosis-ptosis-and-epicanthus-inversus-syndrome]] — B lepharophimosis, p tosis, and e picanthus inversus s yndrome (BPES) is defined by a complex eyelid malformation characterized by four major features, all present at.
 - [[bloom-syndrome]] — Bloom syndrome (BSyn) is characterized by severe pre- and postnatal growth deficiency, immune abnormalities, sensitivity to sunlight, insulin resistance, and a high risk.
 - [[bohring-opitz-syndrome]] — Bohring-Opitz syndrome (BOS) is characterized by distinctive facial features and posture, growth failure, variable but usually severe intellectual disability, and.
+- [[branchiooculofacial-syndrome]] — Branchiooculofacial syndrome (BOFS) is characterized by branchial (cervical or infra- or supra-auricular) skin defects that range from barely perceptible thin skin or.
 
 ## Concepts
 

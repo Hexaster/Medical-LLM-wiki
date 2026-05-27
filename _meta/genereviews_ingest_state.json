@@ -438,6 +438,12 @@
       "title": "Bloom Syndrome",
       "when": "2026-05-27 16:15 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/bofs/": {
+      "slug": "branchiooculofacial-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK55063/",
+      "title": "Branchiooculofacial Syndrome",
+      "when": "2026-05-27 16:20 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/bohring-opitz/": {
       "slug": "bohring-opitz-syndrome",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK481833/",

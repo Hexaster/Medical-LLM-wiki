@@ -825,3 +825,10 @@
 - Raw extract saved: `raw/articles/genereviews-bohring-opitz-syndrome.md`
 - Created/updated entity page: `entities/bohring-opitz-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Branchiooculofacial Syndrome
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK55063/
+- Raw extract saved: `raw/articles/genereviews-branchiooculofacial-syndrome.md`
+- Created/updated entity page: `entities/branchiooculofacial-syndrome.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
