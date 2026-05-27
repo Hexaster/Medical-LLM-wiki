@@ -738,6 +738,12 @@
       "title": "CLCN4 -Related Neurodevelopmental Disorder",
       "when": "2026-05-27 16:25 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/clcn7/": {
+      "slug": "clcn7-related-osteopetrosis",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1127/",
+      "title": "CLCN7 -Related Osteopetrosis",
+      "when": "2026-05-27 16:25 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cmr/": {
       "slug": "chylomicron-retention-disease",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK578949/",

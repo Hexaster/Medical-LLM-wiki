@@ -1266,3 +1266,10 @@
 - Raw extract saved: `raw/articles/genereviews-clcn4-related-neurodevelopmental-disorder.md`
 - Created/updated entity page: `entities/clcn4-related-neurodevelopmental-disorder.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: CLCN7 -Related Osteopetrosis
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1127/
+- Raw extract saved: `raw/articles/genereviews-clcn7-related-osteopetrosis.md`
+- Created/updated entity page: `entities/clcn7-related-osteopetrosis.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
