@@ -1567,3 +1567,10 @@
 - Raw extract saved: `raw/articles/genereviews-dcx-related-disorders.md`
 - Created/updated entity page: `entities/dcx-related-disorders.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: DDX11 -Related Cohesinopathy
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK541972/
+- Raw extract saved: `raw/articles/genereviews-ddx11-related-cohesinopathy.md`
+- Created/updated entity page: `entities/ddx11-related-cohesinopathy.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

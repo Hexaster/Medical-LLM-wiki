@@ -1302,6 +1302,12 @@
       "title": "CACNA1C -Related Disorders",
       "when": "2026-05-27 16:21 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/warsaw/": {
+      "slug": "ddx11-related-cohesinopathy",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK541972/",
+      "title": "DDX11 -Related Cohesinopathy",
+      "when": "2026-05-27 16:29 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/x-dcdp/": {
       "slug": "chondrodysplasia-punctata-2-x-linked",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK55062/",

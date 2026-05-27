@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 226
+> Last updated: 2026-05-27 | Total pages: 227
 
 ## Entities
 
@@ -228,6 +228,7 @@
 - [[dba-syndrome]] — DBA syndrome is characterized by a profound normochromic and usually macrocytic anemia with normal leukocytes and platelets, congenital malformations in up to 50% of.
 - [[dctn1-related-neurodegeneration]] — The spectrum of DCTN1 -related neurodegeneration includes Perry syndrome, distal hereditary motor neuronopathy type 7B (dHMN7B), frontotemporal dementia (FTD), motor.
 - [[dcx-related-disorders]] — DCX -related disorders include the following neuronal migration disorders: classic thick lissencephaly (more severe anteriorly), usually in males, and subcortical band.
+- [[ddx11-related-cohesinopathy]] — DDX11 -related cohesinopathy is characterized by the clinical triad of severe congenital microcephaly, growth restriction, and sensorineural hearing loss due to cochlear.
 
 ## Concepts
 
