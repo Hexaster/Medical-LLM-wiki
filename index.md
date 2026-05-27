@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 230
+> Last updated: 2026-05-27 | Total pages: 231
 
 ## Entities
 
@@ -232,6 +232,7 @@
 - [[ddx3x-related-neurodevelopmental-disorder]] — DDX3X -related neurodevelopmental disorder ( DDX3X -NDD) typically occurs in females and very rarely in males.
 - [[ddx41-associated-familial-myelodysplastic-syndrome-and-acute-myeloid-leukemia]] — DDX41 -associated familial myelodysplastic syndrome and acute myeloid leukemia (MDS/AML) is characterized by an increased risk of myeloid neoplasms, lymphoid neoplasms.
 - [[deafness-dystonia-optic-neuronopathy-syndrome]] — Males with deafness-dystonia-optic neuronopathy (DDON) syndrome have prelingual or postlingual sensorineural hearing impairment in early childhood, slowly progressive.
+- [[dent-disease]] — Dent disease, an X-linked disorder of proximal renal tubular dysfunction, is characterized by low molecular weight (LMW) proteinuria, hypercalciuria, and at least one.
 
 ## Concepts
 
