@@ -15,6 +15,7 @@ import hashlib
 import html
 import json
 import re
+import subprocess
 import sys
 import time
 from dataclasses import dataclass
@@ -439,6 +440,42 @@ def process_chapter(ch: Chapter, force: bool = False) -> str:
     return data["title"]
 
 
+def verify_wiki_quick() -> None:
+    bad_hash = []
+    for p in (WIKI / "raw").rglob("*.md"):
+        txt = p.read_text(encoding="utf-8")
+        m = re.match(r"^---\n(.*?)\n---\n(.*)$", txt, re.S)
+        if not m:
+            continue
+        fm, body = m.groups()
+        hm = re.search(r"^sha256:\s*([a-f0-9]+)", fm, re.M)
+        if hm and hashlib.sha256(body.encode("utf-8")).hexdigest() != hm.group(1):
+            bad_hash.append(str(p.relative_to(WIKI)))
+    pages = {p.stem: p for d in ["entities", "concepts", "comparisons", "queries"] for p in (WIKI / d).glob("*.md")}
+    broken = []
+    for p in pages.values():
+        for link in re.findall(r"\[\[([^\]|#]+)", p.read_text(encoding="utf-8")):
+            if link not in pages:
+                broken.append((str(p.relative_to(WIKI)), link))
+    idx = (WIKI / "index.md").read_text(encoding="utf-8")
+    indexed = set(re.findall(r"\[\[([^\]]+)\]\]", idx))
+    missing = [str(p.relative_to(WIKI)) for slug, p in pages.items() if slug not in indexed]
+    if bad_hash or broken or missing:
+        raise RuntimeError(f"verification failed: bad_hash={bad_hash[:5]}, broken={broken[:5]}, missing_index={missing[:5]}")
+
+
+def git_commit_push_chapter(title: str, raw_rel: str, ent_rel: str) -> None:
+    verify_wiki_quick()
+    paths = ["README.md", "index.md", "log.md", "_meta/genereviews_ingest_state.json", raw_rel, ent_rel]
+    subprocess.run(["git", "add", *paths], cwd=WIKI, check=True)
+    diff_check = subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=WIKI)
+    if diff_check.returncode == 0:
+        return
+    safe_title = title.replace("\n", " ")[:80]
+    subprocess.run(["git", "commit", "-m", f"docs: ingest GeneReviews chapter {safe_title}"], cwd=WIKI, check=True)
+    subprocess.run(["git", "push", "origin", "HEAD"], cwd=WIKI, check=True)
+
+
 def main() -> int:
     global ALLOWED_TAGS
     ap = argparse.ArgumentParser()
@@ -447,6 +484,7 @@ def main() -> int:
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--list", action="store_true")
     ap.add_argument("--sleep", type=float, default=0.5)
+    ap.add_argument("--commit-each", action="store_true")
     args = ap.parse_args()
     ALLOWED_TAGS = load_allowed_tags()
     chapters = toc_chapters()
@@ -466,6 +504,10 @@ def main() -> int:
                 print(f"Skipped completed chapter {ch.title}", flush=True)
             else:
                 print(f"Completed the chapter {result}", flush=True)
+                if args.commit_each:
+                    slug = slugify(result)
+                    git_commit_push_chapter(result, f"raw/articles/genereviews-{slug}.md", f"entities/{slug}.md")
+                    print(f"Committed and pushed the chapter {result}", flush=True)
             time.sleep(args.sleep)
         except Exception as e:
             state = load_state()
