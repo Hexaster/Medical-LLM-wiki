@@ -936,6 +936,12 @@
       "title": "CTNNB1 Neurodevelopmental Disorder",
       "when": "2026-05-27 16:28 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ctns/": {
+      "slug": "cystinosis",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1400/",
+      "title": "Cystinosis",
+      "when": "2026-05-27 16:28 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/ctx/": {
       "slug": "cerebrotendinous-xanthomatosis",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1409/",
