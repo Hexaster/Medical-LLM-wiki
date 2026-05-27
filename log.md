@@ -2120,3 +2120,10 @@
 - Raw extract saved: `raw/articles/genereviews-fbxl4-related-encephalomyopathic-mitochondrial-dna-depletion-syndrome.md`
 - Created/updated entity page: `entities/fbxl4-related-encephalomyopathic-mitochondrial-dna-depletion-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Feingold Syndrome 1
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK7050/
+- Raw extract saved: `raw/articles/genereviews-feingold-syndrome-1.md`
+- Created/updated entity page: `entities/feingold-syndrome-1.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
