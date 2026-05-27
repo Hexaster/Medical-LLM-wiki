@@ -1462,3 +1462,10 @@
 - Raw extract saved: `raw/articles/genereviews-cranioectodermal-dysplasia.md`
 - Created/updated entity page: `entities/cranioectodermal-dysplasia.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Creatine Deficiency Disorders
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK3794/
+- Raw extract saved: `raw/articles/genereviews-creatine-deficiency-disorders.md`
+- Created/updated entity page: `entities/creatine-deficiency-disorders.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

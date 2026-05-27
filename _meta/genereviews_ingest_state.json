@@ -888,6 +888,12 @@
       "title": "Autosomal Dominant Craniometaphyseal Dysplasia",
       "when": "2026-05-27 16:14 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/creatine/": {
+      "slug": "creatine-deficiency-disorders",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK3794/",
+      "title": "Creatine Deficiency Disorders",
+      "when": "2026-05-27 16:28 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/csc-dys/": {
       "slug": "congenital-stromal-corneal-dystrophy",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK2690/",
