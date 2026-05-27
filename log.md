@@ -1329,3 +1329,10 @@
 - Raw extract saved: `raw/articles/genereviews-col4a1-related-disorders.md`
 - Created/updated entity page: `entities/col4a1-related-disorders.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Cold-Induced Sweating Syndrome Including Crisponi Syndrome
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK52917/
+- Raw extract saved: `raw/articles/genereviews-cold-induced-sweating-syndrome-including-crisponi-syndrome.md`
+- Created/updated entity page: `entities/cold-induced-sweating-syndrome-including-crisponi-syndrome.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

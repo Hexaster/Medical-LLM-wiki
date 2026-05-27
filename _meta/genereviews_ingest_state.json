@@ -732,6 +732,12 @@
       "title": "Christianson Syndrome",
       "when": "2026-05-27 16:24 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ciss/": {
+      "slug": "cold-induced-sweating-syndrome-including-crisponi-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK52917/",
+      "title": "Cold-Induced Sweating Syndrome Including Crisponi Syndrome",
+      "when": "2026-05-27 16:26 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/citrin/": {
       "slug": "citrin-deficiency",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1181/",
