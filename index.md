@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 330
+> Last updated: 2026-05-27 | Total pages: 331
 
 ## Entities
 
@@ -332,6 +332,7 @@
 - [[fucosidosis]] — Fucosidosis is characterized by developmental delay, intellectual disability, psychomotor regression and cognitive decline, coarse facial features, recurrent respiratory.
 - [[fukuyama-congenital-muscular-dystrophy]] — Fukuyama congenital muscular dystrophy (FCMD) is characterized by hypotonia, symmetric generalized muscle weakness, and brain malformations including, classically.
 - [[fumarate-hydratase-deficiency]] — Fumarate hydratase (FH) deficiency results in severe neonatal and early infantile encephalopathy that is characterized by poor feeding, failure to thrive, hypotonia.
+- [[g6pc3-deficiency]] — G6PC3 deficiency is characterized by severe congenital neutropenia which occurs in a phenotypic continuum that includes the following: Neutropenia usually presents with.
 
 ## Concepts
 

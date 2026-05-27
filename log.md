@@ -2295,3 +2295,10 @@
 - Raw extract saved: `raw/articles/genereviews-fumarate-hydratase-deficiency.md`
 - Created/updated entity page: `entities/fumarate-hydratase-deficiency.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: G6PC3 Deficiency
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK285321/
+- Raw extract saved: `raw/articles/genereviews-g6pc3-deficiency.md`
+- Created/updated entity page: `entities/g6pc3-deficiency.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

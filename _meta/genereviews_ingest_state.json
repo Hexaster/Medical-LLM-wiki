@@ -1518,6 +1518,12 @@
       "title": "Fumarate Hydratase Deficiency",
       "when": "2026-05-27 16:37 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/g6pc3-def/": {
+      "slug": "g6pc3-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK285321/",
+      "title": "G6PC3 Deficiency",
+      "when": "2026-05-27 16:37 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/galactosemia/": {
       "slug": "classic-galactosemia-and-clinical-variant-galactosemia",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1518/",
