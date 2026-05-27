@@ -1875,3 +1875,10 @@
 - Raw extract saved: `raw/articles/genereviews-enlarged-parietal-foramina.md`
 - Created/updated entity page: `entities/enlarged-parietal-foramina.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: ENTPD1 -Related Neurodevelopmental Disorder
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK592266/
+- Raw extract saved: `raw/articles/genereviews-entpd1-related-neurodevelopmental-disorder.md`
+- Created/updated entity page: `entities/entpd1-related-neurodevelopmental-disorder.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
