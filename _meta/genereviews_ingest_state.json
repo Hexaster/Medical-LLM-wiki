@@ -1566,6 +1566,12 @@
       "title": "GATA1 -Related Cytopenia",
       "when": "2026-05-27 16:38 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/gaucher/": {
+      "slug": "gaucher-disease",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1269/",
+      "title": "Gaucher Disease",
+      "when": "2026-05-27 16:38 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/gnal-dystonia/": {
       "slug": "dyt-gnal",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK535640/",
