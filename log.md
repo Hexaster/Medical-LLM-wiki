@@ -1070,3 +1070,10 @@
 - Raw extract saved: `raw/articles/genereviews-cetp-related-hyperalphalipoproteinemia.md`
 - Created/updated entity page: `entities/cetp-related-hyperalphalipoproteinemia.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Charcot-Marie-Tooth Hereditary Neuropathy Overview
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1358/
+- Raw extract saved: `raw/articles/genereviews-charcot-marie-tooth-hereditary-neuropathy-overview.md`
+- Created/updated entity page: `entities/charcot-marie-tooth-hereditary-neuropathy-overview.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
