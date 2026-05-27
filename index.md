@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 175
+> Last updated: 2026-05-27 | Total pages: 176
 
 ## Entities
 
@@ -177,6 +177,7 @@
 - [[christianson-syndrome]] — Christianson syndrome (referred to as CS in this GeneReview ), an X-linked disorder, is characterized in males by cognitive dysfunction, behavioral disorder, and.
 - [[chronic-granulomatous-disease]] — Chronic granulomatous disease (CGD) is a primary immunodeficiency disorder of phagocytes (neutrophils, monocytes, macrophages, and eosinophils) resulting from impaired.
 - [[chylomicron-retention-disease]] — Chylomicron retention disease (CMRD), characterized by the inability to secrete chylomicrons from the enterocytes following the ingestion of fat, typically presents in.
+- [[citrin-deficiency]] — Citrin deficiency can manifest in newborns or infants as neonatal intrahepatic cholestasis caused by citrin deficiency (NICCD), in older children as failure to thrive.
 
 ## Concepts
 
