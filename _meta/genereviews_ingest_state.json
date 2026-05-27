@@ -1020,6 +1020,12 @@
       "title": "Dent Disease",
       "when": "2026-05-27 16:29 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/depdc5-epilepsy/": {
+      "slug": "depdc5-related-epilepsy",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK385626/",
+      "title": "DEPDC5 -Related Epilepsy",
+      "when": "2026-05-27 16:29 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/df-lamm/": {
       "slug": "congenital-deafness-with-labyrinthine-aplasia-microtia-and-microdontia",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK100664/",
