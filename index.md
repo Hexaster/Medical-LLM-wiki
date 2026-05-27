@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 207
+> Last updated: 2026-05-27 | Total pages: 208
 
 ## Entities
 
@@ -209,6 +209,7 @@
 - [[congenital-mirror-movements]] — The disorder of congenital mirror movements (CMM) is characterized by early-onset, obvious mirror movements (involuntary movements of one side of the body that mirror.
 - [[congenital-myasthenic-syndromes-overview]] — The purpose of this overview is to: Briefly describe the clinical characteristics of CMS; Review the subtypes and genetic causes of CMS; Review the differential.
 - [[congenital-nad-deficiency-disorder]] — Congenital NAD deficiency disorder (CNDD) is a multisystem condition in which cardiac, renal, vertebral, and limb anomalies are common, mimicking the clinical features.
+- [[congenital-stromal-corneal-dystrophy]] — Congenital stromal corneal dystrophy is characterized by the presence of bilateral corneal opacities that can be seen at or shortly after birth.
 
 ## Concepts
 

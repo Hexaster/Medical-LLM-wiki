@@ -1434,3 +1434,10 @@
 - Raw extract saved: `raw/articles/genereviews-congenital-nad-deficiency-disorder.md`
 - Created/updated entity page: `entities/congenital-nad-deficiency-disorder.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Congenital Stromal Corneal Dystrophy
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK2690/
+- Raw extract saved: `raw/articles/genereviews-congenital-stromal-corneal-dystrophy.md`
+- Created/updated entity page: `entities/congenital-stromal-corneal-dystrophy.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
