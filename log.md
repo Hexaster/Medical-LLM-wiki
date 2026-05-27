@@ -1602,3 +1602,10 @@
 - Raw extract saved: `raw/articles/genereviews-dent-disease.md`
 - Created/updated entity page: `entities/dent-disease.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Deoxyguanosine Kinase Deficiency
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK7040/
+- Raw extract saved: `raw/articles/genereviews-deoxyguanosine-kinase-deficiency.md`
+- Created/updated entity page: `entities/deoxyguanosine-kinase-deficiency.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 231
+> Last updated: 2026-05-27 | Total pages: 232
 
 ## Entities
 
@@ -233,6 +233,7 @@
 - [[ddx41-associated-familial-myelodysplastic-syndrome-and-acute-myeloid-leukemia]] — DDX41 -associated familial myelodysplastic syndrome and acute myeloid leukemia (MDS/AML) is characterized by an increased risk of myeloid neoplasms, lymphoid neoplasms.
 - [[deafness-dystonia-optic-neuronopathy-syndrome]] — Males with deafness-dystonia-optic neuronopathy (DDON) syndrome have prelingual or postlingual sensorineural hearing impairment in early childhood, slowly progressive.
 - [[dent-disease]] — Dent disease, an X-linked disorder of proximal renal tubular dysfunction, is characterized by low molecular weight (LMW) proteinuria, hypercalciuria, and at least one.
+- [[deoxyguanosine-kinase-deficiency]] — The two forms of deoxyguanosine kinase (DGUOK) deficiency are a neonatal multisystem disorder and an isolated hepatic disorder that presents later in infancy or.
 
 ## Concepts
 
