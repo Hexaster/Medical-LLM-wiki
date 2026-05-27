@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 238
+> Last updated: 2026-05-27 | Total pages: 239
 
 ## Entities
 
@@ -240,6 +240,7 @@
 - [[diastrophic-dysplasia]] — Diastrophic dysplasia (DTD) is characterized by limb shortening, normal-sized head, hitchhiker thumbs, spinal deformities (scoliosis, exaggerated lumbar lordosis.
 - [[dicer1-related-tumor-predisposition]] — DICER1 -related tumor predisposition (DICER1) is characterized by an increased risk for a spectrum of malignancies, benign neoplasms, and other clinical findings.
 - [[diffuse-gastric-and-lobular-breast-cancer-syndrome]] — Diffuse gastric and lobular breast cancer syndrome (DGLBCS) is associated with an increased risk, in males and females, of diffuse gastric cancer (DGC), a poorly.
+- [[dihydrolipoamide-dehydrogenase-deficiency]] — The phenotypes of dihydrolipoamide dehydrogenase (DLD) deficiency are an overlapping continuum that ranges from early-onset neurologic manifestations to adult-onset.
 
 ## Concepts
 

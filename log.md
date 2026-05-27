@@ -1651,3 +1651,10 @@
 - Raw extract saved: `raw/articles/genereviews-diffuse-gastric-and-lobular-breast-cancer-syndrome.md`
 - Created/updated entity page: `entities/diffuse-gastric-and-lobular-breast-cancer-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Dihydrolipoamide Dehydrogenase Deficiency
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK220444/
+- Raw extract saved: `raw/articles/genereviews-dihydrolipoamide-dehydrogenase-deficiency.md`
+- Created/updated entity page: `entities/dihydrolipoamide-dehydrogenase-deficiency.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
