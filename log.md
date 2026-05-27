@@ -1868,3 +1868,10 @@
 - Raw extract saved: `raw/articles/genereviews-encephalocraniocutaneous-lipomatosis.md`
 - Created/updated entity page: `entities/encephalocraniocutaneous-lipomatosis.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Enlarged Parietal Foramina
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1128/
+- Raw extract saved: `raw/articles/genereviews-enlarged-parietal-foramina.md`
+- Created/updated entity page: `entities/enlarged-parietal-foramina.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

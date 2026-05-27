@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 269
+> Last updated: 2026-05-27 | Total pages: 270
 
 ## Entities
 
@@ -271,6 +271,7 @@
 - [[emc10-related-neurodevelopmental-disorder]] — EMC10 -related neurodevelopmental disorder ( EMC10 -NDD) is characterized by moderate-to-severe developmental delay and mild-to-severe intellectual disability.
 - [[emery-dreifuss-muscular-dystrophy]] — Emery-Dreifuss muscular dystrophy (EDMD) is characterized by the clinical triad of joint contractures that begin in early childhood; slowly progressive muscle weakness.
 - [[encephalocraniocutaneous-lipomatosis]] — Encephalocraniocutaneous lipomatosis (ECCL) comprises a spectrum of predominantly congenital anomalies.
+- [[enlarged-parietal-foramina]] — Enlarged parietal foramina are characteristic symmetric, paired radiolucencies of the parietal bones, located close to the intersection of the sagittal and lambdoid.
 
 ## Concepts
 

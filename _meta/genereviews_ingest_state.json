@@ -1428,6 +1428,12 @@
       "title": "C3 Glomerulopathy",
       "when": "2026-05-27 16:20 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/msx2/": {
+      "slug": "enlarged-parietal-foramina",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1128/",
+      "title": "Enlarged Parietal Foramina",
+      "when": "2026-05-27 16:32 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/mws/": {
       "slug": "classic-mowat-wilson-syndrome",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1412/",
