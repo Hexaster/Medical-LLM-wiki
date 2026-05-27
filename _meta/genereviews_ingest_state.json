@@ -606,6 +606,12 @@
       "title": "Chondrodysplasia with Congenital Joint Dislocations, CHST3 -Related",
       "when": "2026-05-27 16:24 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cdg/": {
+      "slug": "congenital-disorders-of-n-linked-glycosylation-and-multiple-pathway-overview",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1332/",
+      "title": "Congenital Disorders of N-Linked Glycosylation and Multiple Pathway Overview",
+      "when": "2026-05-27 16:27 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cdk13-dis/": {
       "slug": "cdk13-related-disorder",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK536784/",
