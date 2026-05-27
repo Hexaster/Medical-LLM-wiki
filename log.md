@@ -958,3 +958,10 @@
 - Raw extract saved: `raw/articles/genereviews-cardiofaciocutaneous-syndrome.md`
 - Created/updated entity page: `entities/cardiofaciocutaneous-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Carney Complex
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1286/
+- Raw extract saved: `raw/articles/genereviews-carney-complex.md`
+- Created/updated entity page: `entities/carney-complex.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

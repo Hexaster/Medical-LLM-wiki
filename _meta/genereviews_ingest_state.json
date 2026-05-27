@@ -552,6 +552,12 @@
       "title": "Cant\u00fa Syndrome",
       "when": "2026-05-27 16:21 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/carney/": {
+      "slug": "carney-complex",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1286/",
+      "title": "Carney Complex",
+      "when": "2026-05-27 16:22 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/ced/": {
       "slug": "camurati-engelmann-disease",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1156/",
