@@ -1273,3 +1273,10 @@
 - Raw extract saved: `raw/articles/genereviews-clcn7-related-osteopetrosis.md`
 - Created/updated entity page: `entities/clcn7-related-osteopetrosis.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Cleidocranial Dysplasia Spectrum Disorder
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1513/
+- Raw extract saved: `raw/articles/genereviews-cleidocranial-dysplasia-spectrum-disorder.md`
+- Created/updated entity page: `entities/cleidocranial-dysplasia-spectrum-disorder.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

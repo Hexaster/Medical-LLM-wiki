@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 184
+> Last updated: 2026-05-27 | Total pages: 185
 
 ## Entities
 
@@ -186,6 +186,7 @@
 - [[clcn2-related-leukoencephalopathy]] — CLCN2 -related leukoencephalopathy is characterized by nonspecific neurologic findings, mild visual impairment from chorioretinopathy or optic atrophy, male infertility.
 - [[clcn4-related-neurodevelopmental-disorder]] — CLCN4 -related neurodevelopmental disorder ( CLCN4 -NDD), an X-linked disorder, is characterized in the 36 males reported to date by developmental delay or intellectual.
 - [[clcn7-related-osteopetrosis]] — The spectrum of CLCN7 -related osteopetrosis includes infantile malignant CLCN7 -related autosomal recessive osteopetrosis (ARO), intermediate autosomal osteopetrosis.
+- [[cleidocranial-dysplasia-spectrum-disorder]] — Cleidocranial dysplasia (CCD) spectrum disorder is a skeletal dysplasia that represents a clinical continuum ranging from classic CCD (triad of delayed closure of the.
 
 ## Concepts
 
