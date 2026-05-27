@@ -906,6 +906,12 @@
       "title": "CSNK2B -Related Neurodevelopmental Disorder",
       "when": "2026-05-27 16:28 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ctcf-dis/": {
+      "slug": "ctcf-related-disorder",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK603087/",
+      "title": "CTCF -Related Disorder",
+      "when": "2026-05-27 16:28 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/ctlm/": {
       "slug": "citrullinemia-type-i",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1458/",

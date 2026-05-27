@@ -1483,3 +1483,10 @@
 - Raw extract saved: `raw/articles/genereviews-csnk2b-related-neurodevelopmental-disorder.md`
 - Created/updated entity page: `entities/csnk2b-related-neurodevelopmental-disorder.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: CTCF -Related Disorder
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK603087/
+- Raw extract saved: `raw/articles/genereviews-ctcf-related-disorder.md`
+- Created/updated entity page: `entities/ctcf-related-disorder.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
