@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 314
+> Last updated: 2026-05-27 | Total pages: 315
 
 ## Entities
 
@@ -316,6 +316,7 @@
 - [[fibrous-dysplasia-mccune-albright-syndrome]] — Fibrous dysplasia / McCune-Albright syndrome (FD/MAS), the result of an early embryonic postzygotic somatic activating pathogenic variant in GNAS (encoding the cAMP.
 - [[fkbp14-kyphoscoliotic-ehlers-danlos-syndrome]] — FKBP14 kyphoscoliotic Ehlers-Danlos syndrome ( FKBP14 -kEDS) is characterized by congenital muscle hypotonia and weakness (typically improving during childhood).
 - [[flna-deficiency]] — FLNA deficiency is associated with a phenotypic spectrum that includes FLNA -related periventricular nodular heterotopia (Huttenlocher syndrome), congenital heart.
+- [[flna-related-otopalatodigital-spectrum-disorders]] — The FLNA -related otopalatodigital ( FLNA -OPD) spectrum disorders, characterized primarily by skeletal dysplasia, include the following allelic conditions:.
 
 ## Concepts
 

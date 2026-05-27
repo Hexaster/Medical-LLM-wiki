@@ -1698,6 +1698,12 @@
       "title": "Congenital Central Hypoventilation Syndrome",
       "when": "2026-05-27 16:26 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/opd/": {
+      "slug": "flna-related-otopalatodigital-spectrum-disorders",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1393/",
+      "title": "FLNA -Related Otopalatodigital Spectrum Disorders",
+      "when": "2026-05-27 16:36 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/pai-1-def/": {
       "slug": "complete-plasminogen-activator-inhibitor-1-deficiency",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK447152/",
