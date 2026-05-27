@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 151
+> Last updated: 2026-05-27 | Total pages: 152
 
 ## Entities
 
@@ -153,6 +153,7 @@
 - [[cdk13-related-disorder]] — CDK13 -related disorder, reported in 43 individuals to date, is characterized in all individuals by developmental delay / intellectual disability (DD/ID); nearly all.
 - [[cdkl5-deficiency-disorder]] — CDKL5 deficiency disorder (CDD) is a developmental and epileptic encephalopathy (DEE) characterized by severe early-onset intractable epilepsy and motor, cognitive.
 - [[cdkn2a-cancer-predisposition]] — CDKN2A cancer predisposition is characterized by an increased risk of developing multiple cutaneous melanomas, pancreatic cancer, and other tumors including gliomas and.
+- [[cebpa-associated-familial-acute-myeloid-leukemia-aml]] — CEBPA- associated familial acute myeloid leukemia (AML) is defined as the presence of a heterozygous germline CEBPA pathogenic variant in an individual with AML and/or.
 
 ## Concepts
 

@@ -588,6 +588,12 @@
       "title": "CDKN2A Cancer Predisposition",
       "when": "2026-05-27 16:23 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cebpa-aml/": {
+      "slug": "cebpa-associated-familial-acute-myeloid-leukemia-aml",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK47457/",
+      "title": "CEBPA- Associated Familial Acute Myeloid Leukemia (AML)",
+      "when": "2026-05-27 16:23 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/ced/": {
       "slug": "camurati-engelmann-disease",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1156/",
