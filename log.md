@@ -1196,3 +1196,10 @@
 - Raw extract saved: `raw/articles/genereviews-christianson-syndrome.md`
 - Created/updated entity page: `entities/christianson-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Chronic Granulomatous Disease
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK99496/
+- Raw extract saved: `raw/articles/genereviews-chronic-granulomatous-disease.md`
+- Created/updated entity page: `entities/chronic-granulomatous-disease.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

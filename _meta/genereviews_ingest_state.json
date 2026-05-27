@@ -636,6 +636,12 @@
       "title": "Cardiofaciocutaneous Syndrome",
       "when": "2026-05-27 16:21 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cgd/": {
+      "slug": "chronic-granulomatous-disease",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK99496/",
+      "title": "Chronic Granulomatous Disease",
+      "when": "2026-05-27 16:24 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/char/": {
       "slug": "char-syndrome",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1106/",
