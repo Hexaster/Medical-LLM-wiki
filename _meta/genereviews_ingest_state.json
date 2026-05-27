@@ -1602,6 +1602,12 @@
       "title": "Gaucher Disease",
       "when": "2026-05-27 16:38 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/gcps/": {
+      "slug": "gli3-related-greig-cephalopolysyndactyly-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1446/",
+      "title": "GLI3 -Related Greig Cephalopolysyndactyly Syndrome",
+      "when": "2026-05-27 16:39 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/geleophys-dysp/": {
       "slug": "geleophysic-dysplasia",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK11168/",

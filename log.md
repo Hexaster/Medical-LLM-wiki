@@ -2414,3 +2414,10 @@
 - Raw extract saved: `raw/articles/genereviews-glb1-related-disorders.md`
 - Created/updated entity page: `entities/glb1-related-disorders.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: GLI3 -Related Greig Cephalopolysyndactyly Syndrome
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1446/
+- Raw extract saved: `raw/articles/genereviews-gli3-related-greig-cephalopolysyndactyly-syndrome.md`
+- Created/updated entity page: `entities/gli3-related-greig-cephalopolysyndactyly-syndrome.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 347
+> Last updated: 2026-05-27 | Total pages: 348
 
 ## Entities
 
@@ -349,6 +349,7 @@
 - [[gjb1-disorders-charcot-marie-tooth-neuropathy-cmt1x-and-central-nervous-system-phenotypes]] — GJB1 disorders are typically characterized by peripheral motor and sensory neuropathy with or without fixed CNS abnormalities and/or acute, self-limited episodes of.
 - [[gjb2-related-autosomal-recessive-nonsyndromic-hearing-loss]] — GJB2 -related autosomal recessive nonsyndromic hearing loss ( GJB2 -AR NSHL) is the most common genetic cause of congenital (present at birth) severe-to-profound.
 - [[glb1-related-disorders]] — GLB1 -related disorders comprise two phenotypically distinct lysosomal storage disorders: GM1 gangliosidosis and mucopolysaccharidosis type IVB (MPS IVB).
+- [[gli3-related-greig-cephalopolysyndactyly-syndrome]] — Typical GLI3 -related Greig cephalopolysyndactyly syndrome ( GLI3 -GCPS) is characterized by macrocephaly, widely spaced eyes associated with increased interpupillary.
 
 ## Concepts
 
