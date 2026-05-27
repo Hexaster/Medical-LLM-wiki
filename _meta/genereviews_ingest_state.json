@@ -1218,6 +1218,12 @@
       "title": "ELN -Related Cutis Laxa",
       "when": "2026-05-27 16:32 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/emanuel/": {
+      "slug": "emanuel-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1263/",
+      "title": "Emanuel Syndrome",
+      "when": "2026-05-27 16:32 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/evc/": {
       "slug": "ellis-van-creveld-syndrome",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK596643/",
