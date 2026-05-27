@@ -993,3 +993,10 @@
 - Raw extract saved: `raw/articles/genereviews-cartilage-hair-hypoplasia-anauxetic-dysplasia-spectrum-disorders.md`
 - Created/updated entity page: `entities/cartilage-hair-hypoplasia-anauxetic-dysplasia-spectrum-disorders.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: CASK Disorders
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK169825/
+- Raw extract saved: `raw/articles/genereviews-cask-disorders.md`
+- Created/updated entity page: `entities/cask-disorders.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

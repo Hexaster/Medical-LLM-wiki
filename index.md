@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 144
+> Last updated: 2026-05-27 | Total pages: 145
 
 ## Entities
 
@@ -146,6 +146,7 @@
 - [[carnitine-palmitoyltransferase-1a-deficiency]] — Carnitine palmitoyltransferase 1A (CPT1A) deficiency is a disorder of long-chain fatty acid oxidation.
 - [[carnitine-palmitoyltransferase-ii-deficiency]] — Carnitine palmitoyltransferase (CPT) II deficiency is a disorder of long-chain fatty-acid oxidation.
 - [[cartilage-hair-hypoplasia-anauxetic-dysplasia-spectrum-disorders]] — The cartilage-hair hypoplasia – anauxetic dysplasia (CHH-AD) spectrum disorders are a continuum that includes the following phenotypes: CHH-AD spectrum disorders are.
+- [[cask-disorders]] — CASK disorders include a spectrum of phenotypes in both females and males.
 
 ## Concepts
 

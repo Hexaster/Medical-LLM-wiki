@@ -564,6 +564,12 @@
       "title": "Carney Complex",
       "when": "2026-05-27 16:22 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cask-dis/": {
+      "slug": "cask-disorders",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK169825/",
+      "title": "CASK Disorders",
+      "when": "2026-05-27 16:22 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/ced/": {
       "slug": "camurati-engelmann-disease",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1156/",
