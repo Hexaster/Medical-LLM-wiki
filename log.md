@@ -2421,3 +2421,10 @@
 - Raw extract saved: `raw/articles/genereviews-gli3-related-greig-cephalopolysyndactyly-syndrome.md`
 - Created/updated entity page: `entities/gli3-related-greig-cephalopolysyndactyly-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: GLI3 -Related Pallister-Hall Syndrome
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1465/
+- Raw extract saved: `raw/articles/genereviews-gli3-related-pallister-hall-syndrome.md`
+- Created/updated entity page: `entities/gli3-related-pallister-hall-syndrome.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

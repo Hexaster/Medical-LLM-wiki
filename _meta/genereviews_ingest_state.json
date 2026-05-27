@@ -1908,6 +1908,12 @@
       "title": "ATP8B1 Deficiency",
       "when": "2026-05-27 16:14 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/phs/": {
+      "slug": "gli3-related-pallister-hall-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1465/",
+      "title": "GLI3 -Related Pallister-Hall Syndrome",
+      "when": "2026-05-27 16:39 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/pkd-ar/": {
       "slug": "autosomal-recessive-polycystic-kidney-disease-pkhd1",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1326/",
