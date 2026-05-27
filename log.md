@@ -1049,3 +1049,10 @@
 - Raw extract saved: `raw/articles/genereviews-cebpa-associated-familial-acute-myeloid-leukemia-aml.md`
 - Created/updated entity page: `entities/cebpa-associated-familial-acute-myeloid-leukemia-aml.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Celiac Disease
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1727/
+- Raw extract saved: `raw/articles/genereviews-celiac-disease.md`
+- Created/updated entity page: `entities/celiac-disease.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

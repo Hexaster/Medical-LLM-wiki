@@ -600,6 +600,12 @@
       "title": "Camurati-Engelmann Disease",
       "when": "2026-05-27 16:21 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/celiac/": {
+      "slug": "celiac-disease",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1727/",
+      "title": "Celiac Disease",
+      "when": "2026-05-27 16:23 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cfc/": {
       "slug": "cardiofaciocutaneous-syndrome",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1186/",

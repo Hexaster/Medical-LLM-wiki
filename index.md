@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 152
+> Last updated: 2026-05-27 | Total pages: 153
 
 ## Entities
 
@@ -154,6 +154,7 @@
 - [[cdkl5-deficiency-disorder]] — CDKL5 deficiency disorder (CDD) is a developmental and epileptic encephalopathy (DEE) characterized by severe early-onset intractable epilepsy and motor, cognitive.
 - [[cdkn2a-cancer-predisposition]] — CDKN2A cancer predisposition is characterized by an increased risk of developing multiple cutaneous melanomas, pancreatic cancer, and other tumors including gliomas and.
 - [[cebpa-associated-familial-acute-myeloid-leukemia-aml]] — CEBPA- associated familial acute myeloid leukemia (AML) is defined as the presence of a heterozygous germline CEBPA pathogenic variant in an individual with AML and/or.
+- [[celiac-disease]] — Celiac disease is a common systemic autoimmune disease that can develop in genetically susceptible individuals as a response to dietary gluten.
 
 ## Concepts
 
