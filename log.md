@@ -2085,3 +2085,10 @@
 - Raw extract saved: `raw/articles/genereviews-fars2-deficiency.md`
 - Created/updated entity page: `entities/fars2-deficiency.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: FASTKD2 -Related Combined Oxidative Phosphorylation Deficiency
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK619576/
+- Raw extract saved: `raw/articles/genereviews-fastkd2-related-combined-oxidative-phosphorylation-deficiency.md`
+- Created/updated entity page: `entities/fastkd2-related-combined-oxidative-phosphorylation-deficiency.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

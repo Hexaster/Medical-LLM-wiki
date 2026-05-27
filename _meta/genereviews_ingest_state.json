@@ -1356,6 +1356,12 @@
       "title": "FARS2 Deficiency",
       "when": "2026-05-27 16:35 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/fastkd2-coxpd/": {
+      "slug": "fastkd2-related-combined-oxidative-phosphorylation-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK619576/",
+      "title": "FASTKD2 -Related Combined Oxidative Phosphorylation Deficiency",
+      "when": "2026-05-27 16:35 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/fch/": {
       "slug": "familial-combined-hypolipidemia",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK593236/",
