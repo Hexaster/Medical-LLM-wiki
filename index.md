@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 284
+> Last updated: 2026-05-27 | Total pages: 285
 
 ## Entities
 
@@ -286,6 +286,7 @@
 - [[exoc6b-related-spondyloepimetaphyseal-dysplasia-with-joint-laxity]] — EXOC6B -related spondyloepimetaphyseal dysplasia with joint laxity ( EXOC6B -SEMD-JL) is characterized by multiple joint dislocations, joint laxity, genu valgum, short.
 - [[exosc3-pontocerebellar-hypoplasia]] — EXOSC3 pontocerebellar hypoplasia ( EXOSC3- PCH) is characterized by abnormalities in the posterior fossa and degeneration of the anterior horn cells.
 - [[ezh2-related-overgrowth]] — EZH2- related overgrowth is a variable overgrowth syndrome characterized by tall stature, macrocephaly, variable intellect (ranging from normal intellect to severe.
+- [[fabry-disease]] — Fabry disease is the most common of the lysosomal storage disorders and results from deficient activity of the enzyme alpha-galactosidase A (α-Gal A), leading to.
 
 ## Concepts
 

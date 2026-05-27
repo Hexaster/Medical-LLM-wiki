@@ -1973,3 +1973,10 @@
 - Raw extract saved: `raw/articles/genereviews-ezh2-related-overgrowth.md`
 - Created/updated entity page: `entities/ezh2-related-overgrowth.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Fabry Disease
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1292/
+- Raw extract saved: `raw/articles/genereviews-fabry-disease.md`
+- Created/updated entity page: `entities/fabry-disease.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
