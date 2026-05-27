@@ -2330,3 +2330,10 @@
 - Raw extract saved: `raw/articles/genereviews-gars1-associated-axonal-neuropathy.md`
 - Created/updated entity page: `entities/gars1-associated-axonal-neuropathy.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: GATA1 -Related Cytopenia
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1364/
+- Raw extract saved: `raw/articles/genereviews-gata1-related-cytopenia.md`
+- Created/updated entity page: `entities/gata1-related-cytopenia.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

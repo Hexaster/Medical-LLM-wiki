@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 335
+> Last updated: 2026-05-27 | Total pages: 336
 
 ## Entities
 
@@ -337,6 +337,7 @@
 - [[gabriele-de-vries-syndrome]] — Gabriele-de Vries syndrome is characterized by mild-to-profound developmental delay / intellectual disability (DD/ID) in all affected individuals and a wide spectrum of.
 - [[gan-related-neurodegeneration]] — GAN -related neurodegeneration comprises a phenotypic continuum ranging from severe (sometimes called classic giant axonal neuropathy) to milder pure early-onset.
 - [[gars1-associated-axonal-neuropathy]] — The phenotypic spectrum of GARS1 -associated axonal neuropathy ranges from GARS1 infantile-onset SMA ( GARS1- iSMA) to GARS1 adolescent- or early adult-onset hereditary.
+- [[gata1-related-cytopenia]] — GATA1 -related cytopenia is characterized by thrombocytopenia and/or anemia ranging from mild to severe.
 
 ## Concepts
 
