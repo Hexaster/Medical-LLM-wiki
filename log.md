@@ -2141,3 +2141,10 @@
 - Raw extract saved: `raw/articles/genereviews-fgfr1-related-hartsfield-syndrome.md`
 - Created/updated entity page: `entities/fgfr1-related-hartsfield-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: FGFR Craniosynostosis Syndromes Overview
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1455/
+- Raw extract saved: `raw/articles/genereviews-fgfr-craniosynostosis-syndromes-overview.md`
+- Created/updated entity page: `entities/fgfr-craniosynostosis-syndromes-overview.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
