@@ -1464,6 +1464,12 @@
       "title": "3-M Syndrome",
       "when": "2026-05-27 16:11 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/hartsfield/": {
+      "slug": "fgfr1-related-hartsfield-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK349073/",
+      "title": "FGFR1 -Related Hartsfield Syndrome",
+      "when": "2026-05-27 16:35 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/hdls/": {
       "slug": "csf1r-related-disorder",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK100239/",

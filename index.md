@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 307
+> Last updated: 2026-05-27 | Total pages: 308
 
 ## Entities
 
@@ -309,6 +309,7 @@
 - [[fbxl4-related-encephalomyopathic-mitochondrial-dna-depletion-syndrome]] — FBXL4 -related encephalomyopathic mitochondrial DNA (mtDNA) depletion syndrome is a multi-system disorder characterized primarily by congenital or early-onset lactic.
 - [[feingold-syndrome-1]] — Feingold syndrome 1 (referred to as FS1 in this GeneReview ) is characterized by digital anomalies (shortening of the 2nd and 5th middle phalanx of the hand.
 - [[fgd1-related-faciogenital-dysplasia-aarskog-scott-syndrome]] — FGD1 -related faciogenital dysplasia (Aarskog-Scott syndrome) is characterized by distinctive craniofacial features (including broad forehead, widow's peak and/or.
+- [[fgfr1-related-hartsfield-syndrome]] — FGFR1 -related Hartsfield syndrome comprises two core features: holoprosencephaly (HPE) spectrum disorder and ectrodactyly spectrum disorder.
 
 ## Concepts
 
