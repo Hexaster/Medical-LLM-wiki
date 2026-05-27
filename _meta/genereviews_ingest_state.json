@@ -1062,6 +1062,12 @@
       "title": "Autosomal Recessive Polycystic Kidney Disease \u2013 PKHD1",
       "when": "2026-05-27 16:14 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/psach/": {
+      "slug": "comp-related-pseudoachondroplasia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1487/",
+      "title": "COMP -Related Pseudoachondroplasia",
+      "when": "2026-05-27 16:26 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/rapid-odp/": {
       "slug": "atp1a3-related-disorder",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1115/",
