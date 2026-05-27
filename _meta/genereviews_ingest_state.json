@@ -600,6 +600,12 @@
       "title": "Cleidocranial Dysplasia Spectrum Disorder",
       "when": "2026-05-27 16:25 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ccfdn/": {
+      "slug": "ctdp1-related-congenital-cataracts-facial-dysmorphism-and-neuropathy",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK25565/",
+      "title": "CTDP1 -Related Congenital Cataracts, Facial Dysmorphism, and Neuropathy",
+      "when": "2026-05-27 16:28 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cd-chst3/": {
       "slug": "chondrodysplasia-with-congenital-joint-dislocations-chst3-related",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK62112/",
