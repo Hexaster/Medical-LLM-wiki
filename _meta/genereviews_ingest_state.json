@@ -1368,6 +1368,12 @@
       "title": "FASTKD2 -Related Combined Oxidative Phosphorylation Deficiency",
       "when": "2026-05-27 16:35 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/fbln5-cutis-laxa/": {
+      "slug": "fbln5-related-cutis-laxa",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK5201/",
+      "title": "FBLN5 -Related Cutis Laxa",
+      "when": "2026-05-27 16:35 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/fch/": {
       "slug": "familial-combined-hypolipidemia",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK593236/",
