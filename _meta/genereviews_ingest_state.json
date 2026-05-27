@@ -822,6 +822,12 @@
       "title": "CHMP2B- Related Frontotemporal Dementia-Amyotrophic Lateral Sclerosis",
       "when": "2026-05-27 16:24 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/galactosemia/": {
+      "slug": "classic-galactosemia-and-clinical-variant-galactosemia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1518/",
+      "title": "Classic Galactosemia and Clinical Variant Galactosemia",
+      "when": "2026-05-27 16:25 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/gr_22q11deletion/": {
       "slug": "22q11-2-deletion-syndrome",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1523/",

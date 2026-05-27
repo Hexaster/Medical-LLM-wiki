@@ -1231,3 +1231,10 @@
 - Raw extract saved: `raw/articles/genereviews-classic-ehlers-danlos-syndrome.md`
 - Created/updated entity page: `entities/classic-ehlers-danlos-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Classic Galactosemia and Clinical Variant Galactosemia
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1518/
+- Raw extract saved: `raw/articles/genereviews-classic-galactosemia-and-clinical-variant-galactosemia.md`
+- Created/updated entity page: `entities/classic-galactosemia-and-clinical-variant-galactosemia.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
