@@ -534,6 +534,12 @@
       "title": "Campomelic Dysplasia",
       "when": "2026-05-27 16:21 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ced/": {
+      "slug": "camurati-engelmann-disease",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1156/",
+      "title": "Camurati-Engelmann Disease",
+      "when": "2026-05-27 16:21 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cmt2c/": {
       "slug": "autosomal-dominant-trpv4-related-disorders",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK201366/",

@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 133
+> Last updated: 2026-05-27 | Total pages: 134
 
 ## Entities
 
@@ -135,6 +135,7 @@
 - [[caffey-disease]] — Caffey disease is characterized by massive subperiosteal new bone formation (usually involving the diaphyses of the long bones as well as the ribs, mandible, scapulae.
 - [[calpainopathy]] — Calpainopathy is characterized by symmetric and progressive weakness of proximal limb-girdle muscles.
 - [[campomelic-dysplasia]] — Campomelic dysplasia (CD) is a skeletal dysplasia characterized by distinctive facies, Pierre Robin sequence with cleft palate, shortening and bowing of long bones, and.
+- [[camurati-engelmann-disease]] — Camurati-Engelmann disease (CED) is characterized by hyperostosis of the long bones and the skull, proximal muscle weakness, limb pain, a wide-based, waddling gait, and.
 
 ## Concepts
 

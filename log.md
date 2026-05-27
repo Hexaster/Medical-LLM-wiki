@@ -916,3 +916,10 @@
 - Raw extract saved: `raw/articles/genereviews-campomelic-dysplasia.md`
 - Created/updated entity page: `entities/campomelic-dysplasia.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Camurati-Engelmann Disease
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1156/
+- Raw extract saved: `raw/articles/genereviews-camurati-engelmann-disease.md`
+- Created/updated entity page: `entities/camurati-engelmann-disease.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
