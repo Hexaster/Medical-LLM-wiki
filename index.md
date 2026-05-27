@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 264
+> Last updated: 2026-05-27 | Total pages: 265
 
 ## Entities
 
@@ -266,6 +266,7 @@
 - [[el-hattab-alkuraya-syndrome]] — El-Hattab-Alkuraya syndrome is characterized by microcephaly (often early onset and progressive); severe-to-profound developmental delay; refractory and early-onset.
 - [[elane-related-neutropenia]] — ELANE -related neutropenia includes congenital neutropenia and cyclic neutropenia, both of which are primary hematologic disorders characterized by recurrent fever, skin.
 - [[ellis-van-creveld-syndrome]] — Ellis-van Creveld (EVC) syndrome is characterized by postaxial polydactyly of the hands, disproportionate short stature with short limbs, dystrophic and/or hypoplastic.
+- [[eln-related-cutis-laxa]] — ELN -related cutis laxa is characterized by generalized cutis laxa (ranging from generalized skin redundancy causing excessive skin folds to skin hyperextensibility.
 
 ## Concepts
 
