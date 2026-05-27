@@ -648,6 +648,12 @@
       "title": "CHD4 Neurodevelopmental Disorder",
       "when": "2026-05-27 16:23 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/chd8-ndd-og/": {
+      "slug": "chd8-related-neurodevelopmental-disorder-with-overgrowth",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK585456/",
+      "title": "CHD8 -Related Neurodevelopmental Disorder with Overgrowth",
+      "when": "2026-05-27 16:23 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/chh/": {
       "slug": "cartilage-hair-hypoplasia-anauxetic-dysplasia-spectrum-disorders",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK84550/",

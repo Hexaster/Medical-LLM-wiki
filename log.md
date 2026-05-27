@@ -1112,3 +1112,10 @@
 - Raw extract saved: `raw/articles/genereviews-chd7-disorder.md`
 - Created/updated entity page: `entities/chd7-disorder.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: CHD8 -Related Neurodevelopmental Disorder with Overgrowth
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK585456/
+- Raw extract saved: `raw/articles/genereviews-chd8-related-neurodevelopmental-disorder-with-overgrowth.md`
+- Created/updated entity page: `entities/chd8-related-neurodevelopmental-disorder-with-overgrowth.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

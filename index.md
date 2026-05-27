@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 161
+> Last updated: 2026-05-27 | Total pages: 162
 
 ## Entities
 
@@ -163,6 +163,7 @@
 - [[chd2-related-neurodevelopmental-disorders]] — CHD2 -related neurodevelopmental disorders are characterized by early-onset epileptic encephalopathy (i.e., refractory seizures and cognitive slowing or regression.
 - [[chd4-neurodevelopmental-disorder]] — CHD4 neurodevelopmental disorder ( CHD4 -NDD) is associated with developmental delay, speech delay, and usually mild-to-moderate intellectual disability.
 - [[chd7-disorder]] — CHD7 disorder encompasses the entire phenotypic spectrum of heterozygous CHD7 pathogenic variants that includes CHARGE syndrome as well as subsets of features that.
+- [[chd8-related-neurodevelopmental-disorder-with-overgrowth]] — CHD8 -related neurodevelopmental disorder with overgrowth ( CHD8 -NDD) is characterized by generalized overgrowth, developmental delay / intellectual disability (DD/ID).
 
 ## Concepts
 
