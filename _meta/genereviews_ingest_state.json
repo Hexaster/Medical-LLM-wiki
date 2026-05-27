@@ -1590,6 +1590,12 @@
       "title": "Classic Isovaleric Acidemia",
       "when": "2026-05-27 16:25 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/issd/": {
+      "slug": "free-sialic-acid-storage-disorder",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1470/",
+      "title": "Free Sialic Acid Storage Disorder",
+      "when": "2026-05-27 16:37 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/lgmd2a/": {
       "slug": "calpainopathy",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1313/",

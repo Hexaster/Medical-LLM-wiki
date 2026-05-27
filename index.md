@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 321
+> Last updated: 2026-05-27 | Total pages: 322
 
 ## Entities
 
@@ -323,6 +323,7 @@
 - [[foxg1-syndrome]] — FOXG1 syndrome is characterized by moderate-to-profound developmental delay and intellectual disability, postnatal growth deficiency, congenital or postnatal.
 - [[foxp1-syndrome]] — FOXP1 syndrome is characterized by delays in early motor and language milestones, mild-to-severe intellectual deficits, speech and language impairment in all individuals.
 - [[foxp2-related-speech-and-language-disorder]] — FOXP2- related speech and language disorder ( FOXP2- SLD) is caused by heterozygous FOXP2 pathogenic variants (including whole- or partial-gene deletions).
+- [[free-sialic-acid-storage-disorder]] — Free sialic acid storage disorder (FSASD) is a spectrum of neurodegenerative phenotypes resulting from increased lysosomal storage of free sialic acid.
 
 ## Concepts
 

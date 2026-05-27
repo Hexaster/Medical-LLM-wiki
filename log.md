@@ -2232,3 +2232,10 @@
 - Raw extract saved: `raw/articles/genereviews-foxp2-related-speech-and-language-disorder.md`
 - Created/updated entity page: `entities/foxp2-related-speech-and-language-disorder.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Free Sialic Acid Storage Disorder
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1470/
+- Raw extract saved: `raw/articles/genereviews-free-sialic-acid-storage-disorder.md`
+- Created/updated entity page: `entities/free-sialic-acid-storage-disorder.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
