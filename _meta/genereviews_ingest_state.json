@@ -576,6 +576,12 @@
       "title": "CASK Disorders",
       "when": "2026-05-27 16:22 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cc2-leuk/": {
+      "slug": "clcn2-related-leukoencephalopathy",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK326661/",
+      "title": "CLCN2 -Related Leukoencephalopathy",
+      "when": "2026-05-27 16:25 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cd-chst3/": {
       "slug": "chondrodysplasia-with-congenital-joint-dislocations-chst3-related",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK62112/",
