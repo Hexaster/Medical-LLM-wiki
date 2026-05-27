@@ -1301,3 +1301,10 @@
 - Raw extract saved: `raw/articles/genereviews-cockayne-syndrome.md`
 - Created/updated entity page: `entities/cockayne-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Coffin-Siris Syndrome
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK131811/
+- Raw extract saved: `raw/articles/genereviews-coffin-siris-syndrome.md`
+- Created/updated entity page: `entities/coffin-siris-syndrome.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

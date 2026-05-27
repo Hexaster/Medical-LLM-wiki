@@ -60,6 +60,7 @@ This wiki is for research and study synthesis. It is not medical advice, diagnos
 
 ## Ingest History
 
+- 2026-05-27 16:26 CST — Ingested: GeneReviews chapter: Coffin-Siris Syndrome. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-coffin-siris-syndrome.md`, `entities/coffin-siris-syndrome.md`, `index.md`, `log.md`.
 - 2026-05-27 16:26 CST — Ingested: GeneReviews chapter: Cockayne Syndrome. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-cockayne-syndrome.md`, `entities/cockayne-syndrome.md`, `index.md`, `log.md`.
 - 2026-05-27 16:26 CST — Ingested: GeneReviews chapter: CNOT1 -Related Vissers-Bodmer Syndrome. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-cnot1-related-vissers-bodmer-syndrome.md`, `entities/cnot1-related-vissers-bodmer-syndrome.md`, `index.md`, `log.md`.
 - 2026-05-27 16:25 CST — Ingested: GeneReviews chapter: CLPB Deficiency. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-clpb-deficiency.md`, `entities/clpb-deficiency.md`, `index.md`, `log.md`.
