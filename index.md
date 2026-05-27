@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 255
+> Last updated: 2026-05-27 | Total pages: 256
 
 ## Entities
 
@@ -257,6 +257,7 @@
 - [[dysferlinopathy]] — Dysferlinopathy includes a spectrum of muscle disease characterized by two major phenotypes: Miyoshi muscular dystrophy (MMD) and limb-girdle muscular dystrophy type 2B.
 - [[dyskeratosis-congenita-and-related-telomere-biology-disorders]] — Dyskeratosis congenita and related telomere biology disorders (DC/TBD) are caused by impaired telomere maintenance resulting in short or very short telomeres.
 - [[dystrophic-epidermolysis-bullosa]] — Dystrophic epidermolysis bullosa (DEB) is characterized by skin fragility manifested by blistering and erosions with minimal trauma.
+- [[dystrophinopathies]] — The dystrophinopathies cover a spectrum of X-linked muscle disease ranging from mild to severe that includes Duchenne muscular dystrophy, Becker muscular dystrophy, and.
 
 ## Concepts
 

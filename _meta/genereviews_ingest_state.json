@@ -996,6 +996,12 @@
       "title": "Dopamine Beta-Hydroxylase Deficiency",
       "when": "2026-05-27 16:30 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/dbmd/": {
+      "slug": "dystrophinopathies",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1119/",
+      "title": "Dystrophinopathies",
+      "when": "2026-05-27 16:31 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/dcm-ov/": {
       "slug": "dilated-cardiomyopathy-overview",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1309/",

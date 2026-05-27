@@ -1770,3 +1770,10 @@
 - Raw extract saved: `raw/articles/genereviews-dystrophic-epidermolysis-bullosa.md`
 - Created/updated entity page: `entities/dystrophic-epidermolysis-bullosa.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Dystrophinopathies
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1119/
+- Raw extract saved: `raw/articles/genereviews-dystrophinopathies.md`
+- Created/updated entity page: `entities/dystrophinopathies.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
