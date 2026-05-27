@@ -60,6 +60,7 @@ This wiki is for research and study synthesis. It is not medical advice, diagnos
 
 ## Ingest History
 
+- 2026-05-27 16:38 CST — Ingested: GeneReviews chapter: Geleophysic Dysplasia. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-geleophysic-dysplasia.md`, `entities/geleophysic-dysplasia.md`, `index.md`, `log.md`.
 - 2026-05-27 16:38 CST — Ingested: GeneReviews chapter: GBE1 Adult Polyglucosan Body Disease. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-gbe1-adult-polyglucosan-body-disease.md`, `entities/gbe1-adult-polyglucosan-body-disease.md`, `index.md`, `log.md`.
 - 2026-05-27 16:38 CST — Ingested: GeneReviews chapter: Gaucher Disease. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-gaucher-disease.md`, `entities/gaucher-disease.md`, `index.md`, `log.md`.
 - 2026-05-27 16:38 CST — Ingested: GeneReviews chapter: GATA1 -Related Cytopenia. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-gata1-related-cytopenia.md`, `entities/gata1-related-cytopenia.md`, `index.md`, `log.md`.

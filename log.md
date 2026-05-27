@@ -2351,3 +2351,10 @@
 - Raw extract saved: `raw/articles/genereviews-gbe1-adult-polyglucosan-body-disease.md`
 - Created/updated entity page: `entities/gbe1-adult-polyglucosan-body-disease.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Geleophysic Dysplasia
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK11168/
+- Raw extract saved: `raw/articles/genereviews-geleophysic-dysplasia.md`
+- Created/updated entity page: `entities/geleophysic-dysplasia.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
