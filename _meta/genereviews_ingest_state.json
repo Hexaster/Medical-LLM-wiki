@@ -1446,6 +1446,12 @@
       "title": "Fibrodysplasia Ossificans Progressiva",
       "when": "2026-05-27 16:36 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/foxg1-ndd/": {
+      "slug": "foxg1-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK604176/",
+      "title": "FOXG1 Syndrome",
+      "when": "2026-05-27 16:36 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/fragilex/": {
       "slug": "fmr1-disorders",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1384/",

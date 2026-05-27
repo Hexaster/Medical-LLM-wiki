@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 318
+> Last updated: 2026-05-27 | Total pages: 319
 
 ## Entities
 
@@ -320,6 +320,7 @@
 - [[flnb-related-disorders]] — The FLNB- related disorders can be divided into two groups of conditions caused by loss of function or gain of function of filamin-B.
 - [[fmr1-disorders]] — FMR1 disorders include fragile X syndrome (FXS), fragile X-associated tremor/ataxia syndrome (FXTAS), and fragile X-associated primary ovarian insufficiency (FXPOI).
 - [[folr1-related-cerebral-folate-transport-deficiency]] — FOLR1 -related cerebral folate transport deficiency ( FOLR1 -CFTD), resulting from loss of function of the folate receptor alpha (FOLR1) protein, causes cerebral folate.
+- [[foxg1-syndrome]] — FOXG1 syndrome is characterized by moderate-to-profound developmental delay and intellectual disability, postnatal growth deficiency, congenital or postnatal.
 
 ## Concepts
 
