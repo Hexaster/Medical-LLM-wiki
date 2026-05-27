@@ -1980,3 +1980,10 @@
 - Raw extract saved: `raw/articles/genereviews-fabry-disease.md`
 - Created/updated entity page: `entities/fabry-disease.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Facioscapulohumeral Muscular Dystrophy
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1443/
+- Raw extract saved: `raw/articles/genereviews-facioscapulohumeral-muscular-dystrophy.md`
+- Created/updated entity page: `entities/facioscapulohumeral-muscular-dystrophy.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

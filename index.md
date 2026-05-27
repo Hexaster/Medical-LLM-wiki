@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 285
+> Last updated: 2026-05-27 | Total pages: 286
 
 ## Entities
 
@@ -287,6 +287,7 @@
 - [[exosc3-pontocerebellar-hypoplasia]] — EXOSC3 pontocerebellar hypoplasia ( EXOSC3- PCH) is characterized by abnormalities in the posterior fossa and degeneration of the anterior horn cells.
 - [[ezh2-related-overgrowth]] — EZH2- related overgrowth is a variable overgrowth syndrome characterized by tall stature, macrocephaly, variable intellect (ranging from normal intellect to severe.
 - [[fabry-disease]] — Fabry disease is the most common of the lysosomal storage disorders and results from deficient activity of the enzyme alpha-galactosidase A (α-Gal A), leading to.
+- [[facioscapulohumeral-muscular-dystrophy]] — Facioscapulohumeral muscular dystrophy (FSHD) typically presents with weakness of the facial muscles, the stabilizers of the scapula, and/or the dorsiflexors of the foot.
 
 ## Concepts
 

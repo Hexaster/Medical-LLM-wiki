@@ -1326,6 +1326,12 @@
       "title": "APC -Associated Polyposis Conditions",
       "when": "2026-05-27 16:13 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/fsh/": {
+      "slug": "facioscapulohumeral-muscular-dystrophy",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1443/",
+      "title": "Facioscapulohumeral Muscular Dystrophy",
+      "when": "2026-05-27 16:34 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/ftd-chmp2b/": {
       "slug": "chmp2b-related-frontotemporal-dementia-amyotrophic-lateral-sclerosis",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1199/",

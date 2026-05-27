@@ -60,6 +60,7 @@ This wiki is for research and study synthesis. It is not medical advice, diagnos
 
 ## Ingest History
 
+- 2026-05-27 16:34 CST — Ingested: GeneReviews chapter: Facioscapulohumeral Muscular Dystrophy. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-facioscapulohumeral-muscular-dystrophy.md`, `entities/facioscapulohumeral-muscular-dystrophy.md`, `index.md`, `log.md`.
 - 2026-05-27 16:34 CST — Ingested: GeneReviews chapter: Fabry Disease. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-fabry-disease.md`, `entities/fabry-disease.md`, `index.md`, `log.md`.
 - 2026-05-27 16:33 CST — Ingested: GeneReviews chapter: EZH2 -Related Overgrowth. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-ezh2-related-overgrowth.md`, `entities/ezh2-related-overgrowth.md`, `index.md`, `log.md`.
 - 2026-05-27 16:33 CST — Ingested: GeneReviews chapter: EXOSC3 Pontocerebellar Hypoplasia. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-exosc3-pontocerebellar-hypoplasia.md`, `entities/exosc3-pontocerebellar-hypoplasia.md`, `index.md`, `log.md`.
