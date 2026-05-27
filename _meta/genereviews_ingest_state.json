@@ -510,6 +510,12 @@
       "title": "Beckwith-Wiedemann Syndrome",
       "when": "2026-05-27 16:15 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cadasil/": {
+      "slug": "cadasil",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1500/",
+      "title": "CADASIL",
+      "when": "2026-05-27 16:21 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cah/": {
       "slug": "21-hydroxylase-deficient-congenital-adrenal-hyperplasia",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1171/",

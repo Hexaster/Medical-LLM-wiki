@@ -888,3 +888,10 @@
 - Raw extract saved: `raw/articles/genereviews-cacna1c-related-disorders.md`
 - Created/updated entity page: `entities/cacna1c-related-disorders.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: CADASIL
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1500/
+- Raw extract saved: `raw/articles/genereviews-cadasil.md`
+- Created/updated entity page: `entities/cadasil.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
