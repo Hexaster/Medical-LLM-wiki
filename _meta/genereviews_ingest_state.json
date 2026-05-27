@@ -1296,6 +1296,12 @@
       "title": "Classic Galactosemia and Clinical Variant Galactosemia",
       "when": "2026-05-27 16:25 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/gale-def/": {
+      "slug": "epimerase-deficiency-galactosemia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK51671/",
+      "title": "Epimerase Deficiency Galactosemia",
+      "when": "2026-05-27 16:33 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/gnal-dystonia/": {
       "slug": "dyt-gnal",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK535640/",
