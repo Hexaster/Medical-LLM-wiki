@@ -768,6 +768,12 @@
       "title": "Christianson Syndrome",
       "when": "2026-05-27 16:24 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cip-overview/": {
+      "slug": "congenital-insensitivity-to-pain-overview",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK481553/",
+      "title": "Congenital Insensitivity to Pain Overview",
+      "when": "2026-05-27 16:27 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/ciss/": {
       "slug": "cold-induced-sweating-syndrome-including-crisponi-syndrome",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK52917/",

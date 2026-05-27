@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 203
+> Last updated: 2026-05-27 | Total pages: 204
 
 ## Entities
 
@@ -205,6 +205,7 @@
 - [[congenital-dyserythropoietic-anemia-type-i]] — Congenital dyserythropoietic anemia type I (CDA I) is characterized by moderate-to-severe macrocytic anemia presenting occasionally in utero as severe anemia associated.
 - [[congenital-erythropoietic-porphyria]] — Congenital erythropoietic porphyria (CEP) is characterized in most individuals by severe cutaneous photosensitivity with blistering and increased friability of the skin.
 - [[congenital-fibrosis-of-the-extraocular-muscles-overview]] — The purpose of this overview is to: Describe the clinical characteristics of congenital fibrosis of the extraocular muscles (CFEOM); Review the genetic causes of CFEOM.
+- [[congenital-insensitivity-to-pain-overview]] — The purpose of this overview is to: Describe the clinical characteristics of congenital insensitivity to pain; Review the causes of congenital insensitivity to pain.
 
 ## Concepts
 
