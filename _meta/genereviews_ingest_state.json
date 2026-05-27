@@ -480,6 +480,12 @@
       "title": "Brugada Syndrome",
       "when": "2026-05-27 16:20 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/brylib/": {
+      "slug": "bryant-li-bhoj-neurodevelopmental-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK595206/",
+      "title": "Bryant-Li-Bhoj Neurodevelopmental Syndrome",
+      "when": "2026-05-27 16:20 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/bscl/": {
       "slug": "berardinelli-seip-congenital-lipodystrophy",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1212/",
