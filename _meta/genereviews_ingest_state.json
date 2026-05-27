@@ -1116,6 +1116,12 @@
       "title": "DRPLA",
       "when": "2026-05-27 16:31 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/duane/": {
+      "slug": "duane-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1190/",
+      "title": "Duane Syndrome",
+      "when": "2026-05-27 16:31 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/dup17q12/": {
       "slug": "17q12-recurrent-duplication",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK344340/",

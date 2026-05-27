@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 248
+> Last updated: 2026-05-27 | Total pages: 249
 
 ## Entities
 
@@ -250,6 +250,7 @@
 - [[donnai-barrow-syndrome]] — Donnai-Barrow syndrome (DBS) is characterized by typical craniofacial features (large anterior fontanelle, wide metopic suture, widow's peak, markedly widely spaced.
 - [[dopamine-beta-hydroxylase-deficiency]] — Dopamine beta-hydroxylase (DBH) deficiency is characterized by lack of sympathetic noradrenergic function resulting in profound deficits in autonomic regulation of.
 - [[drpla]] — DRPLA (dentatorubral-pallidoluysian atrophy) is a progressive neurologic disorder characterized by five cardinal features (irrespective of the age of onset): ataxia.
+- [[duane-syndrome]] — Duane syndrome is a strabismus condition clinically characterized by congenital non-progressive limited horizontal eye movement accompanied by globe retraction which.
 
 ## Concepts
 
