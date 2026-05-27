@@ -60,6 +60,7 @@ This wiki is for research and study synthesis. It is not medical advice, diagnos
 
 ## Ingest History
 
+- 2026-05-27 16:21 CST — Ingested: GeneReviews chapter: Canavan Disease. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-canavan-disease.md`, `entities/canavan-disease.md`, `index.md`, `log.md`.
 - 2026-05-27 16:21 CST — Ingested: GeneReviews chapter: Camurati-Engelmann Disease. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-camurati-engelmann-disease.md`, `entities/camurati-engelmann-disease.md`, `index.md`, `log.md`.
 - 2026-05-27 16:21 CST — Ingested: GeneReviews chapter: Campomelic Dysplasia. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-campomelic-dysplasia.md`, `entities/campomelic-dysplasia.md`, `index.md`, `log.md`.
 - 2026-05-27 16:21 CST — Ingested: GeneReviews chapter: Calpainopathy. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-calpainopathy.md`, `entities/calpainopathy.md`, `index.md`, `log.md`.

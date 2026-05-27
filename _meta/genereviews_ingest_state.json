@@ -534,6 +534,12 @@
       "title": "Campomelic Dysplasia",
       "when": "2026-05-27 16:21 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/canavan/": {
+      "slug": "canavan-disease",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1234/",
+      "title": "Canavan Disease",
+      "when": "2026-05-27 16:21 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/ced/": {
       "slug": "camurati-engelmann-disease",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1156/",

@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 134
+> Last updated: 2026-05-27 | Total pages: 135
 
 ## Entities
 
@@ -136,6 +136,7 @@
 - [[calpainopathy]] — Calpainopathy is characterized by symmetric and progressive weakness of proximal limb-girdle muscles.
 - [[campomelic-dysplasia]] — Campomelic dysplasia (CD) is a skeletal dysplasia characterized by distinctive facies, Pierre Robin sequence with cleft palate, shortening and bowing of long bones, and.
 - [[camurati-engelmann-disease]] — Camurati-Engelmann disease (CED) is characterized by hyperostosis of the long bones and the skull, proximal muscle weakness, limb pain, a wide-based, waddling gait, and.
+- [[canavan-disease]] — Canavan disease is a leukodystrophy characterized by neurodevelopmental delays, macrocephaly, and tone abnormalities.
 
 ## Concepts
 
