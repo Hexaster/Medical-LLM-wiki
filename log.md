@@ -1791,3 +1791,10 @@
 - Raw extract saved: `raw/articles/genereviews-dyt-tor1a.md`
 - Created/updated entity page: `entities/dyt-tor1a.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: EBF3 Neurodevelopmental Disorder
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK570204/
+- Raw extract saved: `raw/articles/genereviews-ebf3-neurodevelopmental-disorder.md`
+- Created/updated entity page: `entities/ebf3-neurodevelopmental-disorder.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
