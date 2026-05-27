@@ -1511,3 +1511,10 @@
 - Raw extract saved: `raw/articles/genereviews-cyld-cutaneous-syndrome.md`
 - Created/updated entity page: `entities/cyld-cutaneous-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Cystic Fibrosis
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1250/
+- Raw extract saved: `raw/articles/genereviews-cystic-fibrosis.md`
+- Created/updated entity page: `entities/cystic-fibrosis.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

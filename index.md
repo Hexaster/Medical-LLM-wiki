@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 218
+> Last updated: 2026-05-27 | Total pages: 219
 
 ## Entities
 
@@ -220,6 +220,7 @@
 - [[ctdp1-related-congenital-cataracts-facial-dysmorphism-and-neuropathy]] — CTDP1 -related congenital cataracts, facial dysmorphism, and neuropathy ( CTDP1 -CCFDN) is characterized by abnormalities of the eye (bilateral congenital cataracts.
 - [[ctnnb1-neurodevelopmental-disorder]] — CTNNB1 neurodevelopmental disorder ( CTNNB1 -NDD) is characterized in all individuals by mild-to-profound cognitive impairment and in up to 39% of reported individuals.
 - [[cyld-cutaneous-syndrome]] — CYLD cutaneous syndrome (CCS) typically manifests in the second or third decade with the appearance of multiple skin tumors including cylindromas, spiradenomas.
+- [[cystic-fibrosis]] — Cystic fibrosis (CF) is a multisystem disease affecting epithelia of the respiratory tract, exocrine pancreas, intestine, hepatobiliary system, and exocrine sweat glands.
 
 ## Concepts
 
