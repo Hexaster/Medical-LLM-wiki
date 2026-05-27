@@ -1908,6 +1908,12 @@
       "title": "DICER1- Related Tumor Predisposition",
       "when": "2026-05-27 16:30 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/prion/": {
+      "slug": "genetic-prion-disease",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1229/",
+      "title": "Genetic Prion Disease",
+      "when": "2026-05-27 16:38 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/psach/": {
       "slug": "comp-related-pseudoachondroplasia",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1487/",

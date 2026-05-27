@@ -2379,3 +2379,10 @@
 - Raw extract saved: `raw/articles/genereviews-genetic-hearing-loss-overview.md`
 - Created/updated entity page: `entities/genetic-hearing-loss-overview.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Genetic Prion Disease
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1229/
+- Raw extract saved: `raw/articles/genereviews-genetic-prion-disease.md`
+- Created/updated entity page: `entities/genetic-prion-disease.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
