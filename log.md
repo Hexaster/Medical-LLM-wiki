@@ -1126,3 +1126,10 @@
 - Raw extract saved: `raw/articles/genereviews-chediak-higashi-syndrome.md`
 - Created/updated entity page: `entities/chediak-higashi-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: CHEK2 -Related Cancer Predisposition
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK615090/
+- Raw extract saved: `raw/articles/genereviews-chek2-related-cancer-predisposition.md`
+- Created/updated entity page: `entities/chek2-related-cancer-predisposition.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

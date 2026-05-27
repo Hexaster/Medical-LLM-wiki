@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 163
+> Last updated: 2026-05-27 | Total pages: 164
 
 ## Entities
 
@@ -165,6 +165,7 @@
 - [[chd7-disorder]] — CHD7 disorder encompasses the entire phenotypic spectrum of heterozygous CHD7 pathogenic variants that includes CHARGE syndrome as well as subsets of features that.
 - [[chd8-related-neurodevelopmental-disorder-with-overgrowth]] — CHD8 -related neurodevelopmental disorder with overgrowth ( CHD8 -NDD) is characterized by generalized overgrowth, developmental delay / intellectual disability (DD/ID).
 - [[chediak-higashi-syndrome]] — Chediak-Higashi syndrome (CHS) is characterized by partial oculocutaneous albinism (OCA), immunodeficiency, a mild bleeding tendency, and late adolescent- to adult-onset.
+- [[chek2-related-cancer-predisposition]] — CHEK2- related cancer predisposition is predominantly characterized by an increased risk of female breast cancer.
 
 ## Concepts
 
