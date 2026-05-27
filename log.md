@@ -2246,3 +2246,10 @@
 - Raw extract saved: `raw/articles/genereviews-frem1-autosomal-recessive-disorders.md`
 - Created/updated entity page: `entities/frem1-autosomal-recessive-disorders.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Friedreich Ataxia
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1281/
+- Raw extract saved: `raw/articles/genereviews-friedreich-ataxia.md`
+- Created/updated entity page: `entities/friedreich-ataxia.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

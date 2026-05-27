@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 323
+> Last updated: 2026-05-27 | Total pages: 324
 
 ## Entities
 
@@ -325,6 +325,7 @@
 - [[foxp2-related-speech-and-language-disorder]] — FOXP2- related speech and language disorder ( FOXP2- SLD) is caused by heterozygous FOXP2 pathogenic variants (including whole- or partial-gene deletions).
 - [[free-sialic-acid-storage-disorder]] — Free sialic acid storage disorder (FSASD) is a spectrum of neurodegenerative phenotypes resulting from increased lysosomal storage of free sialic acid.
 - [[frem1-autosomal-recessive-disorders]] — FREM1 autosomal recessive disorders include Manitoba oculotrichoanal (MOTA) syndrome, bifid nose with or without anorectal and renal anomalies (BNAR) syndrome, and.
+- [[friedreich-ataxia]] — Typical Friedreich ataxia (FRDA) is characterized by progressive ataxia with onset from early childhood to early adulthood with mean age at onset from 10 to 15 years.
 
 ## Concepts
 
