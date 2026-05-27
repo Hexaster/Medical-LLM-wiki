@@ -2008,3 +2008,10 @@
 - Raw extract saved: `raw/articles/genereviews-familial-cerebral-cavernous-malformations.md`
 - Created/updated entity page: `entities/familial-cerebral-cavernous-malformations.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Familial Combined Hypolipidemia
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK593236/
+- Raw extract saved: `raw/articles/genereviews-familial-combined-hypolipidemia.md`
+- Created/updated entity page: `entities/familial-combined-hypolipidemia.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
