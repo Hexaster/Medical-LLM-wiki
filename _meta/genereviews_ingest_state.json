@@ -1896,6 +1896,12 @@
       "title": "FLNA Deficiency",
       "when": "2026-05-27 16:36 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/xl-nystag/": {
+      "slug": "frmd7-related-infantile-nystagmus",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK3822/",
+      "title": "FRMD7 -Related Infantile Nystagmus",
+      "when": "2026-05-27 16:37 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/xlhi/": {
       "slug": "cd40-ligand-deficiency",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1402/",

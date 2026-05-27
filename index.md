@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 324
+> Last updated: 2026-05-27 | Total pages: 325
 
 ## Entities
 
@@ -326,6 +326,7 @@
 - [[free-sialic-acid-storage-disorder]] — Free sialic acid storage disorder (FSASD) is a spectrum of neurodegenerative phenotypes resulting from increased lysosomal storage of free sialic acid.
 - [[frem1-autosomal-recessive-disorders]] — FREM1 autosomal recessive disorders include Manitoba oculotrichoanal (MOTA) syndrome, bifid nose with or without anorectal and renal anomalies (BNAR) syndrome, and.
 - [[friedreich-ataxia]] — Typical Friedreich ataxia (FRDA) is characterized by progressive ataxia with onset from early childhood to early adulthood with mean age at onset from 10 to 15 years.
+- [[frmd7-related-infantile-nystagmus]] — FRMD7 -related infantile nystagmus (FIN) is characterized by either the onset of horizontal, conjugate, gaze-dependent nystagmus in the first six months of life or.
 
 ## Concepts
 

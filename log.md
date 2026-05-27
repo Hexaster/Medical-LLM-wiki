@@ -2253,3 +2253,10 @@
 - Raw extract saved: `raw/articles/genereviews-friedreich-ataxia.md`
 - Created/updated entity page: `entities/friedreich-ataxia.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: FRMD7 -Related Infantile Nystagmus
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK3822/
+- Raw extract saved: `raw/articles/genereviews-frmd7-related-infantile-nystagmus.md`
+- Created/updated entity page: `entities/frmd7-related-infantile-nystagmus.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
