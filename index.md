@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 294
+> Last updated: 2026-05-27 | Total pages: 295
 
 ## Entities
 
@@ -296,6 +296,7 @@
 - [[familial-hemiplegic-migraine]] — Familial hemiplegic migraine (FHM) falls within the category of migraine with aura.
 - [[familial-hemophagocytic-lymphohistiocytosis]] — Familial hemophagocytic lymphohistiocytosis (fHLH), defined as the presence of biallelic pathogenic variants in one of four genes ( PRF1 , STX11 , STXBP2 , or UNC13D ).
 - [[familial-hypercholesterolemia]] — Familial hypercholesterolemia (FH) is characterized by significantly elevated low-density lipoprotein cholesterol (LDL-C) that leads to atherosclerotic plaque deposition.
+- [[familial-lipoprotein-lipase-deficiency]] — Familial lipoprotein lipase (LPL) deficiency usually presents in childhood and is characterized by very severe hypertriglyceridemia with episodes of abdominal pain.
 
 ## Concepts
 

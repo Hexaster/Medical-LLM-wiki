@@ -2043,3 +2043,10 @@
 - Raw extract saved: `raw/articles/genereviews-familial-hypercholesterolemia.md`
 - Created/updated entity page: `entities/familial-hypercholesterolemia.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Familial Lipoprotein Lipase Deficiency
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1308/
+- Raw extract saved: `raw/articles/genereviews-familial-lipoprotein-lipase-deficiency.md`
+- Created/updated entity page: `entities/familial-lipoprotein-lipase-deficiency.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

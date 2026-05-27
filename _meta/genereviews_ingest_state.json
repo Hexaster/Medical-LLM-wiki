@@ -1482,6 +1482,12 @@
       "title": "Autosomal Recessive Congenital Ichthyosis",
       "when": "2026-05-27 16:14 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/lpl/": {
+      "slug": "familial-lipoprotein-lipase-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1308/",
+      "title": "Familial Lipoprotein Lipase Deficiency",
+      "when": "2026-05-27 16:34 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/mckd1/": {
       "slug": "autosomal-dominant-tubulointerstitial-kidney-disease-muc1",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK153723/",
