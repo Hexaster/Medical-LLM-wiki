@@ -594,6 +594,12 @@
       "title": "CDKN2A Cancer Predisposition",
       "when": "2026-05-27 16:23 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cdp1-xlr/": {
+      "slug": "chondrodysplasia-punctata-1-x-linked",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1544/",
+      "title": "Chondrodysplasia Punctata 1, X-Linked",
+      "when": "2026-05-27 16:24 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cebpa-aml/": {
       "slug": "cebpa-associated-familial-acute-myeloid-leukemia-aml",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK47457/",

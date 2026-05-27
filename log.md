@@ -1161,3 +1161,10 @@
 - Raw extract saved: `raw/articles/genereviews-chmp2b-related-frontotemporal-dementia-amyotrophic-lateral-sclerosis.md`
 - Created/updated entity page: `entities/chmp2b-related-frontotemporal-dementia-amyotrophic-lateral-sclerosis.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Chondrodysplasia Punctata 1, X-Linked
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1544/
+- Raw extract saved: `raw/articles/genereviews-chondrodysplasia-punctata-1-x-linked.md`
+- Created/updated entity page: `entities/chondrodysplasia-punctata-1-x-linked.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
