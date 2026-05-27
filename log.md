@@ -2078,3 +2078,10 @@
 - Raw extract saved: `raw/articles/genereviews-fanconi-anemia.md`
 - Created/updated entity page: `entities/fanconi-anemia.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: FARS2 Deficiency
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK538658/
+- Raw extract saved: `raw/articles/genereviews-fars2-deficiency.md`
+- Created/updated entity page: `entities/fars2-deficiency.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

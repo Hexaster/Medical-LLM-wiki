@@ -1350,6 +1350,12 @@
       "title": "APC -Associated Polyposis Conditions",
       "when": "2026-05-27 16:13 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/fars2-def/": {
+      "slug": "fars2-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK538658/",
+      "title": "FARS2 Deficiency",
+      "when": "2026-05-27 16:35 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/fch/": {
       "slug": "familial-combined-hypolipidemia",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK593236/",

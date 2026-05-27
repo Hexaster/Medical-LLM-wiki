@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 299
+> Last updated: 2026-05-27 | Total pages: 300
 
 ## Entities
 
@@ -301,6 +301,7 @@
 - [[familial-paroxysmal-nonkinesigenic-dyskinesia]] — Familial paroxysmal nonkinesigenic dyskinesia (PNKD) is characterized by unilateral or bilateral involuntary movements.
 - [[familial-porphyria-cutanea-tarda]] — Familial porphyria cutanea tarda (F-PCT) is characterized by: skin findings including blistering over the dorsal aspects of the hands and other sun-exposed areas of.
 - [[fanconi-anemia]] — Fanconi anemia (FA) is characterized by physical abnormalities, bone marrow failure, and increased risk for malignancy.
+- [[fars2-deficiency]] — The spectrum of FARS2 deficiency ranges from the infantile-onset phenotype, characterized by epileptic encephalopathy with lactic acidosis and poor prognosis (70% of.
 
 ## Concepts
 
