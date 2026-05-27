@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 223
+> Last updated: 2026-05-27 | Total pages: 224
 
 ## Entities
 
@@ -225,6 +225,7 @@
 - [[cystinuria]] — Cystinuria is characterized by early-onset and recurrent kidney stones composed of cystine.
 - [[cytochrome-p450-oxidoreductase-deficiency]] — Cytochrome P450 oxidoreductase deficiency (PORD) is a disorder of steroidogenesis with a broad phenotypic spectrum including cortisol deficiency, altered sex steroid.
 - [[danon-disease]] — Danon disease is a multisystem condition with predominant involvement of the heart, skeletal muscles, and retina, with overlying cognitive dysfunction.
+- [[dba-syndrome]] — DBA syndrome is characterized by a profound normochromic and usually macrocytic anemia with normal leukocytes and platelets, congenital malformations in up to 50% of.
 
 ## Concepts
 

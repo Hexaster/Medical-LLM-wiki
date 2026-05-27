@@ -996,6 +996,12 @@
       "title": "Congenital Deafness with Labyrinthine Aplasia, Microtia, and Microdontia",
       "when": "2026-05-27 16:26 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/diamond-b/": {
+      "slug": "dba-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK7047/",
+      "title": "DBA Syndrome",
+      "when": "2026-05-27 16:29 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/dup17q12/": {
       "slug": "17q12-recurrent-duplication",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK344340/",
