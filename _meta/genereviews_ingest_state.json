@@ -1,0 +1,689 @@
+{
+  "completed": {
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/a-mannosidosis/": {
+      "slug": "alpha-mannosidosis",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1396/",
+      "title": "Alpha-Mannosidosis",
+      "when": "2026-05-27 16:12 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/a-thal/": {
+      "slug": "alpha-thalassemia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1435/",
+      "title": "Alpha-Thalassemia",
+      "when": "2026-05-27 16:12 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/aadc-def/": {
+      "slug": "aromatic-l-amino-acid-decarboxylase-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK595821/",
+      "title": "Aromatic L-Amino Acid Decarboxylase Deficiency",
+      "when": "2026-05-27 16:13 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/aars2-dis/": {
+      "slug": "aars2-related-disorder",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK608563/",
+      "title": "AARS2 -Related Disorder",
+      "when": "2026-05-27 16:11 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ab-lipo-p/": {
+      "slug": "abetalipoproteinemia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK532447/",
+      "title": "Abetalipoproteinemia",
+      "when": "2026-05-27 16:11 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/achm/": {
+      "slug": "achromatopsia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1418/",
+      "title": "Achromatopsia",
+      "when": "2026-05-27 16:11 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/achon1b/": {
+      "slug": "achondrogenesis-type-1b",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1516/",
+      "title": "Achondrogenesis Type 1B",
+      "when": "2026-05-27 16:11 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/achondroplasia/": {
+      "slug": "achondroplasia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1152/",
+      "title": "Achondroplasia",
+      "when": "2026-05-27 16:11 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/acp/": {
+      "slug": "aceruloplasminemia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1493/",
+      "title": "Aceruloplasminemia",
+      "when": "2026-05-27 16:11 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/acpp/": {
+      "slug": "andersen-tawil-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1264/",
+      "title": "Andersen-Tawil Syndrome",
+      "when": "2026-05-27 16:12 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/actg2-dis/": {
+      "slug": "actg2-visceral-myopathy",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK299311/",
+      "title": "ACTG2 Visceral Myopathy",
+      "when": "2026-05-27 16:11 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ada/": {
+      "slug": "adenosine-deaminase-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1483/",
+      "title": "Adenosine Deaminase Deficiency",
+      "when": "2026-05-27 16:11 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ada2-def/": {
+      "slug": "adenosine-deaminase-2-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK544951/",
+      "title": "Adenosine Deaminase 2 Deficiency",
+      "when": "2026-05-27 16:11 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/adamtsl4-eyes/": {
+      "slug": "adamtsl4-related-eye-disorders",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK84111/",
+      "title": "ADAMTSL4- Related Eye Disorders",
+      "when": "2026-05-27 16:11 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/adcy5-dysk/": {
+      "slug": "adcy5-related-movement-disorder",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK263441/",
+      "title": "ADCY5 -Related Movement Disorder",
+      "when": "2026-05-27 16:11 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/adnfle/": {
+      "slug": "autosomal-dominant-sleep-related-hypermotor-hyperkinetic-epilepsy",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1169/",
+      "title": "Autosomal Dominant Sleep-Related Hypermotor (Hyperkinetic) Epilepsy",
+      "when": "2026-05-27 16:14 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/adnp-dis/": {
+      "slug": "adnp-related-helsmoortel-van-der-aa-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK355518/",
+      "title": "ADNP- Related Helsmoortel-Van der Aa Syndrome",
+      "when": "2026-05-27 16:12 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/aff4-chops/": {
+      "slug": "aff4-related-chops-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK621037/",
+      "title": "AFF4 -Related CHOPS Syndrome",
+      "when": "2026-05-27 16:12 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ags/": {
+      "slug": "aicardi-gouti-res-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1475/",
+      "title": "Aicardi-Gouti\u00e8res Syndrome",
+      "when": "2026-05-27 16:12 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/agu/": {
+      "slug": "aspartylglucosaminuria",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK599378/",
+      "title": "Aspartylglucosaminuria",
+      "when": "2026-05-27 16:13 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/aic/": {
+      "slug": "aicardi-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1381/",
+      "title": "Aicardi Syndrome",
+      "when": "2026-05-27 16:12 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/aip/": {
+      "slug": "acute-intermittent-porphyria",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1193/",
+      "title": "Acute Intermittent Porphyria",
+      "when": "2026-05-27 16:11 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/alagille/": {
+      "slug": "alagille-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1273/",
+      "title": "Alagille Syndrome",
+      "when": "2026-05-27 16:12 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/alexander/": {
+      "slug": "alexander-disease",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1172/",
+      "title": "Alexander Disease",
+      "when": "2026-05-27 16:12 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/alk-nbs/": {
+      "slug": "alk-related-neuroblastic-tumor-susceptibility",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK24599/",
+      "title": "ALK -Related Neuroblastic Tumor Susceptibility",
+      "when": "2026-05-27 16:12 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/alkap/": {
+      "slug": "alkaptonuria",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1454/",
+      "title": "Alkaptonuria",
+      "when": "2026-05-27 16:12 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/alpha1-a/": {
+      "slug": "alpha-1-antitrypsin-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1519/",
+      "title": "Alpha-1 Antitrypsin Deficiency",
+      "when": "2026-05-27 16:12 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/alpk1-auto/": {
+      "slug": "alpk1-related-autoinflammatory-disease",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK604494/",
+      "title": "ALPK1- Related Autoinflammatory Disease",
+      "when": "2026-05-27 16:12 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/alport/": {
+      "slug": "alport-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1207/",
+      "title": "Alport Syndrome",
+      "when": "2026-05-27 16:12 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/alps/": {
+      "slug": "autoimmune-lymphoproliferative-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1108/",
+      "title": "Autoimmune Lymphoproliferative Syndrome",
+      "when": "2026-05-27 16:14 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/als-overview/": {
+      "slug": "amyotrophic-lateral-sclerosis-overview",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1450/",
+      "title": "Amyotrophic Lateral Sclerosis Overview",
+      "when": "2026-05-27 16:12 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/alstrom/": {
+      "slug": "alstr-m-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1267/",
+      "title": "Alstr\u00f6m Syndrome",
+      "when": "2026-05-27 16:12 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/alzheimer/": {
+      "slug": "alzheimer-disease-overview",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1161/",
+      "title": "Alzheimer Disease Overview",
+      "when": "2026-05-27 16:12 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/androgen/": {
+      "slug": "androgen-insensitivity-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1429/",
+      "title": "Androgen Insensitivity Syndrome",
+      "when": "2026-05-27 16:12 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/angelman/": {
+      "slug": "angelman-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1144/",
+      "title": "Angelman Syndrome",
+      "when": "2026-05-27 16:12 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ankrd17-nds/": {
+      "slug": "ankrd17-related-neurodevelopmental-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK588029/",
+      "title": "ANKRD17 -Related Neurodevelopmental Syndrome",
+      "when": "2026-05-27 16:13 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ankrd26/": {
+      "slug": "ankrd26-related-thrombocytopenia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK507664/",
+      "title": "ANKRD26 -Related Thrombocytopenia",
+      "when": "2026-05-27 16:13 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ano5-md/": {
+      "slug": "ano5-related-muscle-disease",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK114459/",
+      "title": "ANO5 -Related Muscle Disease",
+      "when": "2026-05-27 16:13 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/aoa2/": {
+      "slug": "ataxia-with-oculomotor-apraxia-type-2",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1154/",
+      "title": "Ataxia with Oculomotor Apraxia Type 2",
+      "when": "2026-05-27 16:13 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ap4-def/": {
+      "slug": "ap-4-associated-hereditary-spastic-paraplegia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK535153/",
+      "title": "AP-4-Associated Hereditary Spastic Paraplegia",
+      "when": "2026-05-27 16:13 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/apds/": {
+      "slug": "activated-pi3k-delta-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK611655/",
+      "title": "Activated PI3K Delta Syndrome",
+      "when": "2026-05-27 16:11 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/apert/": {
+      "slug": "apert-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK541728/",
+      "title": "Apert Syndrome",
+      "when": "2026-05-27 16:13 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/apob-hbl/": {
+      "slug": "apob-related-familial-hypobetalipoproteinemia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK570370/",
+      "title": "APOB -Related Familial Hypobetalipoproteinemia",
+      "when": "2026-05-27 16:13 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/aprt-def/": {
+      "slug": "adenine-phosphoribosyltransferase-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK100238/",
+      "title": "Adenine Phosphoribosyltransferase Deficiency",
+      "when": "2026-05-27 16:11 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/arg1/": {
+      "slug": "arginase-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1159/",
+      "title": "Arginase Deficiency",
+      "when": "2026-05-27 16:13 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/args-aciduria/": {
+      "slug": "argininosuccinate-lyase-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK51784/",
+      "title": "Argininosuccinate Lyase Deficiency",
+      "when": "2026-05-27 16:13 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/arid1b-dis/": {
+      "slug": "arid1b-related-disorder",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK541502/",
+      "title": "ARID1B -Related Disorder",
+      "when": "2026-05-27 16:13 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/arsacs/": {
+      "slug": "arsacs",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1255/",
+      "title": "ARSACS",
+      "when": "2026-05-27 16:13 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/arterial-t/": {
+      "slug": "arterial-tortuosity-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK253404/",
+      "title": "Arterial Tortuosity Syndrome",
+      "when": "2026-05-27 16:13 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/arvd/": {
+      "slug": "arrhythmogenic-right-ventricular-cardiomyopathy-overview",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1131/",
+      "title": "Arrhythmogenic Right Ventricular Cardiomyopathy Overview",
+      "when": "2026-05-27 16:13 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/as-def/": {
+      "slug": "asparagine-synthetase-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK525916/",
+      "title": "Asparagine Synthetase Deficiency",
+      "when": "2026-05-27 16:13 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/asah1/": {
+      "slug": "asah1-related-disorders",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK488189/",
+      "title": "ASAH1 -Related Disorders",
+      "when": "2026-05-27 16:13 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/aspm-pm/": {
+      "slug": "aspm-primary-microcephaly",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK555474/",
+      "title": "ASPM Primary Microcephaly",
+      "when": "2026-05-27 16:13 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/asxl3/": {
+      "slug": "asxl3-related-disorder",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK563693/",
+      "title": "ASXL3 -Related Disorder",
+      "when": "2026-05-27 16:13 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ataxia-telangiectas/": {
+      "slug": "ataxia-telangiectasia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK26468/",
+      "title": "Ataxia-Telangiectasia",
+      "when": "2026-05-27 16:13 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/atn1-ndd/": {
+      "slug": "atn1-related-neurodevelopmental-disorder",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK583218/",
+      "title": "ATN1- Related Neurodevelopmental Disorder",
+      "when": "2026-05-27 16:13 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/au-kline/": {
+      "slug": "au-kline-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK540283/",
+      "title": "Au-Kline Syndrome",
+      "when": "2026-05-27 16:14 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/aved/": {
+      "slug": "ataxia-with-vitamin-e-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1241/",
+      "title": "Ataxia with Vitamin E Deficiency",
+      "when": "2026-05-27 16:13 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ayme-gripp/": {
+      "slug": "aym-gripp-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK553534/",
+      "title": "Aym\u00e9-Gripp Syndrome",
+      "when": "2026-05-27 16:14 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/b-mannosidosis/": {
+      "slug": "beta-mannosidosis",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK622587/",
+      "title": "Beta-Mannosidosis",
+      "when": "2026-05-27 16:15 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/b-thal/": {
+      "slug": "beta-thalassemia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1426/",
+      "title": "Beta-Thalassemia",
+      "when": "2026-05-27 16:15 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/bachmann-bupp/": {
+      "slug": "bachmann-bupp-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK583220/",
+      "title": "Bachmann-Bupp Syndrome",
+      "when": "2026-05-27 16:14 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/bap1-tpds/": {
+      "slug": "bap1-tumor-predisposition-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK390611/",
+      "title": "BAP1 Tumor Predisposition Syndrome",
+      "when": "2026-05-27 16:14 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/baraitser-winter/": {
+      "slug": "baraitser-winter-cerebrofrontofacial-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK327153/",
+      "title": "Baraitser-Winter Cerebrofrontofacial Syndrome",
+      "when": "2026-05-27 16:14 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/barth/": {
+      "slug": "barth-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK247162/",
+      "title": "Barth Syndrome",
+      "when": "2026-05-27 16:14 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/bbs/": {
+      "slug": "bardet-biedl-syndrome-overview",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1363/",
+      "title": "Bardet-Biedl Syndrome Overview",
+      "when": "2026-05-27 16:14 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/bcl11a-id/": {
+      "slug": "bcl11a-related-intellectual-disability",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK547048/",
+      "title": "BCL11A -Related Intellectual Disability",
+      "when": "2026-05-27 16:14 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/bgd-biotin/": {
+      "slug": "biotin-thiamine-responsive-basal-ganglia-disease",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK169615/",
+      "title": "Biotin-Thiamine-Responsive Basal Ganglia Disease",
+      "when": "2026-05-27 16:15 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/bgs/": {
+      "slug": "baller-gerold-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1204/",
+      "title": "Baller-Gerold Syndrome",
+      "when": "2026-05-27 16:14 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/bhd/": {
+      "slug": "birt-hogg-dub-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1522/",
+      "title": "Birt-Hogg-Dub\u00e9 Syndrome",
+      "when": "2026-05-27 16:15 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/bietti-cd/": {
+      "slug": "bietti-crystalline-dystrophy",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK91457/",
+      "title": "Bietti Crystalline Dystrophy",
+      "when": "2026-05-27 16:15 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/biotin/": {
+      "slug": "biotinidase-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1322/",
+      "title": "Biotinidase Deficiency",
+      "when": "2026-05-27 16:15 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/bloom/": {
+      "slug": "bloom-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1398/",
+      "title": "Bloom Syndrome",
+      "when": "2026-05-27 16:15 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/bohring-opitz/": {
+      "slug": "bohring-opitz-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK481833/",
+      "title": "Bohring-Opitz Syndrome",
+      "when": "2026-05-27 16:15 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/bpan/": {
+      "slug": "beta-propeller-protein-associated-neurodegeneration",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK424403/",
+      "title": "Beta-Propeller Protein-Associated Neurodegeneration",
+      "when": "2026-05-27 16:15 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/bpes/": {
+      "slug": "blepharophimosis-ptosis-and-epicanthus-inversus-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1441/",
+      "title": "Blepharophimosis, Ptosis, and Epicanthus Inversus Syndrome",
+      "when": "2026-05-27 16:15 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/bscl/": {
+      "slug": "berardinelli-seip-congenital-lipodystrophy",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1212/",
+      "title": "Berardinelli-Seip Congenital Lipodystrophy",
+      "when": "2026-05-27 16:15 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/bvd/": {
+      "slug": "bestrophinopathies",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1167/",
+      "title": "Bestrophinopathies",
+      "when": "2026-05-27 16:15 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/bws/": {
+      "slug": "beckwith-wiedemann-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1394/",
+      "title": "Beckwith-Wiedemann Syndrome",
+      "when": "2026-05-27 16:15 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cah/": {
+      "slug": "21-hydroxylase-deficient-congenital-adrenal-hyperplasia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1171/",
+      "title": "21-Hydroxylase-Deficient Congenital Adrenal Hyperplasia",
+      "when": "2026-05-27 16:11 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cmt2c/": {
+      "slug": "autosomal-dominant-trpv4-related-disorders",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK201366/",
+      "title": "Autosomal Dominant TRPV4- Related Disorders",
+      "when": "2026-05-27 16:14 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cranio-md/": {
+      "slug": "autosomal-dominant-craniometaphyseal-dysplasia",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1461/",
+      "title": "Autosomal Dominant Craniometaphyseal Dysplasia",
+      "when": "2026-05-27 16:14 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cutis-laxa/": {
+      "slug": "atp6v0a2-related-cutis-laxa",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK5200/",
+      "title": "ATP6V0A2 -Related Cutis Laxa",
+      "when": "2026-05-27 16:14 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/del16p11_2/": {
+      "slug": "16p11-2-recurrent-deletion",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK11167/",
+      "title": "16p11.2 Recurrent Deletion",
+      "when": "2026-05-27 16:11 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/dup17q12/": {
+      "slug": "17q12-recurrent-duplication",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK344340/",
+      "title": "17q12 Recurrent Duplication",
+      "when": "2026-05-27 16:11 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/dup7q11_23/": {
+      "slug": "7q11-23-duplication-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK327268/",
+      "title": "7q11.23 Duplication Syndrome",
+      "when": "2026-05-27 16:11 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/fap/": {
+      "slug": "apc-associated-polyposis-conditions",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1345/",
+      "title": "APC -Associated Polyposis Conditions",
+      "when": "2026-05-27 16:13 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/gr_22q11deletion/": {
+      "slug": "22q11-2-deletion-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1523/",
+      "title": "22q11.2 Deletion Syndrome",
+      "when": "2026-05-27 16:11 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/gr_3ms/": {
+      "slug": "3-m-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1481/",
+      "title": "3-M Syndrome",
+      "when": "2026-05-27 16:11 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/hibch-def/": {
+      "slug": "3-hydroxyisobutyryl-coa-hydrolase-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK619246/",
+      "title": "3-Hydroxyisobutyryl-CoA Hydrolase Deficiency",
+      "when": "2026-05-27 16:10 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/hyper-nfj2/": {
+      "slug": "autosomal-dominant-tubulointerstitial-kidney-disease-ren",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK53700/",
+      "title": "Autosomal Dominant Tubulointerstitial Kidney Disease \u2013 REN",
+      "when": "2026-05-27 16:14 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/iahsp/": {
+      "slug": "als2-related-disorder",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1243/",
+      "title": "ALS2 -Related Disorder",
+      "when": "2026-05-27 16:12 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ipa/": {
+      "slug": "aip-familial-isolated-pituitary-adenomas",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK97965/",
+      "title": "AIP Familial Isolated Pituitary Adenomas",
+      "when": "2026-05-27 16:12 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/li-ar/": {
+      "slug": "autosomal-recessive-congenital-ichthyosis",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1420/",
+      "title": "Autosomal Recessive Congenital Ichthyosis",
+      "when": "2026-05-27 16:14 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/mckd1/": {
+      "slug": "autosomal-dominant-tubulointerstitial-kidney-disease-muc1",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK153723/",
+      "title": "Autosomal Dominant Tubulointerstitial Kidney Disease \u2013 MUC1",
+      "when": "2026-05-27 16:14 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/mckd2/": {
+      "slug": "autosomal-dominant-tubulointerstitial-kidney-disease-umod",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1356/",
+      "title": "Autosomal Dominant Tubulointerstitial Kidney Disease \u2013 UMOD",
+      "when": "2026-05-27 16:14 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/mdel15q13_3/": {
+      "slug": "15q13-3-recurrent-deletion",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK50780/",
+      "title": "15q13.3 Recurrent Deletion",
+      "when": "2026-05-27 16:11 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/mdel16p12_2/": {
+      "slug": "16p12-2-recurrent-deletion",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK274565/",
+      "title": "16p12.2 Recurrent Deletion",
+      "when": "2026-05-27 16:11 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/mdel17q12/": {
+      "slug": "17q12-recurrent-deletion-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK401562/",
+      "title": "17q12 Recurrent Deletion Syndrome",
+      "when": "2026-05-27 16:11 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/mdel1q21_1/": {
+      "slug": "1q21-1-recurrent-deletion",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK52787/",
+      "title": "1q21.1 Recurrent Deletion",
+      "when": "2026-05-27 16:09 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/mdel3q29/": {
+      "slug": "3q29-recurrent-deletion",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK385289/",
+      "title": "3q29 Recurrent Deletion",
+      "when": "2026-05-27 16:11 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/menkes/": {
+      "slug": "atp7a-related-copper-transport-disorders",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1413/",
+      "title": "ATP7A -Related Copper Transport Disorders",
+      "when": "2026-05-27 16:14 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/mld/": {
+      "slug": "arylsulfatase-a-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1130/",
+      "title": "Arylsulfatase A Deficiency",
+      "when": "2026-05-27 16:13 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/npab/": {
+      "slug": "acid-sphingomyelinase-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1370/",
+      "title": "Acid Sphingomyelinase Deficiency",
+      "when": "2026-05-27 16:11 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/peaf/": {
+      "slug": "autosomal-dominant-epilepsy-with-auditory-features",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1537/",
+      "title": "Autosomal Dominant Epilepsy with Auditory Features",
+      "when": "2026-05-27 16:14 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/pfic/": {
+      "slug": "atp8b1-deficiency",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1297/",
+      "title": "ATP8B1 Deficiency",
+      "when": "2026-05-27 16:14 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/pkd-ar/": {
+      "slug": "autosomal-recessive-polycystic-kidney-disease-pkhd1",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1326/",
+      "title": "Autosomal Recessive Polycystic Kidney Disease \u2013 PKHD1",
+      "when": "2026-05-27 16:14 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/rapid-odp/": {
+      "slug": "atp1a3-related-disorder",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1115/",
+      "title": "ATP1A3- Related Disorder",
+      "when": "2026-05-27 16:13 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/refsum/": {
+      "slug": "adult-refsum-disease",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1353/",
+      "title": "Adult Refsum Disease",
+      "when": "2026-05-27 16:12 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/rob-ad/": {
+      "slug": "autosomal-dominant-robinow-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK268648/",
+      "title": "Autosomal Dominant Robinow Syndrome",
+      "when": "2026-05-27 16:14 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/rpe65-lca/": {
+      "slug": "autosomal-recessive-rpe65-related-retinal-degeneration",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK549574/",
+      "title": "Autosomal Recessive RPE65 -Related Retinal Degeneration",
+      "when": "2026-05-27 16:14 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/sca28/": {
+      "slug": "afg3l2-related-neurologic-disorders",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK54582/",
+      "title": "AFG3L2 -Related Neurologic Disorders",
+      "when": "2026-05-27 16:12 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/thctd/": {
+      "slug": "allan-herndon-dudley-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK26373/",
+      "title": "Allan-Herndon-Dudley Syndrome",
+      "when": "2026-05-27 16:12 CST"
+    },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/xlmr/": {
+      "slug": "alpha-thalassemia-x-linked-intellectual-disability-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1449/",
+      "title": "Alpha-Thalassemia X-Linked Intellectual Disability Syndrome",
+      "when": "2026-05-27 16:12 CST"
+    }
+  },
+  "failed": {}
+}

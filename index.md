@@ -2,17 +2,135 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-26 | Total pages: 3
+> Last updated: 2026-05-27 | Total pages: 120
 
 ## Entities
 
 <!-- Alphabetical within section -->
 
+- [[15q13-3-recurrent-deletion]] — Individuals with the 15q13.3 recurrent deletion may have a wide range of clinical manifestations.
+- [[16p11-2-recurrent-deletion]] — The 16p11.2 recurrent deletion phenotype is characterized by motor speech disorder, language disorder, motor coordination difficulties, psychiatric conditions, and.
+- [[16p12-2-recurrent-deletion]] — Individuals with 16p12.2 recurrent deletion may have a wide range of clinical manifestations.
+- [[17q12-recurrent-deletion-syndrome]] — 17q12 recurrent deletion syndrome is characterized by variable combinations of the three following findings: structural or functional abnormalities of the kidney and.
+- [[17q12-recurrent-duplication]] — The 17q12 recurrent duplication is characterized by intellectual abilities ranging from normal to severe disability and other variable clinical manifestations.
+- [[1q21-1-recurrent-deletion]] — The 1q21.1 recurrent deletion itself does not lead to a clinically recognizable syndrome, as some persons with the deletion have no obvious clinical findings.
+- [[21-hydroxylase-deficient-congenital-adrenal-hyperplasia]] — 21-hydroxylase deficiency (21-OHD) is the most common cause of congenital adrenal hyperplasia (CAH), a family of autosomal recessive disorders involving impaired.
+- [[22q11-2-deletion-syndrome]] — Individuals with 22q11.2 deletion syndrome (22q11.2DS) can present with a wide range of features that are highly variable, even within families.
+- [[3-hydroxyisobutyryl-coa-hydrolase-deficiency]] — 3-Hydroxyisobutyryl-CoA hydrolase (HIBCH) deficiency can be categorized into three subtypes based on age of presentation.
+- [[3-m-syndrome]] — 3-M syndrome is characterized by severe pre- and postnatal growth deficiency (final height five standard deviations below the mean), characteristic facies (relative.
+- [[3q29-recurrent-deletion]] — 3q29 recurrent deletion is characterized by neurodevelopmental and/or psychiatric manifestations including mild-to-moderate intellectual disability (ID), autism spectrum.
+- [[7q11-23-duplication-syndrome]] — 7q11.23 duplication syndrome is characterized by delayed motor, speech, and social skills in early childhood; neurologic abnormalities (hypotonia, adventitious.
+- [[aars2-related-disorder]] — AARS2 -related disorder includes two distinct phenotypes, infantile-onset cardiomyopathy and neurodegeneration with or without leukoencephalopathy.
+- [[abetalipoproteinemia]] — Abetalipoproteinemia typically presents in infancy with failure to thrive, diarrhea, vomiting, and malabsorption of fat.
+- [[aceruloplasminemia]] — Aceruloplasminemia is characterized by iron accumulation in the brain and viscera.
+- [[achondrogenesis-type-1b]] — Clinical features of achondrogenesis type 1B (ACG1B) include extremely short limbs with short fingers and toes, hypoplasia of the thorax, protuberant abdomen, and.
+- [[achondroplasia]] — Achondroplasia is the most common cause of disproportionate short stature.
+- [[achromatopsia]] — Achromatopsia is characterized by reduced visual acuity, pendular nystagmus, increased sensitivity to light (photophobia), a small central scotoma, eccentric fixation.
+- [[acid-sphingomyelinase-deficiency]] — The phenotype of acid sphingomyelinase deficiency (ASMD) occurs along a continuum.
+- [[actg2-visceral-myopathy]] — ACTG2 visceral myopathy is a disorder of smooth muscle dysfunction of the bladder and gastrointestinal system with phenotypic spectrum that ranges from mild to severe.
+- [[activated-pi3k-delta-syndrome]] — Activated PI3K delta syndrome (APDS) is characterized by a spectrum of clinical manifestations involving the immune system leading to increased susceptibility to.
+- [[acute-intermittent-porphyria]] — An acute porphyria attack is characterized by a urine porphobilinogen (PBG)-to-creatinine ratio ≥10 times the upper limit of normal (ULN) and the presence of ≥2.
+- [[adamtsl4-related-eye-disorders]] — The spectrum of ADAMTSL4- related eye disorders is a continuum that includes the phenotypes known as "autosomal recessive isolated ectopia lentis" and "ectopia lentis et.
+- [[adcy5-related-movement-disorder]] — ADCY5 -related movement disorder ( ADCY5 -MD) encompasses a broad spectrum of continuous and/or paroxysmal hyperkinetic involuntary movements, the most common of which.
+- [[adenine-phosphoribosyltransferase-deficiency]] — Adenine phosphoribosyltransferase (APRT) deficiency is characterized by excessive production and renal excretion of 2,8-dihydroxyadenine (DHA), which leads to kidney.
+- [[adenosine-deaminase-2-deficiency]] — Adenosine deaminase 2 deficiency (DADA2) is a complex systemic autoinflammatory disorder in which vasculopathy/vasculitis, dysregulated immune function, and/or.
+- [[adenosine-deaminase-deficiency]] — Adenosine deaminase (ADA) deficiency is a systemic purine metabolic disorder that primarily affects lymphocyte development, viability, and function.
+- [[adnp-related-helsmoortel-van-der-aa-syndrome]] — ADNP -related Helsmoortel-Van der Aa syndrome (also referred to as Helsmoortel-Van der Aa syndrome [HVDAS]) is characterized by hypotonia, speech and motor delay.
+- [[adult-refsum-disease]] — Adult Refsum disease (ARD) is associated with elevated plasma phytanic acid levels, late childhood-onset (or later) retinitis pigmentosa, and variable combinations of.
+- [[aff4-related-chops-syndrome]] — AFF4- related CHOPS syndrome is characterized by c oarse facial features / c ognitive impairment, h eart defects, o besity, p ulmonary involvement, and s hort stature /.
+- [[afg3l2-related-neurologic-disorders]] — AFG3L2 -related neurologic disorders comprise four phenotypes.
+- [[aicardi-gouti-res-syndrome]] — Most characteristically, Aicardi-Goutières syndrome (AGS) manifests as an early-onset encephalopathy that usually, but not always, results in severe intellectual and.
+- [[aicardi-syndrome]] — Aicardi syndrome is a neurodevelopmental disorder that affects primarily females.
+- [[aip-familial-isolated-pituitary-adenomas]] — AIP familial isolated pituitary adenoma ( AIP -FIPA) is characterized by an increased risk of pituitary neuroendocrine tumors (PitNETs, also known as pituitary.
+- [[alagille-syndrome]] — Alagille syndrome (ALGS) is a multisystem disorder with a wide spectrum of clinical variability; this variability is seen even among individuals from the same family.
+- [[alexander-disease]] — Alexander disease, a progressive disorder of cerebral white matter caused by a heterozygous GFAP pathogenic variant, comprises a continuous clinical spectrum most.
+- [[alk-related-neuroblastic-tumor-susceptibility]] — ALK- related neuroblastic tumor susceptibility is characterized by increased risk for neuroblastic tumors including neuroblastomas, ganglioneuroblastomas, and.
+- [[alkaptonuria]] — Alkaptonuria is caused by deficiency of homogentisate 1,2-dioxygenase, an enzyme that converts homogentisic acid (HGA) to maleylacetoacetic acid in the tyrosine.
+- [[allan-herndon-dudley-syndrome]] — Allan-Herndon-Dudley syndrome (AHDS), an X-linked disorder, is characterized in males by neurologic findings (hypotonia and feeding difficulties in infancy.
+- [[alpha-1-antitrypsin-deficiency]] — Alpha-1 antitrypsin deficiency (AATD) can present with hepatic dysfunction in individuals from infancy to adulthood and with chronic obstructive lung disease (emphysema.
+- [[alpha-mannosidosis]] — The clinical phenotype of alpha-mannosidosis varies considerably, with a wide spectrum of clinical findings and broad variability in individual presentation.
+- [[alpha-thalassemia-x-linked-intellectual-disability-syndrome]] — Alpha-thalassemia X-linked intellectual disability (ATR-X) syndrome is characterized by distinctive craniofacial features, genital anomalies, hypotonia, and.
+- [[alpha-thalassemia]] — Alpha-thalassemia (α-thalassemia) has two clinically significant forms: hemoglobin Bart hydrops fetalis (Hb Bart) syndrome, caused by deletion/inactivation of all four.
+- [[alpk1-related-autoinflammatory-disease]] — ALPK1 -related autoinflammatory disease ( ALPK1 -AD) is characterized by clinical findings that can include intraocular inflammation, retinal degeneration, recurrent.
+- [[alport-syndrome]] — Alport syndrome is characterized by kidney manifestations, sensorineural hearing loss (SNHL), and ocular manifestations.
+- [[als2-related-disorder]] — ALS2 -related disorder involves retrograde degeneration of the upper motor neurons of the pyramidal tracts and comprises a clinical continuum of the following three.
+- [[alstr-m-syndrome]] — Alström syndrome is characterized by cone-rod dystrophy, obesity, progressive bilateral sensorineural hearing impairment, acute infantile-onset cardiomyopathy and/or.
+- [[alzheimer-disease-overview]] — The purpose of this overview is to: Describe the clinical characteristics of Alzheimer disease (AD); Review the genetic causes of AD; Provide an evaluation strategy to.
+- [[amyotrophic-lateral-sclerosis-overview]] — The purpose of this overview is to: Describe the clinical characteristics of amyotrophic lateral sclerosis (ALS); Review genetic causes of ALS; Provide an evaluation.
+- [[andersen-tawil-syndrome]] — Andersen-Tawil syndrome (ATS) is characterized by a triad of: episodic flaccid muscle weakness (i.e., periodic paralysis); ventricular arrhythmias and prolonged QT.
+- [[androgen-insensitivity-syndrome]] — Androgen insensitivity syndrome (AIS) is typically characterized by evidence of feminization (i.e., undermasculinization) of the external genitalia at birth, abnormal.
+- [[angelman-syndrome]] — Angelman syndrome (AS) is characterized by severe developmental delay or intellectual disability, severe speech impairment, gait ataxia and/or tremulousness of the.
+- [[ankrd17-related-neurodevelopmental-syndrome]] — ANKRD17 -related neurodevelopmental syndrome is characterized by developmental delay – particularly affecting speech – and variable intellectual disability.
+- [[ankrd26-related-thrombocytopenia]] — ANKRD26 -related thrombocytopenia is characterized by lifelong mild-to-moderate thrombocytopenia with a normal platelet size and no syndromic associations.
+- [[ano5-related-muscle-disease]] — The spectrum of ANO5- related muscle disease is a continuum that ranges from asymptomatic hyperCKemia and exercise-induced myalgia to proximal and/or distal muscle.
+- [[ap-4-associated-hereditary-spastic-paraplegia]] — AP-4-associated hereditary spastic paraplegia (AP-4-HSP) is a childhood-onset and complex form of hereditary spastic paraplegia.
+- [[apc-associated-polyposis-conditions]] — APC -associated polyposis conditions include (classic or attenuated) familial adenomatous polyposis (FAP) and gastric adenocarcinoma and proximal polyposis of the.
+- [[apert-syndrome]] — Apert syndrome is characterized by the presence of multisuture craniosynostosis, midface retrusion, and syndactyly of the hands with fusion of the second through fourth.
+- [[apob-related-familial-hypobetalipoproteinemia]] — Individuals with biallelic APOB -related familial hypobetalipoproteinemia ( APOB -FHBL) may present from infancy through to adulthood with a range of clinical symptoms.
+- [[arginase-deficiency]] — Arginase deficiency in untreated individuals is characterized by episodic hyperammonemia of variable degree that is infrequently severe enough to be life threatening or.
+- [[argininosuccinate-lyase-deficiency]] — Argininosuccinate lyase deficiency (ASLD), an inborn error of urea synthesis, may present as a neonatal- or late-onset disease.
+- [[arid1b-related-disorder]] — ARID1B -related disorder ( ARID1B -RD) constitutes a clinical continuum, from classic Coffin-Siris syndrome to intellectual disability with or without nonspecific.
+- [[aromatic-l-amino-acid-decarboxylase-deficiency]] — Individuals with aromatic L-amino acid decarboxylase (AADC) deficiency typically have complex symptoms, including motor, behavioral, cognitive, and autonomic findings.
+- [[arrhythmogenic-right-ventricular-cardiomyopathy-overview]] — The purpose of this overview is to: Describe the clinical characteristics of arrhythmogenic right ventricular cardiomyopathy (ARVC); Review the genetic causes of ARVC.
+- [[arsacs]] — A utosomal r ecessive s pastic a taxia of C harlevoix- S aguenay (ARSACS) is clinically characterized by a progressive cerebellar ataxia, peripheral neuropathy, and.
+- [[arterial-tortuosity-syndrome]] — Arterial tortuosity syndrome (ATS) is characterized by widespread elongation and tortuosity of the aorta and mid-sized arteries as well as focal stenosis of segments of.
+- [[arylsulfatase-a-deficiency]] — Arylsulfatase A deficiency (also known as metachromatic leukodystrophy or MLD) is characterized by three clinical subtypes: late-infantile, juvenile, and adult MLD.
+- [[asah1-related-disorders]] — The spectrum of ASAH1 -related disorders ranges from Farber disease (FD) to spinal muscular atrophy with progressive myoclonic epilepsy (SMA-PME).
+- [[asparagine-synthetase-deficiency]] — Asparagine synthetase deficiency (ASD) mainly presents as a triad of congenital microcephaly, severe developmental delay, and axial hypotonia followed by spastic.
+- [[aspartylglucosaminuria]] — Aspartylglucosaminuria is a lysosomal storage disorder characterized by developmental delay, intellectual disability, behavioral manifestations (hyperactivity in young.
+- [[aspm-primary-microcephaly]] — ASPM primary microcephaly ( ASPM -MCPH) is characterized by: (1) significant microcephaly (>3 standard deviations [SD] below the mean for age) usually present at birth.
+- [[asxl3-related-disorder]] — ASXL3 -related disorder is characterized by developmental delay or intellectual disability, typically in the moderate to severe range, with speech and language delay.
+- [[ataxia-telangiectasia]] — The phenotypic spectrum of ataxia-telangiectasia (A-T), a multisystem disorder, is a continuum ranging from classic A-T at the severe end and variant A-T at the milder.
+- [[ataxia-with-oculomotor-apraxia-type-2]] — Ataxia with oculomotor apraxia type 2 (AOA2) is characterized by onset of ataxia between age three and 30 years after initial normal development, axonal sensorimotor.
+- [[ataxia-with-vitamin-e-deficiency]] — Untreated ataxia with vitamin E deficiency (AVED) generally manifests between ages five and 15 years.
+- [[atn1-related-neurodevelopmental-disorder]] — ATN1- related neurodevelopmental disorder ( ATN1- NDD) is characterized by developmental delay / intellectual disability.
+- [[atp1a3-related-disorder]] — ATP1A3 -related disorder consists of heterogenous overlapping clinical findings that pertain to the four most common historically defined phenotypes: alternating.
+- [[atp6v0a2-related-cutis-laxa]] — ATP6V0A2 -related cutis laxa is characterized by generalized cutis laxa, findings associated with generalized connective tissue disorder, developmental delays, and a.
+- [[atp7a-related-copper-transport-disorders]] — Menkes disease, occipital horn syndrome (OHS), and ATP7A -related distal motor neuropathy (DMN) are disorders caused by pathogenic variants in the ATP7A , the X-linked.
+- [[atp8b1-deficiency]] — The phenotypic spectrum of ATP8B1 deficiency ranges from severe through moderate to mild.
+- [[au-kline-syndrome]] — Au-Kline syndrome is characterized by developmental delay and hypotonia with moderate-to-severe intellectual disability, and typical facial features that include long.
+- [[autoimmune-lymphoproliferative-syndrome]] — Autoimmune lymphoproliferative syndrome (ALPS), caused by defective lymphocyte homeostasis, is characterized by the following: In ALPS-FAS (the most common and.
+- [[autosomal-dominant-craniometaphyseal-dysplasia]] — Autosomal dominant craniometaphyseal dysplasia (AD-CMD) is characterized by progressive diffuse hyperostosis of cranial bones evident clinically as wide nasal bridge.
+- [[autosomal-dominant-epilepsy-with-auditory-features]] — Autosomal dominant epilepsy with auditory features (ADEAF) is a focal epilepsy syndrome with auditory symptoms and/or receptive aphasia as prominent ictal manifestations.
+- [[autosomal-dominant-robinow-syndrome]] — Autosomal dominant Robinow syndrome (ADRS) is characterized by skeletal findings (short stature, mesomelic limb shortening predominantly of the upper limbs, and.
+- [[autosomal-dominant-sleep-related-hypermotor-hyperkinetic-epilepsy]] — Autosomal dominant sleep-related hypermotor (hyperkinetic) epilepsy (ADSHE) is a seizure disorder characterized by clusters of nocturnal motor seizures that are often.
+- [[autosomal-dominant-trpv4-related-disorders]] — The autosomal dominant TRPV4- related disorders include two principal types: neuromuscular disorders and skeletal dysplasias.
+- [[autosomal-dominant-tubulointerstitial-kidney-disease-muc1]] — Autosomal dominant tubulointerstitial kidney disease – MUC1 (ADTKD- MUC1 ) is characterized by slowly progressive tubulointerstitial disease that leads to end-stage.
+- [[autosomal-dominant-tubulointerstitial-kidney-disease-ren]] — The two clinical presentations observed in autosomal dominant tubulointerstitial kidney disease – REN (ADTKD- REN ) correlate with the renin protein domains affected by.
+- [[autosomal-dominant-tubulointerstitial-kidney-disease-umod]] — Autosomal dominant tubulointerstitial kidney disease – UMOD (ADTKD- UMOD ) is characterized by normal urinalysis and slowly progressive chronic kidney disease (CKD).
+- [[autosomal-recessive-congenital-ichthyosis]] — The purpose of this overview is to: Briefly describe the clinical characteristics of ARCI; Review the genetic causes of ARCI; Review the differential diagnosis of ARCI.
+- [[autosomal-recessive-polycystic-kidney-disease-pkhd1]] — Autosomal recessive polycystic kidney disease – PKHD1 (ARPKD- PKHD1 ) is characterized by primary involvement of the kidneys and liver with mostly secondary effects seen.
+- [[autosomal-recessive-rpe65-related-retinal-degeneration]] — The three phenotypes of autosomal recessive RPE65 -related retinal degeneration, from most severe to mildest, are Leber congenital amaurosis (LCA), early-onset severe.
+- [[aym-gripp-syndrome]] — Aymé-Gripp syndrome is classically defined as the triad of bilateral early cataracts, sensorineural hearing loss, and characteristic facial features in combination with.
+- [[bachmann-bupp-syndrome]] — Bachmann-Bupp syndrome (BABS) is characterized by a distinctive type of alopecia, global developmental delay in the moderate to severe range, hypotonia, nonspecific.
+- [[baller-gerold-syndrome]] — Baller-Gerold syndrome (BGS) can be suspected at birth in an infant with craniosynostosis and upper limb abnormality.
+- [[bap1-tumor-predisposition-syndrome]] — BAP1 tumor predisposition syndrome ( BAP1 -TPDS) is associated with an increased risk for a specific skin lesion, BAP1 -inactivated melanocytic tumors (BIMT; formerly.
+- [[baraitser-winter-cerebrofrontofacial-syndrome]] — Baraitser-Winter cerebrofrontofacial (BWCFF) syndrome is a multiple congenital anomaly syndrome characterized by typical craniofacial features and intellectual.
+- [[bardet-biedl-syndrome-overview]] — The purpose of this overview is to: Describe the clinical characteristics of Bardet-Biedl syndrome; Review the genetic causes of Bardet-Biedl syndrome; Provide an.
+- [[barth-syndrome]] — Barth syndrome is a multisystem disorder characterized in affected males by cardiomyopathy, neutropenia, skeletal myopathy, and prepubertal growth delay; however, not.
+- [[bcl11a-related-intellectual-disability]] — BCL11A -related intellectual disability ( BCL11A -ID) is characterized by developmental delay / intellectual disability of variable degree, neonatal hypotonia.
+- [[beckwith-wiedemann-syndrome]] — Beckwith-Wiedemann syndrome (BWS) is a growth disorder variably characterized by macroglossia, hemihyperplasia, omphalocele, neonatal hypoglycemia, macrosomia, embryonal.
+- [[berardinelli-seip-congenital-lipodystrophy]] — Berardinelli-Seip congenital lipodystrophy (BSCL) is usually diagnosed at birth or soon thereafter.
+- [[bestrophinopathies]] — Bestrophinopathies, the spectrum of ophthalmic disorders caused by pathogenic variants in BEST1 , are typically characterized by retinal degeneration.
+- [[beta-mannosidosis]] — Beta-mannosidosis is characterized by developmental delay (speech is more significantly affected than motor skills), mild-to-severe intellectual disability, behavioral.
+- [[beta-propeller-protein-associated-neurodegeneration]] — Beta-propeller protein-associated neurodegeneration (BPAN) is typically characterized by early-onset seizures, infantile-onset developmental delay, intellectual.
+- [[beta-thalassemia]] — Beta-thalassemia (β-thalassemia) has two clinically significant forms, β-thalassemia major and β-thalassemia intermedia, caused by absent or reduced synthesis of the.
+- [[bietti-crystalline-dystrophy]] — Bietti crystalline dystrophy (BCD) is a chorioretinal degeneration characterized by the presence of yellow-white crystals and/or complex lipid deposits in the retina and.
+- [[biotin-thiamine-responsive-basal-ganglia-disease]] — Biotin-thiamine-responsive basal ganglia disease (BTBGD) may present in early infancy, childhood, or adulthood.
+- [[biotinidase-deficiency]] — Individuals with biotinidase deficiency who are diagnosed before they have developed symptoms (e.g., by newborn screening) and who are treated with biotin have normal.
+- [[birt-hogg-dub-syndrome]] — The clinical characteristics of Birt-Hogg-Dubé syndrome (BHDS) include cutaneous manifestations (fibrofolliculomas, acrochordons, angiofibromas, oral papules, cutaneous.
+- [[blepharophimosis-ptosis-and-epicanthus-inversus-syndrome]] — B lepharophimosis, p tosis, and e picanthus inversus s yndrome (BPES) is defined by a complex eyelid malformation characterized by four major features, all present at.
+- [[bloom-syndrome]] — Bloom syndrome (BSyn) is characterized by severe pre- and postnatal growth deficiency, immune abnormalities, sensitivity to sunlight, insulin resistance, and a high risk.
+- [[bohring-opitz-syndrome]] — Bohring-Opitz syndrome (BOS) is characterized by distinctive facial features and posture, growth failure, variable but usually severe intellectual disability, and.
+
 ## Concepts
 
 - [[clinical-workflow-in-high-threat-care]] — Workflow constraints for emergency care in active-threat, hazardous, or otherwise unsafe operating environments.
+- [[diagnosis]] — Diagnosis as a clinical process for identifying disease or health conditions from findings, tests, and evidence.
 - [[ems-zones-of-care]] — Hot, Warm, and Cold zone model for EMS care during high-risk incidents.
 - [[mass-casualty-triage]] — Triage and patient-routing considerations for mass casualty incidents.
+- [[pathology]] — Disease mechanisms, manifestations, and relationships among abnormalities, clinical features, and evidence.
+- [[therapeutics]] — Treatment, supportive care, prevention, surveillance, and intervention concepts summarized for study context.
 
 ## Comparisons
 
