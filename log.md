@@ -1644,3 +1644,10 @@
 - Raw extract saved: `raw/articles/genereviews-dicer1-related-tumor-predisposition.md`
 - Created/updated entity page: `entities/dicer1-related-tumor-predisposition.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Diffuse Gastric and Lobular Breast Cancer Syndrome
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1139/
+- Raw extract saved: `raw/articles/genereviews-diffuse-gastric-and-lobular-breast-cancer-syndrome.md`
+- Created/updated entity page: `entities/diffuse-gastric-and-lobular-breast-cancer-syndrome.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

@@ -1116,6 +1116,12 @@
       "title": "CSF1R -Related Disorder",
       "when": "2026-05-27 16:28 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/hgc/": {
+      "slug": "diffuse-gastric-and-lobular-breast-cancer-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1139/",
+      "title": "Diffuse Gastric and Lobular Breast Cancer Syndrome",
+      "when": "2026-05-27 16:30 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/hibch-def/": {
       "slug": "3-hydroxyisobutyryl-coa-hydrolase-deficiency",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK619246/",
