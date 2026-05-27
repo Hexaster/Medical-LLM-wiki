@@ -1416,6 +1416,12 @@
       "title": "Familial Hemiplegic Migraine",
       "when": "2026-05-27 16:34 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/fkbp14-keds/": {
+      "slug": "fkbp14-kyphoscoliotic-ehlers-danlos-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK541503/",
+      "title": "FKBP14 Kyphoscoliotic Ehlers-Danlos Syndrome",
+      "when": "2026-05-27 16:36 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/fmf/": {
       "slug": "familial-mediterranean-fever",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1227/",
