@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 191
+> Last updated: 2026-05-27 | Total pages: 192
 
 ## Entities
 
@@ -193,6 +193,7 @@
 - [[coffin-siris-syndrome]] — Classically, Coffin-Siris syndrome (CSS) was characterized by specific dysmorphic features (coarse facies, sparse scalp hair, thick eyebrows with long lashes, wide nasal.
 - [[cohen-syndrome]] — Cohen syndrome is characterized by early-onset hypotonia, developmental delay, and moderate-to-profound intellectual disability; at least 20% of individuals are unable.
 - [[col1a1-and-col1a2-related-osteogenesis-imperfecta]] — COL1A1 - and COL1A2 -related osteogenesis imperfecta ( COL1A1/COL1A2 -OI) is characterized by fractures (often with minimal or absent trauma), variable dentinogenesis.
+- [[col4a1-related-disorders]] — The spectrum of COL4A1 -related disorders includes: small-vessel brain disease of varying severity including porencephaly, variably associated with eye defects (retinal.
 
 ## Concepts
 
