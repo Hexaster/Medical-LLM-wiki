@@ -1038,6 +1038,12 @@
       "title": "COL1A1 - and COL1A2 -Related Osteogenesis Imperfecta",
       "when": "2026-05-27 16:26 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ondine/": {
+      "slug": "congenital-central-hypoventilation-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1427/",
+      "title": "Congenital Central Hypoventilation Syndrome",
+      "when": "2026-05-27 16:26 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/pai-1-def/": {
       "slug": "complete-plasminogen-activator-inhibitor-1-deficiency",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK447152/",

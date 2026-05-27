@@ -1357,3 +1357,10 @@
 - Raw extract saved: `raw/articles/genereviews-comp-related-pseudoachondroplasia.md`
 - Created/updated entity page: `entities/comp-related-pseudoachondroplasia.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Congenital Central Hypoventilation Syndrome
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1427/
+- Raw extract saved: `raw/articles/genereviews-congenital-central-hypoventilation-syndrome.md`
+- Created/updated entity page: `entities/congenital-central-hypoventilation-syndrome.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
