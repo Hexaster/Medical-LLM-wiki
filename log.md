@@ -1182,3 +1182,10 @@
 - Raw extract saved: `raw/articles/genereviews-chondrodysplasia-with-congenital-joint-dislocations-chst3-related.md`
 - Created/updated entity page: `entities/chondrodysplasia-with-congenital-joint-dislocations-chst3-related.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Choroideremia
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1337/
+- Raw extract saved: `raw/articles/genereviews-choroideremia.md`
+- Created/updated entity page: `entities/choroideremia.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
