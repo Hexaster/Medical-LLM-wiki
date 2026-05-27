@@ -1194,6 +1194,12 @@
       "title": "Classic Galactosemia and Clinical Variant Galactosemia",
       "when": "2026-05-27 16:25 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/gnal-dystonia/": {
+      "slug": "dyt-gnal",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK535640/",
+      "title": "DYT- GNAL",
+      "when": "2026-05-27 16:31 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/gnas-dis/": {
       "slug": "disorders-of-gnas-inactivation",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK459117/",
