@@ -1245,3 +1245,10 @@
 - Raw extract saved: `raw/articles/genereviews-classic-isovaleric-acidemia.md`
 - Created/updated entity page: `entities/classic-isovaleric-acidemia.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Classic Mowat-Wilson Syndrome
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1412/
+- Raw extract saved: `raw/articles/genereviews-classic-mowat-wilson-syndrome.md`
+- Created/updated entity page: `entities/classic-mowat-wilson-syndrome.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
