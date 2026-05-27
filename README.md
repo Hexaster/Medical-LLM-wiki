@@ -60,6 +60,7 @@ This wiki is for research and study synthesis. It is not medical advice, diagnos
 
 ## Ingest History
 
+- 2026-05-27 16:36 CST — Ingested: GeneReviews chapter: FMR1 Disorders. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-fmr1-disorders.md`, `entities/fmr1-disorders.md`, `index.md`, `log.md`.
 - 2026-05-27 16:36 CST — Ingested: GeneReviews chapter: FLNB- Related Disorders. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-flnb-related-disorders.md`, `entities/flnb-related-disorders.md`, `index.md`, `log.md`.
 - 2026-05-27 16:36 CST — Ingested: GeneReviews chapter: FLNA -Related Otopalatodigital Spectrum Disorders. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-flna-related-otopalatodigital-spectrum-disorders.md`, `entities/flna-related-otopalatodigital-spectrum-disorders.md`, `index.md`, `log.md`.
 - 2026-05-27 16:36 CST — Ingested: GeneReviews chapter: FLNA Deficiency. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-flna-deficiency.md`, `entities/flna-deficiency.md`, `index.md`, `log.md`.

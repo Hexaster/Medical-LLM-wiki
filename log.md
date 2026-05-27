@@ -2197,3 +2197,10 @@
 - Raw extract saved: `raw/articles/genereviews-flnb-related-disorders.md`
 - Created/updated entity page: `entities/flnb-related-disorders.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: FMR1 Disorders
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1384/
+- Raw extract saved: `raw/articles/genereviews-fmr1-disorders.md`
+- Created/updated entity page: `entities/fmr1-disorders.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

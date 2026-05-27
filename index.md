@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 316
+> Last updated: 2026-05-27 | Total pages: 317
 
 ## Entities
 
@@ -318,6 +318,7 @@
 - [[flna-deficiency]] — FLNA deficiency is associated with a phenotypic spectrum that includes FLNA -related periventricular nodular heterotopia (Huttenlocher syndrome), congenital heart.
 - [[flna-related-otopalatodigital-spectrum-disorders]] — The FLNA -related otopalatodigital ( FLNA -OPD) spectrum disorders, characterized primarily by skeletal dysplasia, include the following allelic conditions:.
 - [[flnb-related-disorders]] — The FLNB- related disorders can be divided into two groups of conditions caused by loss of function or gain of function of filamin-B.
+- [[fmr1-disorders]] — FMR1 disorders include fragile X syndrome (FXS), fragile X-associated tremor/ataxia syndrome (FXTAS), and fragile X-associated primary ovarian insufficiency (FXPOI).
 
 ## Concepts
 
