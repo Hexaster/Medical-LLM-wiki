@@ -1861,3 +1861,10 @@
 - Raw extract saved: `raw/articles/genereviews-emery-dreifuss-muscular-dystrophy.md`
 - Created/updated entity page: `entities/emery-dreifuss-muscular-dystrophy.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Encephalocraniocutaneous Lipomatosis
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK576966/
+- Raw extract saved: `raw/articles/genereviews-encephalocraniocutaneous-lipomatosis.md`
+- Created/updated entity page: `entities/encephalocraniocutaneous-lipomatosis.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
