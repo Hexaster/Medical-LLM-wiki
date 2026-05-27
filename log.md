@@ -1364,3 +1364,10 @@
 - Raw extract saved: `raw/articles/genereviews-congenital-central-hypoventilation-syndrome.md`
 - Created/updated entity page: `entities/congenital-central-hypoventilation-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Congenital Contractural Arachnodactyly
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1386/
+- Raw extract saved: `raw/articles/genereviews-congenital-contractural-arachnodactyly.md`
+- Created/updated entity page: `entities/congenital-contractural-arachnodactyly.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

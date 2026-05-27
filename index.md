@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 197
+> Last updated: 2026-05-27 | Total pages: 198
 
 ## Entities
 
@@ -199,6 +199,7 @@
 - [[comp-related-pseudoachondroplasia]] — COMP -related pseudoachondroplasia ( COMP -PSACH) is characterized by normal length at birth and normal facies.
 - [[complete-plasminogen-activator-inhibitor-1-deficiency]] — Untreated complete plasminogen activator inhibitor 1 (PAI-1) deficiency is characterized by mild-to-moderate bleeding, although in some instances bleeding can be.
 - [[congenital-central-hypoventilation-syndrome]] — Congenital central hypoventilation syndrome (CCHS) represents the extreme manifestation of autonomic nervous system dysregulation (ANSD) with the hallmark of disordered.
+- [[congenital-contractural-arachnodactyly]] — Congenital contractural arachnodactyly (CCA) appears to comprise a broad phenotypic spectrum.
 
 ## Concepts
 
