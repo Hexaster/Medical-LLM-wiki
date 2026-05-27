@@ -990,6 +990,12 @@
       "title": "DCX -Related Disorders",
       "when": "2026-05-27 16:29 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ddx3x-ndd/": {
+      "slug": "ddx3x-related-neurodevelopmental-disorder",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK561282/",
+      "title": "DDX3X -Related Neurodevelopmental Disorder",
+      "when": "2026-05-27 16:29 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/del16p11_2/": {
       "slug": "16p11-2-recurrent-deletion",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK11167/",

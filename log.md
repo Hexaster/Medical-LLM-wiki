@@ -1574,3 +1574,10 @@
 - Raw extract saved: `raw/articles/genereviews-ddx11-related-cohesinopathy.md`
 - Created/updated entity page: `entities/ddx11-related-cohesinopathy.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: DDX3X -Related Neurodevelopmental Disorder
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK561282/
+- Raw extract saved: `raw/articles/genereviews-ddx3x-related-neurodevelopmental-disorder.md`
+- Created/updated entity page: `entities/ddx3x-related-neurodevelopmental-disorder.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

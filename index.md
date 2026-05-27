@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 227
+> Last updated: 2026-05-27 | Total pages: 228
 
 ## Entities
 
@@ -229,6 +229,7 @@
 - [[dctn1-related-neurodegeneration]] — The spectrum of DCTN1 -related neurodegeneration includes Perry syndrome, distal hereditary motor neuronopathy type 7B (dHMN7B), frontotemporal dementia (FTD), motor.
 - [[dcx-related-disorders]] — DCX -related disorders include the following neuronal migration disorders: classic thick lissencephaly (more severe anteriorly), usually in males, and subcortical band.
 - [[ddx11-related-cohesinopathy]] — DDX11 -related cohesinopathy is characterized by the clinical triad of severe congenital microcephaly, growth restriction, and sensorineural hearing loss due to cochlear.
+- [[ddx3x-related-neurodevelopmental-disorder]] — DDX3X -related neurodevelopmental disorder ( DDX3X -NDD) typically occurs in females and very rarely in males.
 
 ## Concepts
 
