@@ -666,6 +666,12 @@
       "title": "3-Hydroxyisobutyryl-CoA Hydrolase Deficiency",
       "when": "2026-05-27 16:10 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/hrpt2/": {
+      "slug": "cdc73-related-disorders",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK3789/",
+      "title": "CDC73 -Related Disorders",
+      "when": "2026-05-27 16:22 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/hyper-nfj2/": {
       "slug": "autosomal-dominant-tubulointerstitial-kidney-disease-ren",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK53700/",

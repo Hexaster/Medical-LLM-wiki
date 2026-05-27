@@ -1014,3 +1014,10 @@
 - Raw extract saved: `raw/articles/genereviews-cd40-ligand-deficiency.md`
 - Created/updated entity page: `entities/cd40-ligand-deficiency.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: CDC73 -Related Disorders
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK3789/
+- Raw extract saved: `raw/articles/genereviews-cdc73-related-disorders.md`
+- Created/updated entity page: `entities/cdc73-related-disorders.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
