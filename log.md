@@ -1028,3 +1028,10 @@
 - Raw extract saved: `raw/articles/genereviews-cdk13-related-disorder.md`
 - Created/updated entity page: `entities/cdk13-related-disorder.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: CDKL5 Deficiency Disorder
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK602610/
+- Raw extract saved: `raw/articles/genereviews-cdkl5-deficiency-disorder.md`
+- Created/updated entity page: `entities/cdkl5-deficiency-disorder.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

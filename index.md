@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 149
+> Last updated: 2026-05-27 | Total pages: 150
 
 ## Entities
 
@@ -151,6 +151,7 @@
 - [[cd40-ligand-deficiency]] — CD40 ligand deficiency, a disorder of abnormal T- and B-cell function, is characterized by low serum concentrations of immunoglobulin (Ig) G, IgA, and IgE with normal or.
 - [[cdc73-related-disorders]] — The spectrum of CDC73 -related disorders includes the following phenotypes: The diagnosis is established in a proband with a germline heterozygous CDC73 pathogenic.
 - [[cdk13-related-disorder]] — CDK13 -related disorder, reported in 43 individuals to date, is characterized in all individuals by developmental delay / intellectual disability (DD/ID); nearly all.
+- [[cdkl5-deficiency-disorder]] — CDKL5 deficiency disorder (CDD) is a developmental and epileptic encephalopathy (DEE) characterized by severe early-onset intractable epilepsy and motor, cognitive.
 
 ## Concepts
 

@@ -576,6 +576,12 @@
       "title": "CDK13 -Related Disorder",
       "when": "2026-05-27 16:22 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cdkl5-def/": {
+      "slug": "cdkl5-deficiency-disorder",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK602610/",
+      "title": "CDKL5 Deficiency Disorder",
+      "when": "2026-05-27 16:22 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/ced/": {
       "slug": "camurati-engelmann-disease",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1156/",
