@@ -1422,6 +1422,12 @@
       "title": "Familial Mediterranean Fever",
       "when": "2026-05-27 16:34 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/fop/": {
+      "slug": "fibrodysplasia-ossificans-progressiva",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK558090/",
+      "title": "Fibrodysplasia Ossificans Progressiva",
+      "when": "2026-05-27 16:36 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/fsh/": {
       "slug": "facioscapulohumeral-muscular-dystrophy",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1443/",

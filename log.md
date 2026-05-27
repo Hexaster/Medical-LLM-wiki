@@ -2155,3 +2155,10 @@
 - Raw extract saved: `raw/articles/genereviews-fh-tumor-predisposition-syndrome.md`
 - Created/updated entity page: `entities/fh-tumor-predisposition-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Fibrodysplasia Ossificans Progressiva
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK558090/
+- Raw extract saved: `raw/articles/genereviews-fibrodysplasia-ossificans-progressiva.md`
+- Created/updated entity page: `entities/fibrodysplasia-ossificans-progressiva.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

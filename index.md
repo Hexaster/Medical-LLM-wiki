@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 310
+> Last updated: 2026-05-27 | Total pages: 311
 
 ## Entities
 
@@ -312,6 +312,7 @@
 - [[fgfr-craniosynostosis-syndromes-overview]] — The purpose of this overview is to: Describe the clinical characteristics of FGFR craniosynostosis syndromes; Review the genetic causes of FGFR craniosynostosis.
 - [[fgfr1-related-hartsfield-syndrome]] — FGFR1 -related Hartsfield syndrome comprises two core features: holoprosencephaly (HPE) spectrum disorder and ectrodactyly spectrum disorder.
 - [[fh-tumor-predisposition-syndrome]] — FH tumor predisposition syndrome is characterized by cutaneous leiomyomata, uterine leiomyomata (fibroids), and/or renal tumors.
+- [[fibrodysplasia-ossificans-progressiva]] — Fibrodysplasia ossificans progressiva (FOP) is characterized by congenital bilateral hallux valgus malformations and early-onset heterotopic ossification, which may be.
 
 ## Concepts
 
