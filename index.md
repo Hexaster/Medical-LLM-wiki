@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 131
+> Last updated: 2026-05-27 | Total pages: 132
 
 ## Entities
 
@@ -133,6 +133,7 @@
 - [[cacna1c-related-disorders]] — The clinical manifestations of CACNA1C -related disorders include a spectrum of nonsyndromic and syndromic phenotypes, which generally correlate with the impact of the.
 - [[cadasil]] — CADASIL ( c erebral a utosomal d ominant a rteriopathy with s ubcortical i nfarcts and l eukoencephalopathy) is characterized by mid-adult onset of recurrent ischemic.
 - [[caffey-disease]] — Caffey disease is characterized by massive subperiosteal new bone formation (usually involving the diaphyses of the long bones as well as the ribs, mandible, scapulae.
+- [[calpainopathy]] — Calpainopathy is characterized by symmetric and progressive weakness of proximal limb-girdle muscles.
 
 ## Concepts
 

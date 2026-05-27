@@ -606,6 +606,12 @@
       "title": "AIP Familial Isolated Pituitary Adenomas",
       "when": "2026-05-27 16:12 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/lgmd2a/": {
+      "slug": "calpainopathy",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1313/",
+      "title": "Calpainopathy",
+      "when": "2026-05-27 16:21 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/li-ar/": {
       "slug": "autosomal-recessive-congenital-ichthyosis",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1420/",

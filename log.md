@@ -902,3 +902,10 @@
 - Raw extract saved: `raw/articles/genereviews-caffey-disease.md`
 - Created/updated entity page: `entities/caffey-disease.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Calpainopathy
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1313/
+- Raw extract saved: `raw/articles/genereviews-calpainopathy.md`
+- Created/updated entity page: `entities/calpainopathy.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
