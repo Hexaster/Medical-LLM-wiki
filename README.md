@@ -60,6 +60,7 @@ This wiki is for research and study synthesis. It is not medical advice, diagnos
 
 ## Ingest History
 
+- 2026-05-27 16:37 CST — Ingested: GeneReviews chapter: Gabriele-de Vries Syndrome. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-gabriele-de-vries-syndrome.md`, `entities/gabriele-de-vries-syndrome.md`, `index.md`, `log.md`.
 - 2026-05-27 16:37 CST — Ingested: GeneReviews chapter: GAA- FGF14 -Related Ataxia. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-gaa-fgf14-related-ataxia.md`, `entities/gaa-fgf14-related-ataxia.md`, `index.md`, `log.md`.
 - 2026-05-27 16:37 CST — Ingested: GeneReviews chapter: G6PC3 Deficiency. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-g6pc3-deficiency.md`, `entities/g6pc3-deficiency.md`, `index.md`, `log.md`.
 - 2026-05-27 16:37 CST — Ingested: GeneReviews chapter: Fumarate Hydratase Deficiency. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-fumarate-hydratase-deficiency.md`, `entities/fumarate-hydratase-deficiency.md`, `index.md`, `log.md`.

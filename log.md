@@ -2309,3 +2309,10 @@
 - Raw extract saved: `raw/articles/genereviews-gaa-fgf14-related-ataxia.md`
 - Created/updated entity page: `entities/gaa-fgf14-related-ataxia.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Gabriele-de Vries Syndrome
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK541730/
+- Raw extract saved: `raw/articles/genereviews-gabriele-de-vries-syndrome.md`
+- Created/updated entity page: `entities/gabriele-de-vries-syndrome.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
