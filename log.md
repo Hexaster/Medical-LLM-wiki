@@ -1665,3 +1665,10 @@
 - Raw extract saved: `raw/articles/genereviews-dilated-cardiomyopathy-overview.md`
 - Created/updated entity page: `entities/dilated-cardiomyopathy-overview.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Disorders of GNAS Inactivation
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK459117/
+- Raw extract saved: `raw/articles/genereviews-disorders-of-gnas-inactivation.md`
+- Created/updated entity page: `entities/disorders-of-gnas-inactivation.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
