@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 262
+> Last updated: 2026-05-27 | Total pages: 263
 
 ## Entities
 
@@ -263,6 +263,7 @@
 - [[ebf3-neurodevelopmental-disorder]] — EBF3 neurodevelopmental disorder ( EBF3 -NDD) is associated with developmental delay (DD) / intellectual disability (ID), speech delay, gait or truncal ataxia.
 - [[eed-related-overgrowth]] — EED -related overgrowth is characterized by fetal or early childhood overgrowth (tall stature, macrocephaly, large hands and feet, and advanced bone age) and.
 - [[efemp2-related-cutis-laxa]] — EFEMP2 -related cutis laxa, or autosomal recessive cutis laxa type 1B (ARCL1B), is characterized by cutis laxa and systemic involvement, most commonly arterial.
+- [[el-hattab-alkuraya-syndrome]] — El-Hattab-Alkuraya syndrome is characterized by microcephaly (often early onset and progressive); severe-to-profound developmental delay; refractory and early-onset.
 - [[elane-related-neutropenia]] — ELANE -related neutropenia includes congenital neutropenia and cyclic neutropenia, both of which are primary hematologic disorders characterized by recurrent fever, skin.
 
 ## Concepts

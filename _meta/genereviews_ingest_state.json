@@ -1206,6 +1206,12 @@
       "title": "EFEMP2 -Related Cutis Laxa",
       "when": "2026-05-27 16:32 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/el-hattab-alkuraya/": {
+      "slug": "el-hattab-alkuraya-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK584547/",
+      "title": "El-Hattab-Alkuraya Syndrome",
+      "when": "2026-05-27 16:32 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/fap/": {
       "slug": "apc-associated-polyposis-conditions",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1345/",
