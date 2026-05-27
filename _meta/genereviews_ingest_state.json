@@ -636,6 +636,12 @@
       "title": "CHD2 -Related Neurodevelopmental Disorders",
       "when": "2026-05-27 16:23 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/chd4-ndd/": {
+      "slug": "chd4-neurodevelopmental-disorder",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK561516/",
+      "title": "CHD4 Neurodevelopmental Disorder",
+      "when": "2026-05-27 16:23 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/chh/": {
       "slug": "cartilage-hair-hypoplasia-anauxetic-dysplasia-spectrum-disorders",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK84550/",
