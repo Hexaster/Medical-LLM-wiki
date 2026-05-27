@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 234
+> Last updated: 2026-05-27 | Total pages: 235
 
 ## Entities
 
@@ -236,6 +236,7 @@
 - [[deoxyguanosine-kinase-deficiency]] — The two forms of deoxyguanosine kinase (DGUOK) deficiency are a neonatal multisystem disorder and an isolated hepatic disorder that presents later in infancy or.
 - [[depdc5-related-epilepsy]] — DEPDC5- related epilepsy encompasses a range of epilepsy syndromes, almost all of which are characterized by focal seizures, with seizure onset in a discrete area of the.
 - [[dfna2-nonsyndromic-hearing-loss]] — DFNA2 nonsyndromic hearing loss is characterized by symmetric, predominantly high-frequency sensorineural hearing loss (SNHL) that is progressive across all frequencies.
+- [[diabetes-mellitus-6q24-related-transient-neonatal]] — 6q24-related transient neonatal diabetes mellitus (6q24-TNDM) is defined as transient neonatal diabetes mellitus caused by genetic aberrations of the imprinted locus at.
 
 ## Concepts
 
