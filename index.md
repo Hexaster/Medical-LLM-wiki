@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 292
+> Last updated: 2026-05-27 | Total pages: 293
 
 ## Entities
 
@@ -294,6 +294,7 @@
 - [[familial-combined-hypolipidemia]] — Familial combined hypolipidemia is not associated with any pathologic signs or symptoms; diagnosis is suggested by low plasma concentrations of lipids.
 - [[familial-dysautonomia]] — Familial dysautonomia, which affects the development and survival of sensory, sympathetic, and parasympathetic neurons, is a debilitating disorder present from birth.
 - [[familial-hemiplegic-migraine]] — Familial hemiplegic migraine (FHM) falls within the category of migraine with aura.
+- [[familial-hemophagocytic-lymphohistiocytosis]] — Familial hemophagocytic lymphohistiocytosis (fHLH), defined as the presence of biallelic pathogenic variants in one of four genes ( PRF1 , STX11 , STXBP2 , or UNC13D ).
 
 ## Concepts
 
