@@ -60,6 +60,7 @@ This wiki is for research and study synthesis. It is not medical advice, diagnos
 
 ## Ingest History
 
+- 2026-05-27 16:31 CST — Ingested: GeneReviews chapter: DYT- TOR1A. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-dyt-tor1a.md`, `entities/dyt-tor1a.md`, `index.md`, `log.md`.
 - 2026-05-27 16:31 CST — Ingested: GeneReviews chapter: DYT- GNAL. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-dyt-gnal.md`, `entities/dyt-gnal.md`, `index.md`, `log.md`.
 - 2026-05-27 16:31 CST — Ingested: GeneReviews chapter: Dystrophinopathies. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-dystrophinopathies.md`, `entities/dystrophinopathies.md`, `index.md`, `log.md`.
 - 2026-05-27 16:31 CST — Ingested: GeneReviews chapter: Dystrophic Epidermolysis Bullosa. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-dystrophic-epidermolysis-bullosa.md`, `entities/dystrophic-epidermolysis-bullosa.md`, `index.md`, `log.md`.

@@ -1164,6 +1164,12 @@
       "title": "DYRK1A Syndrome",
       "when": "2026-05-27 16:31 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/dystonia/": {
+      "slug": "dyt-tor1a",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1492/",
+      "title": "DYT- TOR1A",
+      "when": "2026-05-27 16:31 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/ebd/": {
       "slug": "dystrophic-epidermolysis-bullosa",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1304/",
