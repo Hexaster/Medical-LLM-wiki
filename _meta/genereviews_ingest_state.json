@@ -1608,6 +1608,12 @@
       "title": "Geleophysic Dysplasia",
       "when": "2026-05-27 16:38 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/gm1-ganglio/": {
+      "slug": "glb1-related-disorders",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK164500/",
+      "title": "GLB1- Related Disorders",
+      "when": "2026-05-27 16:39 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/gnal-dystonia/": {
       "slug": "dyt-gnal",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK535640/",

@@ -2407,3 +2407,10 @@
 - Raw extract saved: `raw/articles/genereviews-gjb2-related-autosomal-recessive-nonsyndromic-hearing-loss.md`
 - Created/updated entity page: `entities/gjb2-related-autosomal-recessive-nonsyndromic-hearing-loss.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: GLB1- Related Disorders
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK164500/
+- Raw extract saved: `raw/articles/genereviews-glb1-related-disorders.md`
+- Created/updated entity page: `entities/glb1-related-disorders.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
