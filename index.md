@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 154
+> Last updated: 2026-05-27 | Total pages: 155
 
 ## Entities
 
@@ -156,6 +156,7 @@
 - [[cebpa-associated-familial-acute-myeloid-leukemia-aml]] — CEBPA- associated familial acute myeloid leukemia (AML) is defined as the presence of a heterozygous germline CEBPA pathogenic variant in an individual with AML and/or.
 - [[celiac-disease]] — Celiac disease is a common systemic autoimmune disease that can develop in genetically susceptible individuals as a response to dietary gluten.
 - [[cerebrotendinous-xanthomatosis]] — Cerebrotendinous xanthomatosis (CTX) is a lipid storage disease characterized by infantile-onset diarrhea, childhood-onset cataract, adolescent- to young adult-onset.
+- [[cetp-related-hyperalphalipoproteinemia]] — CETP -related hyperalphalipoproteinemia (HALP), the most common form of primary HALP, is characterized by marked elevations in plasma high-density lipoprotein.
 
 ## Concepts
 
