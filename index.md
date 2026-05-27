@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 176
+> Last updated: 2026-05-27 | Total pages: 177
 
 ## Entities
 
@@ -178,6 +178,7 @@
 - [[chronic-granulomatous-disease]] — Chronic granulomatous disease (CGD) is a primary immunodeficiency disorder of phagocytes (neutrophils, monocytes, macrophages, and eosinophils) resulting from impaired.
 - [[chylomicron-retention-disease]] — Chylomicron retention disease (CMRD), characterized by the inability to secrete chylomicrons from the enterocytes following the ingestion of fat, typically presents in.
 - [[citrin-deficiency]] — Citrin deficiency can manifest in newborns or infants as neonatal intrahepatic cholestasis caused by citrin deficiency (NICCD), in older children as failure to thrive.
+- [[citrullinemia-type-i]] — Citrullinemia type I (CTLN1) presents as a spectrum that includes a neonatal acute form (the "classic" form), a milder late-onset form (the "non-classic" form), a form.
 
 ## Concepts
 

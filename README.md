@@ -60,6 +60,7 @@ This wiki is for research and study synthesis. It is not medical advice, diagnos
 
 ## Ingest History
 
+- 2026-05-27 16:25 CST — Ingested: GeneReviews chapter: Citrullinemia Type I. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-citrullinemia-type-i.md`, `entities/citrullinemia-type-i.md`, `index.md`, `log.md`.
 - 2026-05-27 16:25 CST — Ingested: GeneReviews chapter: Citrin Deficiency. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-citrin-deficiency.md`, `entities/citrin-deficiency.md`, `index.md`, `log.md`.
 - 2026-05-27 16:24 CST — Ingested: GeneReviews chapter: Chylomicron Retention Disease. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-chylomicron-retention-disease.md`, `entities/chylomicron-retention-disease.md`, `index.md`, `log.md`.
 - 2026-05-27 16:24 CST — Ingested: GeneReviews chapter: Chronic Granulomatous Disease. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-chronic-granulomatous-disease.md`, `entities/chronic-granulomatous-disease.md`, `index.md`, `log.md`.
