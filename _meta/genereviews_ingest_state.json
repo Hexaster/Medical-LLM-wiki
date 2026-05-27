@@ -1362,6 +1362,12 @@
       "title": "Familial Hemiplegic Migraine",
       "when": "2026-05-27 16:34 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/fmf/": {
+      "slug": "familial-mediterranean-fever",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1227/",
+      "title": "Familial Mediterranean Fever",
+      "when": "2026-05-27 16:34 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/fsh/": {
       "slug": "facioscapulohumeral-muscular-dystrophy",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1443/",

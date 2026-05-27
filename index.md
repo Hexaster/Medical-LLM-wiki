@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 295
+> Last updated: 2026-05-27 | Total pages: 296
 
 ## Entities
 
@@ -297,6 +297,7 @@
 - [[familial-hemophagocytic-lymphohistiocytosis]] — Familial hemophagocytic lymphohistiocytosis (fHLH), defined as the presence of biallelic pathogenic variants in one of four genes ( PRF1 , STX11 , STXBP2 , or UNC13D ).
 - [[familial-hypercholesterolemia]] — Familial hypercholesterolemia (FH) is characterized by significantly elevated low-density lipoprotein cholesterol (LDL-C) that leads to atherosclerotic plaque deposition.
 - [[familial-lipoprotein-lipase-deficiency]] — Familial lipoprotein lipase (LPL) deficiency usually presents in childhood and is characterized by very severe hypertriglyceridemia with episodes of abdominal pain.
+- [[familial-mediterranean-fever]] — Familial Mediterranean fever (FMF) is divided into two phenotypes: type 1 and type 2.
 
 ## Concepts
 
