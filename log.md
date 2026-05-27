@@ -1336,3 +1336,10 @@
 - Raw extract saved: `raw/articles/genereviews-cold-induced-sweating-syndrome-including-crisponi-syndrome.md`
 - Created/updated entity page: `entities/cold-induced-sweating-syndrome-including-crisponi-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Collagen VI-Related Dystrophies
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1503/
+- Raw extract saved: `raw/articles/genereviews-collagen-vi-related-dystrophies.md`
+- Created/updated entity page: `entities/collagen-vi-related-dystrophies.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

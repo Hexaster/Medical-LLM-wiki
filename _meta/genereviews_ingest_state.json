@@ -408,6 +408,12 @@
       "title": "BCL11A -Related Intellectual Disability",
       "when": "2026-05-27 16:14 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/bethlem/": {
+      "slug": "collagen-vi-related-dystrophies",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1503/",
+      "title": "Collagen VI-Related Dystrophies",
+      "when": "2026-05-27 16:26 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/bgd-biotin/": {
       "slug": "biotin-thiamine-responsive-basal-ganglia-disease",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK169615/",

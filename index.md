@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 193
+> Last updated: 2026-05-27 | Total pages: 194
 
 ## Entities
 
@@ -195,6 +195,7 @@
 - [[col1a1-and-col1a2-related-osteogenesis-imperfecta]] — COL1A1 - and COL1A2 -related osteogenesis imperfecta ( COL1A1/COL1A2 -OI) is characterized by fractures (often with minimal or absent trauma), variable dentinogenesis.
 - [[col4a1-related-disorders]] — The spectrum of COL4A1 -related disorders includes: small-vessel brain disease of varying severity including porencephaly, variably associated with eye defects (retinal.
 - [[cold-induced-sweating-syndrome-including-crisponi-syndrome]] — Cold-induced sweating syndrome (CISS) and its infantile presentation, Crisponi syndrome(CS) is characterized by dysmorphic features (distinctive facies, lower facial.
+- [[collagen-vi-related-dystrophies]] — Collagen VI-related dystrophies (COL6-RDs) represent a continuum of overlapping clinical phenotypes with Bethlem muscular dystrophy at the milder end, Ullrich congenital.
 
 ## Concepts
 
