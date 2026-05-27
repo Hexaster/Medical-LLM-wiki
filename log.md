@@ -832,3 +832,10 @@
 - Raw extract saved: `raw/articles/genereviews-branchiooculofacial-syndrome.md`
 - Created/updated entity page: `entities/branchiooculofacial-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Branchiootorenal Spectrum Disorder
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1380/
+- Raw extract saved: `raw/articles/genereviews-branchiootorenal-spectrum-disorder.md`
+- Created/updated entity page: `entities/branchiootorenal-spectrum-disorder.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
