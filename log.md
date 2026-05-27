@@ -839,3 +839,10 @@
 - Raw extract saved: `raw/articles/genereviews-branchiootorenal-spectrum-disorder.md`
 - Created/updated entity page: `entities/branchiootorenal-spectrum-disorder.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: BRCA1- and BRCA2 -Associated Hereditary Breast and Ovarian Cancer
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1247/
+- Raw extract saved: `raw/articles/genereviews-brca1-and-brca2-associated-hereditary-breast-and-ovarian-cancer.md`
+- Created/updated entity page: `entities/brca1-and-brca2-associated-hereditary-breast-and-ovarian-cancer.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
