@@ -1500,6 +1500,12 @@
       "title": "Familial Hemophagocytic Lymphohistiocytosis",
       "when": "2026-05-27 16:34 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/hlrcc/": {
+      "slug": "fh-tumor-predisposition-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1252/",
+      "title": "FH Tumor Predisposition Syndrome",
+      "when": "2026-05-27 16:36 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/hrpt2/": {
       "slug": "cdc73-related-disorders",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK3789/",
