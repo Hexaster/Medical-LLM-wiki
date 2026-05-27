@@ -1315,3 +1315,10 @@
 - Raw extract saved: `raw/articles/genereviews-cohen-syndrome.md`
 - Created/updated entity page: `entities/cohen-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: COL1A1 - and COL1A2 -Related Osteogenesis Imperfecta
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1295/
+- Raw extract saved: `raw/articles/genereviews-col1a1-and-col1a2-related-osteogenesis-imperfecta.md`
+- Created/updated entity page: `entities/col1a1-and-col1a2-related-osteogenesis-imperfecta.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

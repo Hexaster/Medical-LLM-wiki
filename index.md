@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 190
+> Last updated: 2026-05-27 | Total pages: 191
 
 ## Entities
 
@@ -192,6 +192,7 @@
 - [[cockayne-syndrome]] — Cockayne syndrome (referred to as CS in this GeneReview ) spans a continuous phenotypic spectrum that includes CS type I, the "classic" or "moderate" form; CS type II, a.
 - [[coffin-siris-syndrome]] — Classically, Coffin-Siris syndrome (CSS) was characterized by specific dysmorphic features (coarse facies, sparse scalp hair, thick eyebrows with long lashes, wide nasal.
 - [[cohen-syndrome]] — Cohen syndrome is characterized by early-onset hypotonia, developmental delay, and moderate-to-profound intellectual disability; at least 20% of individuals are unable.
+- [[col1a1-and-col1a2-related-osteogenesis-imperfecta]] — COL1A1 - and COL1A2 -related osteogenesis imperfecta ( COL1A1/COL1A2 -OI) is characterized by fractures (often with minimal or absent trauma), variable dentinogenesis.
 
 ## Concepts
 

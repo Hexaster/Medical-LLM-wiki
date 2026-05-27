@@ -1014,6 +1014,12 @@
       "title": "Acid Sphingomyelinase Deficiency",
       "when": "2026-05-27 16:11 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/oi/": {
+      "slug": "col1a1-and-col1a2-related-osteogenesis-imperfecta",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1295/",
+      "title": "COL1A1 - and COL1A2 -Related Osteogenesis Imperfecta",
+      "when": "2026-05-27 16:26 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/peaf/": {
       "slug": "autosomal-dominant-epilepsy-with-auditory-features",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1537/",
