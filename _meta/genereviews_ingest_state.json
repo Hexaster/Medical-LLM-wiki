@@ -708,6 +708,12 @@
       "title": "Choroideremia",
       "when": "2026-05-27 16:24 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/christianson/": {
+      "slug": "christianson-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK475801/",
+      "title": "Christianson Syndrome",
+      "when": "2026-05-27 16:24 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cmt/": {
       "slug": "charcot-marie-tooth-hereditary-neuropathy-overview",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1358/",

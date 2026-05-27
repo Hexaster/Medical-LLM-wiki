@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 172
+> Last updated: 2026-05-27 | Total pages: 173
 
 ## Entities
 
@@ -174,6 +174,7 @@
 - [[chondrodysplasia-punctata-2-x-linked]] — The findings in X-linked chondrodysplasia punctata 2 (CDPX2) range from fetal demise with multiple malformations and severe growth retardation to much milder.
 - [[chondrodysplasia-with-congenital-joint-dislocations-chst3-related]] — Chondrodysplasia with congenital joint dislocations, CHST3 -related (CDCJD- CHST3 ) is characterized by short stature of prenatal onset, joint dislocations (knees, hips.
 - [[choroideremia]] — Choroideremia (CHM) is characterized by progressive chorioretinal degeneration in affected males and milder signs in heterozygous (carrier) females.
+- [[christianson-syndrome]] — Christianson syndrome (referred to as CS in this GeneReview ), an X-linked disorder, is characterized in males by cognitive dysfunction, behavioral disorder, and.
 
 ## Concepts
 
