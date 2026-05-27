@@ -1104,6 +1104,12 @@
       "title": "DFNA2 Nonsyndromic Hearing Loss",
       "when": "2026-05-27 16:29 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/dfnb1/": {
+      "slug": "gjb2-related-autosomal-recessive-nonsyndromic-hearing-loss",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1272/",
+      "title": "GJB2 -Related Autosomal Recessive Nonsyndromic Hearing Loss",
+      "when": "2026-05-27 16:38 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/dguok-mtddepl/": {
       "slug": "deoxyguanosine-kinase-deficiency",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK7040/",
