@@ -1805,3 +1805,10 @@
 - Raw extract saved: `raw/articles/genereviews-eed-related-overgrowth.md`
 - Created/updated entity page: `entities/eed-related-overgrowth.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: EFEMP2 -Related Cutis Laxa
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK54467/
+- Raw extract saved: `raw/articles/genereviews-efemp2-related-cutis-laxa.md`
+- Created/updated entity page: `entities/efemp2-related-cutis-laxa.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

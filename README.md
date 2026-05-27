@@ -60,6 +60,7 @@ This wiki is for research and study synthesis. It is not medical advice, diagnos
 
 ## Ingest History
 
+- 2026-05-27 16:32 CST — Ingested: GeneReviews chapter: EFEMP2 -Related Cutis Laxa. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-efemp2-related-cutis-laxa.md`, `entities/efemp2-related-cutis-laxa.md`, `index.md`, `log.md`.
 - 2026-05-27 16:31 CST — Ingested: GeneReviews chapter: EED -Related Overgrowth. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-eed-related-overgrowth.md`, `entities/eed-related-overgrowth.md`, `index.md`, `log.md`.
 - 2026-05-27 16:31 CST — Ingested: GeneReviews chapter: EBF3 Neurodevelopmental Disorder. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-ebf3-neurodevelopmental-disorder.md`, `entities/ebf3-neurodevelopmental-disorder.md`, `index.md`, `log.md`.
 - 2026-05-27 16:31 CST — Ingested: GeneReviews chapter: DYT- TOR1A. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-dyt-tor1a.md`, `entities/dyt-tor1a.md`, `index.md`, `log.md`.

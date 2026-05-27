@@ -1194,6 +1194,12 @@
       "title": "EED -Related Overgrowth",
       "when": "2026-05-27 16:31 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/efemp2-cutis-laxa/": {
+      "slug": "efemp2-related-cutis-laxa",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK54467/",
+      "title": "EFEMP2 -Related Cutis Laxa",
+      "when": "2026-05-27 16:32 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/fap/": {
       "slug": "apc-associated-polyposis-conditions",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1345/",
