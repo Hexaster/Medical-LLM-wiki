@@ -1458,6 +1458,12 @@
       "title": "FOXP1 Syndrome",
       "when": "2026-05-27 16:36 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/foxp2-sl-dis/": {
+      "slug": "foxp2-related-speech-and-language-disorder",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK368474/",
+      "title": "FOXP2- Related Speech and Language Disorder",
+      "when": "2026-05-27 16:36 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/fragilex/": {
       "slug": "fmr1-disorders",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1384/",
