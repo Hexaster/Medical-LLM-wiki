@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 201
+> Last updated: 2026-05-27 | Total pages: 202
 
 ## Entities
 
@@ -203,6 +203,7 @@
 - [[congenital-deafness-with-labyrinthine-aplasia-microtia-and-microdontia]] — Congenital deafness with l abyrinthine a plasia, m icrotia, and m icrodontia (LAMM syndrome) is characterized by: profound bilateral congenital sensorineural deafness.
 - [[congenital-disorders-of-n-linked-glycosylation-and-multiple-pathway-overview]] — Many human disorders of glycosylation pathways have now been identified; they include defects in synthetic pathways for N-linked oligosaccharides, O-linked.
 - [[congenital-dyserythropoietic-anemia-type-i]] — Congenital dyserythropoietic anemia type I (CDA I) is characterized by moderate-to-severe macrocytic anemia presenting occasionally in utero as severe anemia associated.
+- [[congenital-erythropoietic-porphyria]] — Congenital erythropoietic porphyria (CEP) is characterized in most individuals by severe cutaneous photosensitivity with blistering and increased friability of the skin.
 
 ## Concepts
 

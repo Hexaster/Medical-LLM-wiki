@@ -660,6 +660,12 @@
       "title": "Celiac Disease",
       "when": "2026-05-27 16:23 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cep/": {
+      "slug": "congenital-erythropoietic-porphyria",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK154652/",
+      "title": "Congenital Erythropoietic Porphyria",
+      "when": "2026-05-27 16:27 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cetp-def/": {
       "slug": "cetp-related-hyperalphalipoproteinemia",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614254/",
