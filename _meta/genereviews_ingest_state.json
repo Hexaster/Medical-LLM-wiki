@@ -1080,6 +1080,12 @@
       "title": "Classic Mowat-Wilson Syndrome",
       "when": "2026-05-27 16:25 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/nad-def/": {
+      "slug": "congenital-nad-deficiency-disorder",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK593504/",
+      "title": "Congenital NAD Deficiency Disorder",
+      "when": "2026-05-27 16:27 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/npab/": {
       "slug": "acid-sphingomyelinase-deficiency",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1370/",

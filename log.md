@@ -1427,3 +1427,10 @@
 - Raw extract saved: `raw/articles/genereviews-congenital-myasthenic-syndromes-overview.md`
 - Created/updated entity page: `entities/congenital-myasthenic-syndromes-overview.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Congenital NAD Deficiency Disorder
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK593504/
+- Raw extract saved: `raw/articles/genereviews-congenital-nad-deficiency-disorder.md`
+- Created/updated entity page: `entities/congenital-nad-deficiency-disorder.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 206
+> Last updated: 2026-05-27 | Total pages: 207
 
 ## Entities
 
@@ -208,6 +208,7 @@
 - [[congenital-insensitivity-to-pain-overview]] — The purpose of this overview is to: Describe the clinical characteristics of congenital insensitivity to pain; Review the causes of congenital insensitivity to pain.
 - [[congenital-mirror-movements]] — The disorder of congenital mirror movements (CMM) is characterized by early-onset, obvious mirror movements (involuntary movements of one side of the body that mirror.
 - [[congenital-myasthenic-syndromes-overview]] — The purpose of this overview is to: Briefly describe the clinical characteristics of CMS; Review the subtypes and genetic causes of CMS; Review the differential.
+- [[congenital-nad-deficiency-disorder]] — Congenital NAD deficiency disorder (CNDD) is a multisystem condition in which cardiac, renal, vertebral, and limb anomalies are common, mimicking the clinical features.
 
 ## Concepts
 
