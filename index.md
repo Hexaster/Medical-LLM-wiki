@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 340
+> Last updated: 2026-05-27 | Total pages: 341
 
 ## Entities
 
@@ -342,6 +342,7 @@
 - [[gbe1-adult-polyglucosan-body-disease]] — Most individuals with classic GBE1 adult polyglucosan body disease ( GBE1- APBD) present after age 40 years with unexplained progressive neurogenic bladder, gait.
 - [[geleophysic-dysplasia]] — Geleophysic dysplasia, a progressive condition resembling a lysosomal storage disorder, is characterized by short stature, short hands and feet, progressive joint.
 - [[generalized-arterial-calcification-of-infancy]] — Generalized arterial calcification of infancy (GACI) is characterized by prenatal or infantile onset of widespread arterial calcification and/or narrowing of large and.
+- [[genetic-atypical-hemolytic-uremic-syndrome]] — Hemolytic-uremic syndrome (HUS) is characterized by hemolytic anemia, thrombocytopenia, and renal failure caused by platelet thrombi in the microcirculation of the.
 
 ## Concepts
 

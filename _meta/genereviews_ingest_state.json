@@ -1656,6 +1656,12 @@
       "title": "CDC73 -Related Disorders",
       "when": "2026-05-27 16:22 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/husa/": {
+      "slug": "genetic-atypical-hemolytic-uremic-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1367/",
+      "title": "Genetic Atypical Hemolytic-Uremic Syndrome",
+      "when": "2026-05-27 16:38 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/hyper-nfj2/": {
       "slug": "autosomal-dominant-tubulointerstitial-kidney-disease-ren",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK53700/",

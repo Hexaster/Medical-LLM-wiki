@@ -2365,3 +2365,10 @@
 - Raw extract saved: `raw/articles/genereviews-generalized-arterial-calcification-of-infancy.md`
 - Created/updated entity page: `entities/generalized-arterial-calcification-of-infancy.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Genetic Atypical Hemolytic-Uremic Syndrome
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1367/
+- Raw extract saved: `raw/articles/genereviews-genetic-atypical-hemolytic-uremic-syndrome.md`
+- Created/updated entity page: `entities/genetic-atypical-hemolytic-uremic-syndrome.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
