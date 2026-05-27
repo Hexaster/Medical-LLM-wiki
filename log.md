@@ -1147,3 +1147,10 @@
 - Raw extract saved: `raw/articles/genereviews-childhood-ataxia-with-central-nervous-system-hypomyelination-vanishing-white-matter.md`
 - Created/updated entity page: `entities/childhood-ataxia-with-central-nervous-system-hypomyelination-vanishing-white-matter.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: CHKB -Related Muscular Dystrophy
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK589929/
+- Raw extract saved: `raw/articles/genereviews-chkb-related-muscular-dystrophy.md`
+- Created/updated entity page: `entities/chkb-related-muscular-dystrophy.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

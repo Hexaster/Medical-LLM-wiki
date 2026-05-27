@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 166
+> Last updated: 2026-05-27 | Total pages: 167
 
 ## Entities
 
@@ -168,6 +168,7 @@
 - [[chek2-related-cancer-predisposition]] — CHEK2- related cancer predisposition is predominantly characterized by an increased risk of female breast cancer.
 - [[cherubism]] — Cherubism is a childhood-onset autoinflammatory bone disease characterized by proliferative fibroosseous lesions limited to the mandible and maxilla.
 - [[childhood-ataxia-with-central-nervous-system-hypomyelination-vanishing-white-matter]] — Childhood ataxia with central nervous system hypomyelination / vanishing white matter (CACH/VWM) is characterized by ataxia, spasticity, and variable optic atrophy.
+- [[chkb-related-muscular-dystrophy]] — CHKB -related muscular dystrophy ( CHKB -MD), reported in 47 individuals to date, comprises congenital muscular dystrophy (CMD) (44 individuals) and adolescent-onset.
 
 ## Concepts
 
