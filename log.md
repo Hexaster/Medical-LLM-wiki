@@ -846,3 +846,10 @@
 - Raw extract saved: `raw/articles/genereviews-brca1-and-brca2-associated-hereditary-breast-and-ovarian-cancer.md`
 - Created/updated entity page: `entities/brca1-and-brca2-associated-hereditary-breast-and-ovarian-cancer.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Brugada Syndrome
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1517/
+- Raw extract saved: `raw/articles/genereviews-brugada-syndrome.md`
+- Created/updated entity page: `entities/brugada-syndrome.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

@@ -474,6 +474,12 @@
       "title": "BRCA1- and BRCA2 -Associated Hereditary Breast and Ovarian Cancer",
       "when": "2026-05-27 16:20 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/brugada/": {
+      "slug": "brugada-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1517/",
+      "title": "Brugada Syndrome",
+      "when": "2026-05-27 16:20 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/bscl/": {
       "slug": "berardinelli-seip-congenital-lipodystrophy",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1212/",
