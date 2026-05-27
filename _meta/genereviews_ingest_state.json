@@ -516,6 +516,12 @@
       "title": "CADASIL",
       "when": "2026-05-27 16:21 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/caffey/": {
+      "slug": "caffey-disease",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK99168/",
+      "title": "Caffey Disease",
+      "when": "2026-05-27 16:21 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cah/": {
       "slug": "21-hydroxylase-deficient-congenital-adrenal-hyperplasia",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1171/",

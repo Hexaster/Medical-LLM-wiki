@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 130
+> Last updated: 2026-05-27 | Total pages: 131
 
 ## Entities
 
@@ -132,6 +132,7 @@
 - [[c9orf72-frontotemporal-dementia-and-or-amyotrophic-lateral-sclerosis]] — C9orf72 frontotemporal dementia and/or amyotrophic lateral sclerosis ( C9orf72 -FTD/ALS) is characterized most often by frontotemporal dementia (FTD) and upper and lower.
 - [[cacna1c-related-disorders]] — The clinical manifestations of CACNA1C -related disorders include a spectrum of nonsyndromic and syndromic phenotypes, which generally correlate with the impact of the.
 - [[cadasil]] — CADASIL ( c erebral a utosomal d ominant a rteriopathy with s ubcortical i nfarcts and l eukoencephalopathy) is characterized by mid-adult onset of recurrent ischemic.
+- [[caffey-disease]] — Caffey disease is characterized by massive subperiosteal new bone formation (usually involving the diaphyses of the long bones as well as the ribs, mandible, scapulae.
 
 ## Concepts
 

@@ -895,3 +895,10 @@
 - Raw extract saved: `raw/articles/genereviews-cadasil.md`
 - Created/updated entity page: `entities/cadasil.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Caffey Disease
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK99168/
+- Raw extract saved: `raw/articles/genereviews-caffey-disease.md`
+- Created/updated entity page: `entities/caffey-disease.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
