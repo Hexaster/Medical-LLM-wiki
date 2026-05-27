@@ -930,3 +930,10 @@
 - Raw extract saved: `raw/articles/genereviews-canavan-disease.md`
 - Created/updated entity page: `entities/canavan-disease.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Cantú Syndrome
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK246980/
+- Raw extract saved: `raw/articles/genereviews-cant-syndrome.md`
+- Created/updated entity page: `entities/cant-syndrome.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
