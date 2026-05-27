@@ -1385,3 +1385,10 @@
 - Raw extract saved: `raw/articles/genereviews-congenital-disorders-of-n-linked-glycosylation-and-multiple-pathway-overview.md`
 - Created/updated entity page: `entities/congenital-disorders-of-n-linked-glycosylation-and-multiple-pathway-overview.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Congenital Dyserythropoietic Anemia Type I
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK5313/
+- Raw extract saved: `raw/articles/genereviews-congenital-dyserythropoietic-anemia-type-i.md`
+- Created/updated entity page: `entities/congenital-dyserythropoietic-anemia-type-i.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
