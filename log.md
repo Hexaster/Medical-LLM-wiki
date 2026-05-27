@@ -2267,3 +2267,10 @@
 - Raw extract saved: `raw/articles/genereviews-fructose-1-6-bisphosphatase-deficiency.md`
 - Created/updated entity page: `entities/fructose-1-6-bisphosphatase-deficiency.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Fryns Syndrome
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1459/
+- Raw extract saved: `raw/articles/genereviews-fryns-syndrome.md`
+- Created/updated entity page: `entities/fryns-syndrome.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

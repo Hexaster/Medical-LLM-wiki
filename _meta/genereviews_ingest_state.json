@@ -1482,6 +1482,12 @@
       "title": "Fructose-1,6-Bisphosphatase Deficiency",
       "when": "2026-05-27 16:37 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/fryns/": {
+      "slug": "fryns-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1459/",
+      "title": "Fryns Syndrome",
+      "when": "2026-05-27 16:37 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/fsh/": {
       "slug": "facioscapulohumeral-muscular-dystrophy",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1443/",
