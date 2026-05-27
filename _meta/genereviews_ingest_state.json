@@ -1176,6 +1176,12 @@
       "title": "DYT- TOR1A",
       "when": "2026-05-27 16:31 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/ea1/": {
+      "slug": "episodic-ataxia-type-1",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK25442/",
+      "title": "Episodic Ataxia Type 1",
+      "when": "2026-05-27 16:33 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/eb-pa/": {
       "slug": "epidermolysis-bullosa-with-pyloric-atresia",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1157/",

@@ -1917,3 +1917,10 @@
 - Raw extract saved: `raw/articles/genereviews-epimerase-deficiency-galactosemia.md`
 - Created/updated entity page: `entities/epimerase-deficiency-galactosemia.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Episodic Ataxia Type 1
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK25442/
+- Raw extract saved: `raw/articles/genereviews-episodic-ataxia-type-1.md`
+- Created/updated entity page: `entities/episodic-ataxia-type-1.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
