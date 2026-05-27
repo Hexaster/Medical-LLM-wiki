@@ -60,6 +60,7 @@ This wiki is for research and study synthesis. It is not medical advice, diagnos
 
 ## Ingest History
 
+- 2026-05-27 16:31 CST — Ingested: GeneReviews chapter: Dysferlinopathy. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-dysferlinopathy.md`, `entities/dysferlinopathy.md`, `index.md`, `log.md`.
 - 2026-05-27 16:31 CST — Ingested: GeneReviews chapter: DYRK1A Syndrome. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-dyrk1a-syndrome.md`, `entities/dyrk1a-syndrome.md`, `index.md`, `log.md`.
 - 2026-05-27 16:31 CST — Ingested: GeneReviews chapter: DYNC1H1 -Related Disorders. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-dync1h1-related-disorders.md`, `entities/dync1h1-related-disorders.md`, `index.md`, `log.md`.
 - 2026-05-27 16:31 CST — Ingested: GeneReviews chapter: Duarte Galactosemia. Content: Concise factual summary of clinical characteristics, diagnosis, management, and genetic counseling context with source/copyright attribution. Updated: `raw/articles/genereviews-duarte-galactosemia.md`, `entities/duarte-galactosemia.md`, `index.md`, `log.md`.

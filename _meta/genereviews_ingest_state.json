@@ -1314,6 +1314,12 @@
       "title": "Congenital Mirror Movements",
       "when": "2026-05-27 16:27 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/miyoshi/": {
+      "slug": "dysferlinopathy",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1303/",
+      "title": "Dysferlinopathy",
+      "when": "2026-05-27 16:31 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/mld/": {
       "slug": "arylsulfatase-a-deficiency",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1130/",

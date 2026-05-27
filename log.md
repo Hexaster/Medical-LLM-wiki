@@ -1749,3 +1749,10 @@
 - Raw extract saved: `raw/articles/genereviews-dyrk1a-syndrome.md`
 - Created/updated entity page: `entities/dyrk1a-syndrome.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Dysferlinopathy
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1303/
+- Raw extract saved: `raw/articles/genereviews-dysferlinopathy.md`
+- Created/updated entity page: `entities/dysferlinopathy.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.

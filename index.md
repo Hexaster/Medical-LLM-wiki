@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 252
+> Last updated: 2026-05-27 | Total pages: 253
 
 ## Entities
 
@@ -254,6 +254,7 @@
 - [[duarte-galactosemia]] — Infants with Duarte galactosemia who receive breast milk or a high galactose-containing formula (dairy milk-based formula) are asymptomatic.
 - [[dync1h1-related-disorders]] — DYNC1H1 -related disorders are primarily characterized by an axonal neuropathy with a wide phenotypic spectrum ranging from a neuromuscular-only phenotype ( DYNC1H1-.
 - [[dyrk1a-syndrome]] — DYRK1A syndrome is characterized by intellectual disability including impaired speech development, autism spectrum disorder including anxious and/or stereotypic behavior.
+- [[dysferlinopathy]] — Dysferlinopathy includes a spectrum of muscle disease characterized by two major phenotypes: Miyoshi muscular dystrophy (MMD) and limb-girdle muscular dystrophy type 2B.
 
 ## Concepts
 
