@@ -774,6 +774,12 @@
       "title": "Autosomal Dominant TRPV4- Related Disorders",
       "when": "2026-05-27 16:14 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/cnot1-vibos/": {
+      "slug": "cnot1-related-vissers-bodmer-syndrome",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK621477/",
+      "title": "CNOT1 -Related Vissers-Bodmer Syndrome",
+      "when": "2026-05-27 16:26 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/cpt1a/": {
       "slug": "carnitine-palmitoyltransferase-1a-deficiency",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1527/",

@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 186
+> Last updated: 2026-05-27 | Total pages: 187
 
 ## Entities
 
@@ -188,6 +188,7 @@
 - [[clcn7-related-osteopetrosis]] — The spectrum of CLCN7 -related osteopetrosis includes infantile malignant CLCN7 -related autosomal recessive osteopetrosis (ARO), intermediate autosomal osteopetrosis.
 - [[cleidocranial-dysplasia-spectrum-disorder]] — Cleidocranial dysplasia (CCD) spectrum disorder is a skeletal dysplasia that represents a clinical continuum ranging from classic CCD (triad of delayed closure of the.
 - [[clpb-deficiency]] — CLPB ( c aseino l ytic p eptidase B ) deficiency is characterized by neurologic involvement and neutropenia, which can range from severe to mild.
+- [[cnot1-related-vissers-bodmer-syndrome]] — The features of CNOT1 -related Vissers-Bodmer syndrome ( CNOT1 -VIBOS) comprise a spectrum, including developmental delay / intellectual disability (mild to profound.
 
 ## Concepts
 
