@@ -2288,3 +2288,10 @@
 - Raw extract saved: `raw/articles/genereviews-fukuyama-congenital-muscular-dystrophy.md`
 - Created/updated entity page: `entities/fukuyama-congenital-muscular-dystrophy.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Fumarate Hydratase Deficiency
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1506/
+- Raw extract saved: `raw/articles/genereviews-fumarate-hydratase-deficiency.md`
+- Created/updated entity page: `entities/fumarate-hydratase-deficiency.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
