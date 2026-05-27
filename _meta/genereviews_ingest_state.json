@@ -1188,6 +1188,12 @@
       "title": "EBF3 Neurodevelopmental Disorder",
       "when": "2026-05-27 16:31 CST"
     },
+    "https://www.ncbi.nlm.nih.gov/books/n/gene/edmd/": {
+      "slug": "emery-dreifuss-muscular-dystrophy",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1436/",
+      "title": "Emery-Dreifuss Muscular Dystrophy",
+      "when": "2026-05-27 16:32 CST"
+    },
     "https://www.ncbi.nlm.nih.gov/books/n/gene/eds/": {
       "slug": "classic-ehlers-danlos-syndrome",
       "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1244/",

@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-27 | Total pages: 267
+> Last updated: 2026-05-27 | Total pages: 268
 
 ## Entities
 
@@ -269,6 +269,7 @@
 - [[eln-related-cutis-laxa]] — ELN -related cutis laxa is characterized by generalized cutis laxa (ranging from generalized skin redundancy causing excessive skin folds to skin hyperextensibility.
 - [[emanuel-syndrome]] — Emanuel syndrome is characterized by pre- and postnatal growth deficiency, microcephaly, hypotonia, severe developmental delays, ear anomalies, preauricular tags or.
 - [[emc10-related-neurodevelopmental-disorder]] — EMC10 -related neurodevelopmental disorder ( EMC10 -NDD) is characterized by moderate-to-severe developmental delay and mild-to-severe intellectual disability.
+- [[emery-dreifuss-muscular-dystrophy]] — Emery-Dreifuss muscular dystrophy (EDMD) is characterized by the clinical triad of joint contractures that begin in early childhood; slowly progressive muscle weakness.
 
 ## Concepts
 

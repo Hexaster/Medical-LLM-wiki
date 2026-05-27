@@ -1854,3 +1854,10 @@
 - Raw extract saved: `raw/articles/genereviews-emc10-related-neurodevelopmental-disorder.md`
 - Created/updated entity page: `entities/emc10-related-neurodevelopmental-disorder.md`
 - Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
+
+## [2026-05-27] ingest | GeneReviews: Emery-Dreifuss Muscular Dystrophy
+- Source: GeneReviews/NCBI Bookshelf chapter, https://www.ncbi.nlm.nih.gov/books/NBK1116/
+- Chapter URL: https://www.ncbi.nlm.nih.gov/books/NBK1436/
+- Raw extract saved: `raw/articles/genereviews-emery-dreifuss-muscular-dystrophy.md`
+- Created/updated entity page: `entities/emery-dreifuss-muscular-dystrophy.md`
+- Notes: Concise factual chapter summary with GeneReviews source and copyright attribution.
